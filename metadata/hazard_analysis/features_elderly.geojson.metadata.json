@@ -5,20 +5,40 @@
     "version": "1.0.0",
     "encoding": "application/json",
     "alignment": "conceptual",
-    "domain": "non-geographic",
+    "domain": "geographic",
     "aligned_with": [
       {
         "name": "ISO 15836-1:2017",
         "role": "cross-domain resource description",
         "url": "https://www.iso.org/standard/71339.html"
+      },
+      {
+        "name": "ISO 19115-1:2014",
+        "role": "geographic metadata fundamentals",
+        "url": "https://www.iso.org/standard/53798.html"
+      },
+      {
+        "name": "ISO 19115-2:2019",
+        "role": "acquisition and processing lineage",
+        "url": "https://www.iso.org/standard/67039.html"
+      },
+      {
+        "name": "ISO 19157-1:2023",
+        "role": "geographic data quality reporting",
+        "url": "https://www.iso.org/standard/78900.html"
+      },
+      {
+        "name": "ISO 19110:2016",
+        "role": "feature catalogue concepts where applicable",
+        "url": "https://www.iso.org/standard/57303.html"
       }
     ],
     "conformance_note": "This is an OSWM JSON application profile. Geographic ISO concepts are applied only to geographic or mixed resources; the profile does not claim conformance to the ISO 19115-3 XML encoding."
   },
-  "identifier": "https://kauevestena.github.io/opensidewalkmap_beta/metadata/snapshots/node_summary.json.metadata.json",
+  "identifier": "https://kauevestena.github.io/opensidewalkmap_beta/metadata/hazard_analysis/features_elderly.geojson.metadata.json",
   "resource_type": "dataset",
-  "title": "Curitiba — Node Summary",
-  "abstract": "Precomputed summaries used by OSWM web-map charts and printable snapshots. This record describes the JSON distribution at data/snapshots/node_summary.json.",
+  "title": "Curitiba — Features Elderly",
+  "abstract": "Profile-specific hazard evidence, rules, tiles, and terrain-context products. This record describes the GeoJSON distribution at data/hazard_analysis/features_elderly.geojson.",
   "language": "en",
   "responsible_parties": [
     {
@@ -32,7 +52,23 @@
       "url": "https://github.com/kauevestena/opensidewalkmap_beta"
     }
   ],
-  "spatial": null,
+  "spatial": {
+    "scope": "node_coverage",
+    "bbox": [
+      -49.38914,
+      -25.6435043,
+      -49.1843182,
+      -25.3449505
+    ],
+    "bbox_order": [
+      "west",
+      "south",
+      "east",
+      "north"
+    ],
+    "reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+    "geometry": "https://kauevestena.github.io/opensidewalkmap_beta/data/boundaries/polygon.geojson"
+  },
   "temporal": {
     "updated": "2026-08-29T14:13:28+00:00",
     "node_registry": {
@@ -50,16 +86,17 @@
     }
   },
   "lineage": {
-    "process_description": "Derived from the published pedestrian-network layers and web-map themes.",
+    "process_description": "Derived from OSWM pedestrian features, accessibility rules, and configured terrain context.",
     "sources": [
       "data/processed",
-      "OSWM web-map configuration"
+      "OpenStreetMap",
+      "Copernicus DEM"
     ]
   },
   "quality": {
     "scope": "resource",
-    "standard": "OSWM Metadata Profile 1.0",
-    "statement": "The record reports provenance and technical integrity without asserting a universal fitness-for-use threshold.",
+    "standard": "ISO 19157-1:2023",
+    "statement": "The record reports provenance and technical integrity. It does not assert a universal fitness-for-use threshold.",
     "related_report": "https://kauevestena.github.io/opensidewalkmap_beta/quality_check/index.json"
   },
   "rights": {
@@ -78,31 +115,31 @@
     "deterministic": true
   },
   "distribution": {
-    "resource_path": "data/snapshots/node_summary.json",
-    "access_url": "https://kauevestena.github.io/opensidewalkmap_beta/data/snapshots/node_summary.json",
-    "download_url": "https://kauevestena.github.io/opensidewalkmap_beta/data/snapshots/node_summary.json",
-    "media_type": "application/json",
-    "format": "JSON",
-    "byte_size": 31038,
+    "resource_path": "data/hazard_analysis/features_elderly.geojson",
+    "access_url": "https://kauevestena.github.io/opensidewalkmap_beta/data/hazard_analysis/features_elderly.geojson",
+    "download_url": "https://kauevestena.github.io/opensidewalkmap_beta/data/hazard_analysis/features_elderly.geojson",
+    "media_type": "application/geo+json",
+    "format": "GeoJSON",
+    "byte_size": 16648818,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "4a8462e6d285fafcefff1cc71ad8814ab16c27370a651ee14130ea7edd3a6f58"
+      "value": "8a6958c883d85e43ef37f374a3e93cd3443ac2a5e36673f4fc65bfbcb4aae573"
     }
   },
   "links": [
     {
       "rel": "self",
-      "href": "https://kauevestena.github.io/opensidewalkmap_beta/metadata/snapshots/node_summary.json.metadata.json",
+      "href": "https://kauevestena.github.io/opensidewalkmap_beta/metadata/hazard_analysis/features_elderly.geojson.metadata.json",
       "type": "application/json"
     },
     {
       "rel": "describes",
-      "href": "https://kauevestena.github.io/opensidewalkmap_beta/data/snapshots/node_summary.json",
-      "type": "application/json"
+      "href": "https://kauevestena.github.io/opensidewalkmap_beta/data/hazard_analysis/features_elderly.geojson",
+      "type": "application/geo+json"
     },
     {
       "rel": "collection",
-      "href": "https://kauevestena.github.io/opensidewalkmap_beta/metadata/snapshots/index.json",
+      "href": "https://kauevestena.github.io/opensidewalkmap_beta/metadata/hazard_analysis/index.json",
       "type": "application/json"
     }
   ]

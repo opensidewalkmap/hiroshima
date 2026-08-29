@@ -1,7 +1,7 @@
 {
     "schema_version": 1,
     "node_name": "Curitiba",
-    "generated_at": "2026-08-29T04:17:49.482513+00:00",
+    "generated_at": "2026-08-29T14:10:54.446754+00:00",
     "themes": {
         "footway_categories": {
             "kind": "categorical",
