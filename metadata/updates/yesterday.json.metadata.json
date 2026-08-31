@@ -15,21 +15,21 @@
     ],
     "conformance_note": "This is an OSWM JSON application profile. Geographic ISO concepts are applied only to geographic or mixed resources; the profile does not claim conformance to the ISO 19115-3 XML encoding."
   },
-  "identifier": "https://kauevestena.github.io/opensidewalkmap_beta/metadata/updates/yesterday.json.metadata.json",
+  "identifier": "https://opensidewalkmap.github.io/hiroshima/metadata/updates/yesterday.json.metadata.json",
   "resource_type": "dataset",
-  "title": "Curitiba — Yesterday",
+  "title": "Hiroshima, Japan — Yesterday",
   "abstract": "Refresh status, OSM changeset monitoring, and feature-version history. This record describes the JSON distribution at data/updates/yesterday.json.",
   "language": "en",
   "responsible_parties": [
     {
-      "name": "kauevestena",
+      "name": "opensidewalkmap",
       "role": "pointOfContact",
-      "url": "https://github.com/kauevestena"
+      "url": "https://github.com/opensidewalkmap"
     },
     {
       "name": "OpenSidewalkMap",
       "role": "publisher",
-      "url": "https://github.com/kauevestena/opensidewalkmap_beta"
+      "url": "https://github.com/opensidewalkmap/hiroshima"
     }
   ],
   "spatial": null,
@@ -61,7 +61,7 @@
     "scope": "resource",
     "standard": "OSWM Metadata Profile 1.0",
     "statement": "The record reports provenance and technical integrity without asserting a universal fitness-for-use threshold.",
-    "related_report": "https://kauevestena.github.io/opensidewalkmap_beta/quality_check/index.json"
+    "related_report": "https://opensidewalkmap.github.io/hiroshima/quality_check/index.json"
   },
   "rights": {
     "statement": "Licensing and attribution follow the upstream sources and the specific distribution being described."
@@ -80,30 +80,30 @@
   },
   "distribution": {
     "resource_path": "data/updates/yesterday.json",
-    "access_url": "https://kauevestena.github.io/opensidewalkmap_beta/data/updates/yesterday.json",
-    "download_url": "https://kauevestena.github.io/opensidewalkmap_beta/data/updates/yesterday.json",
+    "access_url": "https://opensidewalkmap.github.io/hiroshima/data/updates/yesterday.json",
+    "download_url": "https://opensidewalkmap.github.io/hiroshima/data/updates/yesterday.json",
     "media_type": "application/json",
     "format": "JSON",
-    "byte_size": 728,
+    "byte_size": 339,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "558efc0979a39c58bd1a9c245d87c65aebdfcf246b08ff18974877f8927a3ccc"
+      "value": "3f712619f32e6b70aa09a65cd5f0bfd77131eff0cd6f8b4d1c55f703d05c7774"
     }
   },
   "links": [
     {
       "rel": "self",
-      "href": "https://kauevestena.github.io/opensidewalkmap_beta/metadata/updates/yesterday.json.metadata.json",
+      "href": "https://opensidewalkmap.github.io/hiroshima/metadata/updates/yesterday.json.metadata.json",
       "type": "application/json"
     },
     {
       "rel": "describes",
-      "href": "https://kauevestena.github.io/opensidewalkmap_beta/data/updates/yesterday.json",
+      "href": "https://opensidewalkmap.github.io/hiroshima/data/updates/yesterday.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://kauevestena.github.io/opensidewalkmap_beta/metadata/updates/index.json",
+      "href": "https://opensidewalkmap.github.io/hiroshima/metadata/updates/index.json",
       "type": "application/json"
     }
   ]

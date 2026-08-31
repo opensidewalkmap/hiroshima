@@ -15,21 +15,21 @@
     ],
     "conformance_note": "This is an OSWM JSON application profile. Geographic ISO concepts are applied only to geographic or mixed resources; the profile does not claim conformance to the ISO 19115-3 XML encoding."
   },
-  "identifier": "https://kauevestena.github.io/opensidewalkmap_beta/metadata/hazard_analysis/rules.json.metadata.json",
+  "identifier": "https://opensidewalkmap.github.io/hiroshima/metadata/hazard_analysis/rules.json.metadata.json",
   "resource_type": "model-configuration",
-  "title": "Curitiba — Rules",
+  "title": "Hiroshima, Japan — Rules",
   "abstract": "Profile-specific hazard evidence, rules, tiles, and terrain-context products. This record describes the JSON distribution at data/hazard_analysis/rules.json.",
   "language": "en",
   "responsible_parties": [
     {
-      "name": "kauevestena",
+      "name": "opensidewalkmap",
       "role": "pointOfContact",
-      "url": "https://github.com/kauevestena"
+      "url": "https://github.com/opensidewalkmap"
     },
     {
       "name": "OpenSidewalkMap",
       "role": "publisher",
-      "url": "https://github.com/kauevestena/opensidewalkmap_beta"
+      "url": "https://github.com/opensidewalkmap/hiroshima"
     }
   ],
   "spatial": null,
@@ -61,7 +61,7 @@
     "scope": "resource",
     "standard": "OSWM Metadata Profile 1.0",
     "statement": "The record reports provenance and technical integrity without asserting a universal fitness-for-use threshold.",
-    "related_report": "https://kauevestena.github.io/opensidewalkmap_beta/quality_check/index.json"
+    "related_report": "https://opensidewalkmap.github.io/hiroshima/quality_check/index.json"
   },
   "rights": {
     "statement": "Licensing and attribution follow the upstream sources and the specific distribution being described."
@@ -80,8 +80,8 @@
   },
   "distribution": {
     "resource_path": "data/hazard_analysis/rules.json",
-    "access_url": "https://kauevestena.github.io/opensidewalkmap_beta/data/hazard_analysis/rules.json",
-    "download_url": "https://kauevestena.github.io/opensidewalkmap_beta/data/hazard_analysis/rules.json",
+    "access_url": "https://opensidewalkmap.github.io/hiroshima/data/hazard_analysis/rules.json",
+    "download_url": "https://opensidewalkmap.github.io/hiroshima/data/hazard_analysis/rules.json",
     "media_type": "application/json",
     "format": "JSON",
     "byte_size": 22445,
@@ -93,17 +93,17 @@
   "links": [
     {
       "rel": "self",
-      "href": "https://kauevestena.github.io/opensidewalkmap_beta/metadata/hazard_analysis/rules.json.metadata.json",
+      "href": "https://opensidewalkmap.github.io/hiroshima/metadata/hazard_analysis/rules.json.metadata.json",
       "type": "application/json"
     },
     {
       "rel": "describes",
-      "href": "https://kauevestena.github.io/opensidewalkmap_beta/data/hazard_analysis/rules.json",
+      "href": "https://opensidewalkmap.github.io/hiroshima/data/hazard_analysis/rules.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://kauevestena.github.io/opensidewalkmap_beta/metadata/hazard_analysis/index.json",
+      "href": "https://opensidewalkmap.github.io/hiroshima/metadata/hazard_analysis/index.json",
       "type": "application/json"
     }
   ]
