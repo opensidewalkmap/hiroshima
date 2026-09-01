@@ -6,7 +6,7 @@ on:
     paths:
       - ".oswm/manual-daily-trigger"
   schedule:
-    - cron: "__OSWM_DAILY_CRON__"
+    - cron: "7 9 * * *"
   workflow_dispatch:
     inputs:
       force_regeneration:
