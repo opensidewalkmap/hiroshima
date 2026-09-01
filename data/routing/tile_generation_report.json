@@ -1,0 +1,7 @@
+{
+  "status": "ok",
+  "source": "network.parquet",
+  "source_layer": "routing",
+  "input_features": 26332,
+  "filesize": 3472665
+}

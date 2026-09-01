@@ -1,0 +1,45 @@
+{
+  "node_name": "Hiroshima, Japan",
+  "generated_at": "2026-09-01T06:28:37Z",
+  "bbox": [
+    34.288802,
+    132.178545,
+    34.614767,
+    132.696098
+  ],
+  "keywords_used": [
+    "oswm",
+    "OpenSidewalkMap",
+    "accessibility",
+    "pedestrian"
+  ],
+  "services_queried": [
+    "Tasking Manager",
+    "Pic4Review",
+    "MapRoulette"
+  ],
+  "service_status": {
+    "Tasking Manager": {
+      "status": "ok",
+      "instances": {
+        "https://tasks.hotosm.org/": "ok",
+        "https://tasks.teachosm.org/": "ok",
+        "https://tasks.mapwith.ai/": "ok"
+      }
+    },
+    "Pic4Review": {
+      "status": "ok",
+      "instances": {
+        "https://pic4review.pavie.info/#/": "ok"
+      }
+    },
+    "MapRoulette": {
+      "status": "ok",
+      "instances": {
+        "https://maproulette.org/": "ok"
+      }
+    }
+  },
+  "total_projects_found": 0,
+  "projects": []
+}

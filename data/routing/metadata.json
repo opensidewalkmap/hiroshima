@@ -1,0 +1,125 @@
+{
+  "analytical_network": {
+    "byte_size": 3179438,
+    "feature_count": 26332,
+    "filename": "network.parquet",
+    "format": "GeoParquet"
+  },
+  "binary_graph": {
+    "bounds": [
+      132.185937,
+      34.2351869,
+      132.694139,
+      34.61199
+    ],
+    "byte_size": 9506504,
+    "cell_membership_count": 139295,
+    "directed_edge_count": 262842,
+    "filename": "network.oswmg",
+    "grid_cols": 111,
+    "grid_rows": 99,
+    "node_count": 129848,
+    "profile_count": 4,
+    "profile_order": [
+      "distance",
+      "wheelchair",
+      "blind",
+      "elderly"
+    ],
+    "schema_version": 2,
+    "segment_count": 131421,
+    "sha256": "7f76eb63a263b9128de2bf3d18ad71d195484a49a238c1c03c33c872794111ee",
+    "spatial_index": "uniform_grid",
+    "topology_tolerance": 1e-05
+  },
+  "edge_kind_counts": {
+    "crossing": 6373,
+    "footway": 7616,
+    "sidewalk": 11055,
+    "stairs": 1288
+  },
+  "elevation_provider_fingerprint": "a4a4bc7ab35d623e",
+  "feature_count": 26332,
+  "generated_at": "2026-09-01T06:20:19.237580+00:00",
+  "profile_audit": {
+    "blind": {
+      "grade_bands": {
+        "0": 62,
+        "1-19": 0,
+        "20-39": 5883,
+        "40-59": 20164,
+        "60-79": 208,
+        "80-100": 15
+      },
+      "maximum_grade": 84,
+      "mean_grade": 43.95,
+      "minimum_grade": 0,
+      "most_common_limiting_factors": {
+        "crossing": 77,
+        "incline": 2835,
+        "kerb_detectability": 180,
+        "lighting": 11,
+        "smoothness": 1118,
+        "surface": 16139,
+        "tactile_paving": 5932,
+        "width": 40
+      }
+    },
+    "elderly": {
+      "grade_bands": {
+        "0": 3326,
+        "1-19": 936,
+        "20-39": 2552,
+        "40-59": 19405,
+        "60-79": 113,
+        "80-100": 0
+      },
+      "maximum_grade": 78,
+      "mean_grade": 38.18,
+      "minimum_grade": 0,
+      "most_common_limiting_factors": {
+        "crossing": 3121,
+        "incline": 5632,
+        "kerb": 1884,
+        "smoothness": 1052,
+        "surface": 14597,
+        "width": 46
+      }
+    },
+    "wheelchair": {
+      "grade_bands": {
+        "0": 4262,
+        "1-19": 0,
+        "20-39": 3006,
+        "40-59": 19060,
+        "60-79": 4,
+        "80-100": 0
+      },
+      "maximum_grade": 65,
+      "mean_grade": 34.64,
+      "minimum_grade": 0,
+      "most_common_limiting_factors": {
+        "barrier": 1292,
+        "crossing": 452,
+        "incline": 5123,
+        "kerb": 4408,
+        "smoothness": 1056,
+        "surface": 13954,
+        "width": 47
+      }
+    }
+  },
+  "ruleset_hash": "90797572d833bc88",
+  "ruleset_version": "1.1.0",
+  "schema_version": 1,
+  "slope_source_counts": {
+    "copernicus_glo30": 26176,
+    "copernicus_glo90": 128,
+    "direct_osm_numeric": 2,
+    "missing": 26
+  },
+  "warnings": [
+    "Profile rules are provisional and require participatory calibration.",
+    "Global DEM providers describe terrain trend, not measured sidewalk or cross slope."
+  ]
+}

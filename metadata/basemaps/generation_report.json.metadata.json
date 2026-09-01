@@ -1,0 +1,105 @@
+{
+  "$schema": "https://raw.githubusercontent.com/kauevestena/oswm_codebase/main/metadata/schemas/oswm-metadata.schema.json",
+  "metadata_profile": {
+    "name": "OSWM Metadata Profile",
+    "version": "1.0.0",
+    "encoding": "application/json",
+    "alignment": "conceptual",
+    "domain": "non-geographic",
+    "aligned_with": [
+      {
+        "name": "ISO 15836-1:2017",
+        "role": "cross-domain resource description",
+        "url": "https://www.iso.org/standard/71339.html"
+      }
+    ],
+    "conformance_note": "This is an OSWM JSON application profile. Geographic ISO concepts are applied only to geographic or mixed resources; the profile does not claim conformance to the ISO 19115-3 XML encoding."
+  },
+  "identifier": "https://opensidewalkmap.github.io/hiroshima/metadata/basemaps/generation_report.json.metadata.json",
+  "resource_type": "report",
+  "title": "Hiroshima, Japan — Generation Report",
+  "abstract": "Light and dark PMTiles context basemaps covering the node area. This record describes the JSON distribution at data/basemaps/generation_report.json.",
+  "language": "en",
+  "responsible_parties": [
+    {
+      "name": "opensidewalkmap",
+      "role": "pointOfContact",
+      "url": "https://github.com/opensidewalkmap"
+    },
+    {
+      "name": "OpenSidewalkMap",
+      "role": "publisher",
+      "url": "https://github.com/opensidewalkmap/hiroshima"
+    }
+  ],
+  "spatial": null,
+  "temporal": {
+    "updated": "2026-09-01T06:17:50+00:00",
+    "node_registry": {
+      "Data Fetching": "2026-09-01T06:03:03Z",
+      "Versioning Data": "2026-09-01T06:06:35Z",
+      "Data Pre-Processing": "2026-09-01T06:06:41Z",
+      "Data Quality Tool": "2026-09-01T06:09:29Z",
+      "Completeness Analysis": "2026-09-01T06:16:02Z",
+      "Statistical Charts": "2026-09-01T06:17:50Z"
+    }
+  },
+  "lineage": {
+    "process_description": "Rendered per zoom from OpenFreeMap OpenMapTiles vector data and packaged as static raster PMTiles.",
+    "sources": [
+      "OpenFreeMap",
+      "OpenMapTiles",
+      "OpenStreetMap"
+    ]
+  },
+  "quality": {
+    "scope": "resource",
+    "standard": "OSWM Metadata Profile 1.0",
+    "statement": "The record reports provenance and technical integrity without asserting a universal fitness-for-use threshold.",
+    "related_report": "https://opensidewalkmap.github.io/hiroshima/quality_check/index.json"
+  },
+  "rights": {
+    "statement": "Licensing and attribution follow the upstream sources and the specific distribution being described."
+  },
+  "metadata_generation": {
+    "generator": "oswm_codebase.metadata.metadata_generation",
+    "profile_version": "1.0.0",
+    "generated_at": "2026-09-01T06:17:50+00:00",
+    "code": {
+      "repository": "https://github.com/kauevestena/oswm_codebase",
+      "commit": "181d10276c184265f3de546a941386d9163efc23",
+      "commit_date": "2026-08-29T00:50:56-03:00"
+    },
+    "source_root": "data",
+    "deterministic": true
+  },
+  "distribution": {
+    "resource_path": "data/basemaps/generation_report.json",
+    "access_url": "https://opensidewalkmap.github.io/hiroshima/data/basemaps/generation_report.json",
+    "download_url": "https://opensidewalkmap.github.io/hiroshima/data/basemaps/generation_report.json",
+    "media_type": "application/json",
+    "format": "JSON",
+    "byte_size": 845,
+    "checksum": {
+      "algorithm": "SHA-256",
+      "value": "6d331f14915de194694e83cf79542c4ecc9e332654857b0dda0e32a535c41651"
+    }
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://opensidewalkmap.github.io/hiroshima/metadata/basemaps/generation_report.json.metadata.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "describes",
+      "href": "https://opensidewalkmap.github.io/hiroshima/data/basemaps/generation_report.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "collection",
+      "href": "https://opensidewalkmap.github.io/hiroshima/metadata/basemaps/index.json",
+      "type": "application/json"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "edge_kind_counts": {
+    "crossing": 6373,
+    "footway": 7616,
+    "sidewalk": 11055,
+    "stairs": 1288
+  },
+  "feature_count": 26332,
+  "generated_at": "2026-09-01T06:20:31.266789+00:00",
+  "profile_audit": {
+    "blind": {
+      "most_common_decisive_rules": {
+        "barrier_steps": 924,
+        "crossing_tactile_no": 53,
+        "downhill_5_to_8_33": 3031,
+        "downhill_8_33_to_12_5": 2205,
+        "downhill_over_12_5": 3323,
+        "flush_without_tactile": 9,
+        "lowered_without_tactile": 6,
+        "surface_cobble_sett": 12,
+        "surface_grass": 4,
+        "surface_ground_earth_dirt": 38
+      },
+      "severity_counts": {
+        "0": 16784,
+        "1": 3070,
+        "2": 3095,
+        "3": 3374,
+        "4": 9
+      },
+      "status_counts": {
+        "hazard_detected": 9548,
+        "insufficient_data": 16632,
+        "no_detected_hazard": 152
+      }
+    },
+    "elderly": {
+      "most_common_decisive_rules": {
+        "barrier_steps": 924,
+        "downhill_5_to_8_33": 1490,
+        "downhill_8_33_to_12_5": 1045,
+        "downhill_over_12_5": 1470,
+        "kerb_raised": 12,
+        "surface_compacted_fine_gravel": 21,
+        "surface_ground_earth_dirt": 38,
+        "uphill_5_to_8_33": 1557,
+        "uphill_8_33_to_12_5": 1261,
+        "uphill_over_12_5": 1856
+      },
+      "severity_counts": {
+        "0": 16786,
+        "1": 29,
+        "2": 3086,
+        "3": 3105,
+        "4": 3326
+      },
+      "status_counts": {
+        "hazard_detected": 9546,
+        "insufficient_data": 16626,
+        "no_detected_hazard": 160
+      }
+    },
+    "pedestrian": {
+      "most_common_decisive_rules": {
+        "barrier_steps": 787,
+        "downhill_5_to_8_33": 1555,
+        "downhill_8_33_to_12_5": 1045,
+        "downhill_over_12_5": 1470,
+        "kerb_raised": 12,
+        "surface_cobble_sett": 10,
+        "surface_ground_earth_dirt": 38,
+        "uphill_5_to_8_33": 1632,
+        "uphill_8_33_to_12_5": 1261,
+        "uphill_over_12_5": 1856
+      },
+      "severity_counts": {
+        "0": 16816,
+        "1": 3884,
+        "2": 2306,
+        "3": 3326,
+        "4": 0
+      },
+      "status_counts": {
+        "hazard_detected": 9516,
+        "insufficient_data": 16656,
+        "no_detected_hazard": 160
+      }
+    },
+    "wheelchair": {
+      "most_common_decisive_rules": {
+        "barrier_steps": 1292,
+        "downhill_5_to_8_33": 1483,
+        "downhill_8_33_to_12_5": 1003,
+        "downhill_over_12_5": 92,
+        "kerb_raised": 12,
+        "surface_compacted_fine_gravel": 22,
+        "surface_ground_earth_dirt": 45,
+        "uphill_5_to_8_33": 1551,
+        "uphill_8_33_to_12_5": 1166,
+        "uphill_over_12_5": 3234
+      },
+      "severity_counts": {
+        "0": 16794,
+        "1": 0,
+        "2": 3055,
+        "3": 2221,
+        "4": 4262
+      },
+      "status_counts": {
+        "hazard_detected": 9538,
+        "insufficient_data": 16634,
+        "no_detected_hazard": 160
+      }
+    }
+  },
+  "ruleset_hash": "e92f5f0ebaaf33f5",
+  "ruleset_version": "0.1.0",
+  "schema_version": 1,
+  "slope_source_counts": {
+    "copernicus_glo30": 26176,
+    "copernicus_glo90": 128,
+    "direct_osm_numeric": 2,
+    "missing": 26
+  },
+  "warnings": [
+    "Hazard rules are provisional and require participatory calibration.",
+    "Missing evidence is never converted into a negative claim; unflagged does not mean safe.",
+    "Surface material is used only as a low-confidence proxy where direct smoothness evidence is unavailable.",
+    "Terrain rasters show unsigned contextual potential from a global DSM, never measured sidewalk or cross slope."
+  ]
+}

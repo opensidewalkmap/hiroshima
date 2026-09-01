@@ -1,15 +1,15 @@
 """
-  setup the variables for your city/territory:
+setup the variables for your city/territory:
 
-  all of them are mandatory (do not remove any)!!
+all of them are mandatory (do not remove any)!!
 
-  This file may be outated, the most recent template is available here:
+This file may be outated, the most recent template is available here:
 
-  https://github.com/kauevestena/oswm_codebase/blob/main/other/templates/config.py
+https://github.com/kauevestena/oswm_codebase/blob/main/other/templates/config.py
 
-  you can reset the template by running (from node rootfolder): 
+you can reset the template by running (from node rootfolder):
 
-  sh oswm_codebase/other/templates/copy_config.sh
+sh oswm_codebase/other/templates/copy_config.sh
 
 """
 
@@ -22,11 +22,14 @@ CITY_NAME = "Hiroshima, Japan"
 # simple name, spaces must be replaced by underscores, no special characters, all in lowercase
 CITY_SHORTNAME = "hiroshima"
 
+OSM_RELATION_ID = 4097196
+
 # username, for adresses
 USERNAME = "opensidewalkmap"
 
 # repository name, for many weblink references:
 REPO_NAME = "hiroshima"
+
 
 # BOUNDING BOX:
 # by now is mostly a fallback method, if the API fails to download the city polygon using CITY_NAME

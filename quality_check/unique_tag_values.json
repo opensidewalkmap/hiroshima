@@ -1,0 +1,1356 @@
+{
+    "sidewalks": {
+        "crossing": [
+            "traffic_signals",
+            "unmarked",
+            "marked"
+        ],
+        "highway": [
+            "footway",
+            "steps",
+            "cycleway",
+            "construction"
+        ],
+        "tactile_paving": [
+            "yes",
+            "contrasted",
+            "no",
+            "incorrect",
+            ""
+        ],
+        "bicycle": [
+            "yes",
+            "designated"
+        ],
+        "footway": [
+            "sidewalk"
+        ],
+        "source": [
+            "Bing",
+            "YahooJapan/ALPSMAP",
+            "survey;Bing",
+            "Bing;image",
+            "Bing; GSI/KIBAN 2500,NARO",
+            "Bing,GSImaps/std",
+            "Bing,Dec/2010-Apr/2011;survey",
+            "image,Bing,Dec/2010-Apr/2011;survey",
+            "image;survey;Bing,Dec/2010-Apr/2011",
+            "Bing;GSImaps/ort;survey",
+            "Bing;survey",
+            "image;survey;Bing,2012-08",
+            "GSI/KIBAN 2500,NARO",
+            "GSImaps/std",
+            "survey;Bing,2013-12",
+            "Bing,2013-12",
+            "image;survey;Bing,2013-12",
+            "survey;NRPB of MLIT Japan",
+            "image;survey;Bing",
+            "survey",
+            "GSImaps",
+            "image;survey;GSImaps",
+            "image;survey;Bing,2011-10",
+            "Bing;GSImaps",
+            "image;survey",
+            "GSImaps;Bing",
+            "GSImaps/ort",
+            "survey;GSImaps",
+            "survey;GSImaps;NRPB of MLIT Japan",
+            "GSImaps;survey",
+            "NRPB of MLIT Japan",
+            "NRPB of MLIT Japan;Bing",
+            "survey;NRPB of MLIT Japan;Bing",
+            "DigitalGlobe",
+            "survey;GSImaps;Bing;survey;GSImaps",
+            "survey;GSImaps;Bing",
+            "survey;NRPB of MLIT Japan;Bing;Bing",
+            "survey;GSImaps;NRPB of MLIT Japan;survey;GSImaps;Bing",
+            "GSI/KIBAN 2500",
+            "survey;Bing;survey;NRPB of MLIT Japan",
+            "survey;GSImaps;Bing;survey;Bing",
+            "survey;Bing;Bing",
+            "survey;GSImaps/ort",
+            "GSImaps/ort;survey",
+            "GSImaps/ort;GSImaps/seamlessphoto;survey",
+            "GSImaps/seamlessphoto;survey",
+            "GSImaps/seamlessphoto",
+            "GSImaps/seamlessphoto;Bing",
+            "DigitalGlobe;survey",
+            "GSImaps/std;GSImaps/seamlessphoto",
+            "GSImaps/seamlessphoto;Bing;survey;GSImaps/20240102noto_nanao_0117do;GSImaps/20240102noto_suzu_0114do;GSImaps/20240102noto_anamizu_0117do;GSImaps/20240102noto_wazimahigashi_0114do;GSImaps/20240102noto_wazimanishi_0117do"
+        ],
+        "mapillary": [
+            "505523310630537"
+        ],
+        "name": [
+            "基町地下道",
+            "平和の道",
+            "元安橋北歩道",
+            "文化の道",
+            "元安橋南歩道",
+            "灯和の径",
+            "霞陸橋",
+            "井口地下道",
+            "天神川プロムナード"
+        ],
+        "name:ja": [
+            "基町地下道",
+            "平和の道",
+            "井口地下道"
+        ],
+        "name:en": [
+            "MOTOMACHI CHIKADO",
+            "promenade of peace",
+            "Motoyasu Bridge North Pedestrian Walkway",
+            "Promenade of Culture",
+            "Motoyasu Bridge South Sidewalk"
+        ],
+        "survey:date": [
+            "2018-11-17",
+            "2019-08-11",
+            "2016-10-25",
+            "2018-11-11",
+            "2016-07-10",
+            "2018-09-25",
+            "2019-04-28",
+            "2018-05-04",
+            "2019-05-02",
+            "2018-08-17",
+            "2016-07-24",
+            "2016-10-02",
+            "2016-10-01",
+            "2016-11-04",
+            "2016-12-17",
+            "2017-02-26",
+            "2018-07-27",
+            "2018-06-09",
+            "2018-07-28",
+            "2018-08-14",
+            "2018-08-20",
+            "2018-11-20",
+            "2019-02-02",
+            "2018-09-11"
+        ],
+        "source:name": [
+            "survey"
+        ],
+        "foot": [
+            "yes",
+            "designated"
+        ],
+        "crossing:markings": [
+            "yes"
+        ],
+        "crossing:island": [
+            "yes"
+        ],
+        "note:ja": [
+            "以前の平和大橋の歩道部分へ接続していた歩道の点字ブロック。現在は他の点字ブロックと接していないため特に危険はない。",
+            "以前の平和大橋の歩道部分へ接続していた点字ブロック付きの歩道。現在(2019-11-23確認)もコントラストは低いが点字ブロックは存在しており、設置されている障害物にぶつかる恐れあり。"
+        ],
+        "covered": [
+            "yes",
+            "arcade",
+            "no"
+        ],
+        "noname": [
+            "yes"
+        ],
+        "wheelchair": [
+            "yes"
+        ],
+        "surface": [
+            "paving_stones",
+            "asphalt",
+            "paved",
+            "concrete"
+        ],
+        "horse": [
+            "no"
+        ],
+        "width": [
+            "1"
+        ],
+        "lit": [
+            "yes",
+            "no"
+        ],
+        "motor_vehicle": [
+            "no"
+        ],
+        "layer": [
+            "1",
+            "-1",
+            "-2",
+            "2"
+        ],
+        "oneway": [
+            "no"
+        ],
+        "tunnel": [
+            "yes"
+        ],
+        "bridge": [
+            "yes"
+        ],
+        "area": [
+            "yes"
+        ],
+        "check_date:surface": [
+            "2024-11-08",
+            "2023-03-18",
+            "2023-03-09"
+        ],
+        "cycleway:surface": [
+            "paving_stones",
+            "asphalt"
+        ],
+        "footway:surface": [
+            "paving_stones",
+            "asphalt"
+        ],
+        "segregated": [
+            "no",
+            "yes"
+        ],
+        "name:fr": [
+            "Passerelle piétonne nord du pont Motoyasu",
+            "Passerelle piétonne sud du pont Motoyasu"
+        ],
+        "name:ja-Latn": [
+            "Motoanbashi Kita hodō",
+            "Motoanbashi minami hodō"
+        ],
+        "incline": [
+            "up",
+            "down"
+        ],
+        "smoothness": [
+            "good",
+            "excellent"
+        ],
+        "bridge:name": [
+            "鶴見橋"
+        ],
+        "cycleway:right": [
+            "lane"
+        ],
+        "cycleway:left": [
+            "lane"
+        ],
+        "check_date": [
+            "2025-06-21",
+            "2025-08-03"
+        ],
+        "construction": [
+            "footway"
+        ],
+        "arcade:left": [
+            "open"
+        ],
+        "Bing": [
+            "footway"
+        ]
+    },
+    "crossings": {
+        "button_operated": [
+            "no"
+        ],
+        "crossing": [
+            "traffic_signals",
+            "unmarked",
+            "uncontrolled",
+            "marked",
+            "zebra",
+            "unknown"
+        ],
+        "highway": [
+            "crossing",
+            "footway"
+        ],
+        "tactile_paving": [
+            "yes",
+            "no"
+        ],
+        "traffic_signals:sound": [
+            "yes",
+            "no"
+        ],
+        "traffic_signals:vibration": [
+            "no"
+        ],
+        "bicycle": [
+            "yes",
+            "designated",
+            "no"
+        ],
+        "crossing_ref": [
+            "zebra"
+        ],
+        "footway": [
+            "crossing"
+        ],
+        "source": [
+            "Bing",
+            "survey;Bing",
+            "Bing;survey",
+            "image;survey;Bing",
+            "GSImaps/seamlessphoto",
+            "Bing; GSI/KIBAN 2500,NARO",
+            "image;survey;Bing,2013-12",
+            "image;survey;Bing,Dec/2010-Apr/2011",
+            "DigitalGlobe;survey",
+            "Bing;image",
+            "survey;Bing,2013-12",
+            "image;survey;Bing,Dec/2010-Apr/2011;image;survey;Bing,2013-12",
+            "image;survey;Bing,2012-08",
+            "image;survey;Bing,2011-10",
+            "Bing;GSImaps",
+            "image;survey;GSImaps",
+            "image;survey",
+            "GSImaps;Bing",
+            "survey;GSImaps",
+            "GSImaps;Bing;Bing",
+            "survey",
+            "GSImaps",
+            "survey;NRPB of MLIT Japan",
+            "survey;GSImaps;NRPB of MLIT Japan",
+            "GSImaps;survey",
+            "NRPB of MLIT Japan",
+            "NRPB of MLIT Japan;Bing",
+            "survey;NRPB of MLIT Japan;Bing",
+            "survey;GSImaps;Bing",
+            "survey;NRPB of MLIT Japan;survey;NRPB of MLIT Japan;Bing",
+            "survey;GSImaps;NRPB of MLIT Japan;survey;GSImaps;Bing",
+            "survey;Bing;Bing",
+            "GSI/KIBAN 2500",
+            "survey;GSImaps/ort",
+            "GSImaps/ort;survey",
+            "GSImaps/seamlessphoto;survey",
+            "DigitalGlobe",
+            "GSImaps/std;GSImaps/seamlessphoto",
+            "GSImaps/std"
+        ],
+        "mapillary": [
+            "809486757456104"
+        ],
+        "survey:date": [
+            "2025-12-14",
+            "2018-10-21",
+            "2018-09-11",
+            "2018-08-17",
+            "2016-07-10",
+            "2016-07-24",
+            "2016-10-01",
+            "2016-10-02",
+            "2016-11-04",
+            "2016-12-17",
+            "2017-02-26",
+            "2018-06-09",
+            "2018-08-14",
+            "2018-11-20",
+            "2019-02-02",
+            "2019-05-02",
+            "2018-07-28"
+        ],
+        "foot": [
+            "designated",
+            "yes"
+        ],
+        "crossing:markings": [
+            "no",
+            "zebra",
+            "yes"
+        ],
+        "crossing:island": [
+            "yes",
+            "no"
+        ],
+        "crossing:signals": [
+            "yes"
+        ],
+        "note:ja": [
+            "以前は、unmarked だった様だ。"
+        ],
+        "noname": [
+            "yes"
+        ],
+        "note": [
+            "歩行者用信号機に自転車の表記が削除されていたため"
+        ],
+        "surface": [
+            "asphalt",
+            "paving_stones",
+            "sett"
+        ],
+        "access": [
+            "customers"
+        ],
+        "width": [
+            "1",
+            "4"
+        ],
+        "lit": [
+            "yes"
+        ],
+        "layer": [
+            "1"
+        ],
+        "bridge": [
+            "yes"
+        ],
+        "area": [
+            "yes"
+        ],
+        "check_date:surface": [
+            "2023-03-18"
+        ],
+        "segregated": [
+            "yes"
+        ],
+        "smoothness": [
+            "good",
+            "excellent"
+        ],
+        "cycleway:right": [
+            "lane"
+        ],
+        "cycleway:left": [
+            "lane"
+        ],
+        "office": [
+            "company"
+        ],
+        "disused:highway": [
+            "footway"
+        ],
+        "check:date": [
+            "2023-06-26"
+        ]
+    },
+    "kerbs": {
+        "button_operated": [
+            "no"
+        ],
+        "crossing": [
+            "marked",
+            "uncontrolled",
+            "traffic_signals"
+        ],
+        "highway": [
+            "crossing"
+        ],
+        "tactile_paving": [
+            "no",
+            "yes",
+            "contrasted",
+            "incorrect"
+        ],
+        "traffic_signals:sound": [
+            "no"
+        ],
+        "traffic_signals:vibration": [
+            "no"
+        ],
+        "bicycle": [
+            "yes"
+        ],
+        "crossing_ref": [
+            "zebra"
+        ],
+        "source": [
+            "Bing",
+            "survey",
+            "GSImaps/seamlessphoto;survey",
+            "GSImaps/std;GSImaps/seamlessphoto",
+            "NRPB of MLIT Japan;Bing",
+            "survey;NRPB of MLIT Japan",
+            "survey;Bing",
+            "survey;GSImaps/ort",
+            "DigitalGlobe"
+        ],
+        "mapillary": [
+            "3394567544130273",
+            "218023277022208"
+        ],
+        "ref": [
+            "6"
+        ],
+        "crossing:markings": [
+            "zebra"
+        ],
+        "crossing:island": [
+            "no"
+        ],
+        "crossing:signals": [
+            "no"
+        ],
+        "barrier": [
+            "kerb"
+        ],
+        "covered": [
+            "yes"
+        ],
+        "kerb": [
+            "no",
+            "flush",
+            "lowered",
+            "raised",
+            ";lowered",
+            "yes"
+        ],
+        "check_date:kerb": [
+            "2023-10-02"
+        ],
+        "check_date:tactile_paving": [
+            "2023-03-18"
+        ],
+        "note": [
+            "点状警告ブロックが横断歩道の向きではなく歩道の縁石に沿う向きに設置されており視覚障害者に渡る向きを誤解させる可能性がある",
+            "縁石は、横断歩道の範囲で低い所と高いところがある"
+        ],
+        "wheelchair": [
+            "no",
+            "yes"
+        ],
+        "railway": [
+            "platform"
+        ],
+        "public_transport": [
+            "platform"
+        ],
+        "height": [
+            "0.2",
+            "0.02",
+            "0.15",
+            "0",
+            "0.3",
+            "0.5"
+        ],
+        "layer": [
+            "1"
+        ],
+        "area": [
+            "yes"
+        ],
+        "landuse": [
+            "grass",
+            "flowerbed"
+        ],
+        "natural": [
+            "shrubbery"
+        ],
+        "bench": [
+            "yes"
+        ],
+        "light_rail": [
+            "yes"
+        ],
+        "playground": [
+            "sandpit"
+        ]
+    },
+    "other_footways": {
+        "button_operated": [
+            "yes",
+            "no"
+        ],
+        "crossing": [
+            "traffic_signals",
+            "marked",
+            "island",
+            "uncontrolled"
+        ],
+        "highway": [
+            "crossing",
+            "steps",
+            "pedestrian",
+            "footway",
+            "tertiary",
+            "residential",
+            "path",
+            "track",
+            "cycleway",
+            "unclassified"
+        ],
+        "tactile_paving": [
+            "yes",
+            "no"
+        ],
+        "traffic_signals:sound": [
+            "no",
+            "yes"
+        ],
+        "traffic_signals:vibration": [
+            "no"
+        ],
+        "bicycle": [
+            "yes",
+            "no",
+            "designated",
+            "dismount"
+        ],
+        "footway": [
+            "link",
+            "path",
+            "access_aisle",
+            "yes",
+            "traffic_island",
+            "alley",
+            "r"
+        ],
+        "source": [
+            "survey",
+            "Bing",
+            "NRPB of MLIT Japan",
+            "NRPB of MLIT Japan;local knowledge",
+            "Bing 2012",
+            "Bing;GSImaps/seamlessphoto;survey",
+            "YahooJapan/ALPSMAP;OAM",
+            "YahooJapan/ALPSMAP",
+            "YahooJapan/ALPSMAP; Bing; GSI/KIBAN 2500,NARO",
+            "YahooJapan/ALPSMAP;Bing",
+            "OAM",
+            "Bing;survey",
+            "Bing, 2010/12-2011/4",
+            "survey;Bing",
+            "image;survey;Bing",
+            "Bing,survey",
+            "image,Bing,Dec/2010-Apr/2011;survey",
+            "Bing,Dec/2010-Apr/2011;survey",
+            "image;survey;Bing,Dec/2010-Apr/2011",
+            "image;survey;Bing,Dec/2010-Apr/2011;YahooJapan/ALPSMAP",
+            "Bing;image;survey;Bing,Dec/2010-Apr/2011",
+            "survey;Bing,Dec/2010-Apr/2011",
+            "GSI/KIBAN 2500;NARO",
+            "Bing;image",
+            "image",
+            "image;survey;Bing,2012-08",
+            "Bing,2012-8",
+            "Bing2012-8",
+            "GSI/KIBAN 2500",
+            "image;survey;Bing,2012-05",
+            "GSImaps",
+            "GSImaps/std",
+            "survey;Bing,2013-12",
+            "survey;Bing,2011-10",
+            "image;survey;Bing,2013-12",
+            "image;survey;Bing,2011-10",
+            "survey,Bing",
+            "GSImaps/seamless",
+            "Bing;GSImaps",
+            "GSImaps/ort",
+            "survey; Bing",
+            "image;survey",
+            "survey;GSImaps",
+            "survey;YahooJapan/ALPSMAP",
+            "survey;NRPB of MLIT Japan",
+            "GSImaps;survey",
+            "GSI/Kiban 2500",
+            "survey;GSImaps/ort",
+            "GSImaps/ort;survey",
+            "survey;GSImaps/airphoto",
+            "GSImaps/std;survey",
+            "GSImaps/seamlessphoto;survey",
+            "GSImaps/seamlessphoto",
+            "DigitalGlobe",
+            "DigitalGlobe;survey",
+            "GSI/KIBAN 2500; NARO",
+            "source=DigitalGlobe;survey",
+            "GSImaps/std;survey;DigitalGlobe",
+            "Bing;suevey",
+            "GSImaps/std;GSImaps/seamlessphoto",
+            "DigitalGlobe:survey",
+            "YahooJapan/ALPSMAP;GSI/KIBAN 2500;NARO",
+            "maxar"
+        ],
+        "name": [
+            "青崎第6踏切",
+            "北口広場",
+            "駅前通り",
+            "基町地下道",
+            "ひろしま世界遺産航路",
+            "えびす通り",
+            "天神川プロムナード",
+            "横川 くろすろーど",
+            "御門橋",
+            "跨虹橋",
+            "己斐橋歩道橋",
+            "文化の道",
+            "市道押手山線",
+            "押手山林道",
+            "鷹山林道",
+            "市道穴郷線",
+            "穴郷林道",
+            "中尾林道",
+            "鬼ヶ城山林道",
+            "伯耆迫林道",
+            "奥井野林道",
+            "第二奥井野林道",
+            "土山大谷林道",
+            "備中橋",
+            "白砂谷林道",
+            "根武谷山林道",
+            "恵下谷林道",
+            "林道滝谷線",
+            "恵下谷林道（併）",
+            "東郷山林道（併）",
+            "東郷山林道",
+            "市道東郷山線",
+            "市道恵下谷線",
+            "中国自然歩道",
+            "佐方橋",
+            "椿尾根コース",
+            "鈴ヶ峰登山コース",
+            "波出石歩道橋",
+            "城南地下道",
+            "平和の道",
+            "草津新町第一歩道橋",
+            "舟入南町歩道橋",
+            "本通り",
+            "調馬場",
+            "Promenade of Peace",
+            "比治山スカイウォーク",
+            "十軒屋陸橋",
+            "山手橋歩道橋",
+            "ふれあい広場",
+            "井口明神第一横断歩道橋",
+            "横川駅自由通路",
+            "蟹屋陸橋",
+            "中野横断歩道橋",
+            "平原歩道橋",
+            "星のみち",
+            "レトロバス広場",
+            "ヒヨドリ園地コース;鈴ヶ峰登山コース",
+            "ウグイス園地コース;鈴ヶ峰登山コース",
+            "車田橋歩道橋",
+            "長戸路歩道橋",
+            "戸坂千足歩道橋",
+            "マリーナホップ宮島航路",
+            "瀬戸内シーライン(宇品－小用)",
+            "瀬戸内シーライン(宇品－プリンスホテル前－宮島)",
+            "宇品〜小用",
+            "観音コース",
+            "観音北コース",
+            "二郎杉コース",
+            "白樫尾根コース",
+            "屋代コース",
+            "彩が丘コース",
+            "桜尾根コース",
+            "岡の下側3号歩道橋",
+            "御筋歩道橋",
+            "黄金橋南側連絡通路",
+            "地下連絡道",
+            "八幡東小学校西歩道橋",
+            "皆実陸橋",
+            "下一飯谷林道",
+            "安芸矢野ニュータウン第２歩道橋",
+            "愛宕跨線橋",
+            "中筋地下道",
+            "紙屋町シャレオ中央広場",
+            "瀬戸内シーライン(宇品－プリンスホテル前－小用/宮島)",
+            "瀬戸内シーライン(宇品－プリンスホテル前－小用)",
+            "石崎汽船・瀬戸内海汽船スーパージェット(広島－呉－松山)",
+            "石崎汽船・瀬戸内海汽船クルーズフェリー(広島－呉－松山)",
+            "西広島駅自由通路",
+            "広島駅南北自由通路",
+            "ピースプロムナード",
+            "岡の下川水門橋",
+            "尾長橋",
+            "Peace Message Square",
+            "もとはちこみち",
+            "桜花巷",
+            "映波橋",
+            "古江4号トンネル",
+            "田方3号トンネル",
+            "鈴ヶ峰2号トンネル",
+            "鈴ヶ峰3号トンネル",
+            "龍門橋",
+            "望春橋",
+            "昇仙橋",
+            "爽籟橋",
+            "楊柳橋",
+            "出会いの広場",
+            "市道押手山支線"
+        ],
+        "name:ja": [
+            "青崎第6踏切",
+            "基町地下道",
+            "横川 くろすろーど",
+            "御門橋",
+            "己斐橋歩道橋",
+            "備中橋",
+            "鈴ヶ峰登山コース",
+            "波出石歩道橋",
+            "城南地下道",
+            "草津新町第一歩道橋",
+            "舟入南町歩道橋",
+            "本通り",
+            "十軒屋陸橋",
+            "山手橋歩道橋",
+            "井口明神第一横断歩道橋",
+            "横川駅自由通路",
+            "蟹屋陸橋",
+            "中野横断歩道橋",
+            "平原歩道橋",
+            "星のみち",
+            "ヒヨドリ園地コース;鈴ヶ峰登山コース",
+            "ウグイス園地コース;鈴ヶ峰登山コース",
+            "戸坂千足歩道橋",
+            "マリーナホップ宮島航路",
+            "瀬戸内シーライン(宇品－プリンスホテル前－宮島)",
+            "岡の下側3号歩道橋",
+            "御筋歩道橋",
+            "八幡東小学校西歩道橋",
+            "皆実陸橋",
+            "安芸矢野ニュータウン第２歩道橋",
+            "中筋地下道",
+            "広島駅南北自由通路",
+            "ピースプロムナード",
+            "岡の下川水門橋",
+            "尾長橋"
+        ],
+        "name:en": [
+            "Ekimae-dori",
+            "MOTOMACHI CHIKADO",
+            "World Heritage Sea Route",
+            "Main Gate Bridge",
+            "Straddling rainbow bridge",
+            "Promenade of Culture",
+            "Hondori",
+            "Retro Bus Square",
+            "Hiroshima-Miyajima",
+            "Hiroshima Station Pedestrian Walkway",
+            "Peace Promenade",
+            "Ryūmon Bridge",
+            "Sorai Bridge",
+            "Yōryū Bridge",
+            "Deai Square"
+        ],
+        "description": [
+            "階段の段が低いので、自転車は押して通行可能（体力や自転車によって難度は異なる）"
+        ],
+        "survey:date": [
+            "2018-08-17",
+            "2018-09-11",
+            "2018-09-25",
+            "2018-09-27",
+            "2017-11-25",
+            "2018-08-14",
+            "2023-11-03",
+            "2016-03-19",
+            "2016-03-26",
+            "2016-07-24",
+            "2016-10-01",
+            "2016-10-02",
+            "2016-09-17",
+            "2017-02-18",
+            "2018-06-23",
+            "2018-07-16",
+            "2018-07-14",
+            "2018-07-18",
+            "2018-08-12",
+            "2018-08-20",
+            "2018-02-25;2018-06-23",
+            "2019-08-11"
+        ],
+        "source:name": [
+            "survey"
+        ],
+        "foot": [
+            "yes",
+            "designated"
+        ],
+        "crossing:island": [
+            "no"
+        ],
+        "old_name": [
+            "国道433号"
+        ],
+        "barrier": [
+            "bollard",
+            "gate"
+        ],
+        "note:ja": [
+            "「歩行者用 押しボタン」, 「歩行者用 青時間延長押しボタン」の2つのボタンあり",
+            "歩行者用青時間延長押ボタン",
+            "歩行者用 青時間延長押しボタン",
+            "交通弱者用押しボタン",
+            "「歩行者用 青時間 延長 押しボタン」あり",
+            "歩行者用押しボタン(夜間)"
+        ],
+        "covered": [
+            "yes",
+            "arcade",
+            "colonnade"
+        ],
+        "noname": [
+            "yes"
+        ],
+        "note": [
+            "歩行者用青時間延長押しボタン",
+            "歩行者用青時間延長押しボタンのみあり",
+            "国道433号の旧道(工事中でも歩行者・自転車通行可)",
+            "休止中"
+        ],
+        "wheelchair": [
+            "yes"
+        ],
+        "surface": [
+            "paving_stones",
+            "asphalt",
+            "grass",
+            "compacted",
+            "wood",
+            "paved",
+            "ground",
+            "unpaved",
+            "concrete",
+            "sett",
+            "concrete:plates",
+            "metal",
+            "earth",
+            "stone",
+            "dirt",
+            "gravel"
+        ],
+        "level": [
+            "0;2",
+            "-1",
+            "2",
+            "0",
+            "1",
+            "0;1",
+            "-2"
+        ],
+        "motorcar": [
+            "no"
+        ],
+        "name:ja-Hira": [
+            "あおさきだい6ふみきり",
+            "ごもんばし",
+            "びっちゅうはし",
+            "ながとろほどうきょう",
+            "みすじほどうきょう",
+            "ぴーすぷろむなーど",
+            "おながはし",
+            "りゅうもんばし",
+            "そらいばし",
+            "ようりゅうきょう"
+        ],
+        "railway": [
+            "crossing"
+        ],
+        "access": [
+            "permissive",
+            "yes",
+            "customers"
+        ],
+        "bollard": [
+            "fixed"
+        ],
+        "horse": [
+            "no"
+        ],
+        "material": [
+            "stone"
+        ],
+        "operator": [
+            "アクアネット広島",
+            "株式会社アクアネットサービス",
+            "瀬戸内シーライン株式会社",
+            "ファーストビーチ",
+            "石崎汽船・瀬戸内海汽船"
+        ],
+        "height": [
+            "0.5",
+            "8.29"
+        ],
+        "width": [
+            "0.2",
+            "10",
+            "2",
+            "1",
+            "1.5",
+            "4",
+            "7",
+            "6",
+            "4.2",
+            "１",
+            "2.4",
+            "0.8",
+            "0.7"
+        ],
+        "lit": [
+            "yes",
+            "no"
+        ],
+        "motor_vehicle": [
+            "no",
+            "yes"
+        ],
+        "layer": [
+            "1",
+            "-1",
+            "2",
+            "3",
+            "0",
+            "-2"
+        ],
+        "indoor": [
+            "yes"
+        ],
+        "opening_hours": [
+            "08:30-17:30",
+            "07:00-09:00",
+            "Mo-Fr 09:00-15:00; Sa-Su off; PH off"
+        ],
+        "vehicle": [
+            "no"
+        ],
+        "cycleway:both": [
+            "no"
+        ],
+        "lanes": [
+            "2",
+            "1"
+        ],
+        "oneway": [
+            "yes",
+            "no"
+        ],
+        "sidewalk": [
+            "no"
+        ],
+        "bicycle:conditional": [
+            "no @ (10:00-20:00)"
+        ],
+        "vehicle:conditional": [
+            "yes @ (4:00-10:00)"
+        ],
+        "tunnel": [
+            "yes",
+            "building_passage"
+        ],
+        "maxspeed": [
+            "30",
+            "20",
+            "10"
+        ],
+        "created_by": [
+            "Potlatch 0.10f"
+        ],
+        "bridge": [
+            "yes",
+            "covered"
+        ],
+        "area": [
+            "yes"
+        ],
+        "lane_markings": [
+            "no"
+        ],
+        "source:ja": [
+            "国土画像情報（カラー空中写真）国土計画局",
+            "GSImaps/ort",
+            "GSI/KIBAN 2500"
+        ],
+        "check_date:surface": [
+            "2024-11-08",
+            "2026-04-12",
+            "2023-03-18"
+        ],
+        "cycleway:surface": [
+            "asphalt"
+        ],
+        "footway:surface": [
+            "asphalt"
+        ],
+        "segregated": [
+            "yes",
+            "no"
+        ],
+        "alt_name:en": [
+            "Hiroshima World Heritage River Cruise"
+        ],
+        "duration": [
+            "00:45",
+            "0:25",
+            "00:21",
+            "00:26",
+            "00:05",
+            "00:20",
+            "00:22"
+        ],
+        "interval": [
+            "00:30"
+        ],
+        "route": [
+            "ferry"
+        ],
+        "toll": [
+            "yes"
+        ],
+        "website": [
+            "https://aqua-net-h.co.jp/heritage",
+            "https://www.aqua-net-h.co.jp/mariho/"
+        ],
+        "name:es": [
+            "Puente de la Puerta",
+            "Paseo de la Paz"
+        ],
+        "name:fr": [
+            "Pont Mikado",
+            "Pont arc-en-ciel",
+            "Pont Ryūmon",
+            "Pont Sorai",
+            "Pont Yōryū"
+        ],
+        "name:ja-Latn": [
+            "Gomonbashi",
+            "Kokō-kyō",
+            "Pīsu Puromunādo",
+            "Ryūmon-bashi",
+            "Sōrai-bashi",
+            "Yōryū-kyō"
+        ],
+        "bridge:structure": [
+            "humpback"
+        ],
+        "embankment": [
+            "yes"
+        ],
+        "handrail:center": [
+            "yes",
+            "no"
+        ],
+        "handrail:left": [
+            "yes"
+        ],
+        "handrail:right": [
+            "yes"
+        ],
+        "incline": [
+            "up",
+            "down",
+            "0%",
+            "28°"
+        ],
+        "step_count": [
+            "13",
+            "18",
+            "19",
+            "37",
+            "33",
+            "48",
+            "3",
+            "42",
+            "149",
+            "20",
+            "15",
+            "221",
+            "25",
+            "8",
+            "27",
+            "14",
+            "1",
+            "4",
+            "26",
+            "29",
+            "438",
+            "40",
+            "12",
+            "32",
+            "45",
+            "9",
+            "5",
+            "192",
+            "24",
+            "7",
+            "41",
+            "17",
+            "6",
+            "59",
+            "28",
+            "2",
+            "10"
+        ],
+        "cycleway": [
+            "shared_lane"
+        ],
+        "smoothness": [
+            "good",
+            "excellent",
+            "bad"
+        ],
+        "FIXME": [
+            "cars allowed from time to time, needs checking the times",
+            "cars allowed from time to time but it needs a japanese knowledge to figure those signs out"
+        ],
+        "cutting": [
+            "yes"
+        ],
+        "bridge:name": [
+            "工兵橋",
+            "十軒屋陸橋",
+            "岡の下川水門橋",
+            "尾長橋"
+        ],
+        "wikidata": [
+            "Q23476",
+            "Q11479447",
+            "Q11547459"
+        ],
+        "yh:STRUCTURE": [
+            "地上",
+            "橋"
+        ],
+        "yh:TOTYUMONO": [
+            "供用中"
+        ],
+        "yh:TYPE": [
+            "その他一般道",
+            "石段"
+        ],
+        "yh:WIDTH": [
+            "1.5m未満",
+            "5.5m〜13.0m",
+            "1.5m〜3.0m",
+            "3.0m〜5.5m"
+        ],
+        "yh:WIDTH_RANK": [
+            "5",
+            "2",
+            "4",
+            "3"
+        ],
+        "est_width": [
+            "5.5m〜13.0m",
+            "1.5m未満"
+        ],
+        "tracktype": [
+            "grade1"
+        ],
+        "sac_scale": [
+            "mountain_hiking",
+            "hiking"
+        ],
+        "trail_visibility": [
+            "good",
+            "intermediate",
+            "bad"
+        ],
+        "name:ja_rm": [
+            "JONAN CHIKADO"
+        ],
+        "handrail": [
+            "yes",
+            "no"
+        ],
+        "ramp": [
+            "no",
+            "separate",
+            "yes"
+        ],
+        "check_date": [
+            "2026-03-22",
+            "2024-11-29"
+        ],
+        "abutters": [
+            "retail"
+        ],
+        "fixme": [
+            "根谷川拡張で土手上の道路が大幅に移動したことにより、この小道の接続位置の現状は不詳です",
+            "Exact location unknown"
+        ],
+        "place": [
+            "square"
+        ],
+        "ramp:wheelchair": [
+            "separate"
+        ],
+        "blind:description:ja": [
+            "敷石を頼りに2m直進し横断歩道まで移動、音響信号の音を確認して左に曲がるとゲートパークプラザ、右に曲がると原爆ドーム方面です。",
+            "敷石を頼りに2m直進し横断歩道まで移動、音響信号の音を確認して左に曲がると原爆ドーム、右に曲がるとゲートパークプラザ方面です。"
+        ],
+        "conveying": [
+            "yes",
+            "forward",
+            "backward"
+        ],
+        "escalator_dir": [
+            "up"
+        ],
+        "source_ref": [
+            "http://wiki.osm.org/wiki/GSI_KIBAN"
+        ],
+        "disused:route": [
+            "ferry"
+        ],
+        "mtb:scale:imba": [
+            "0",
+            "1"
+        ],
+        "tunnel:name": [
+            "千同第2号トンネル",
+            "木船1号トンネル"
+        ],
+        "maxheight": [
+            "2.3",
+            "2.2"
+        ],
+        "min_height": [
+            "6.25"
+        ],
+        "hiser": [
+            "GSImaps/ort"
+        ],
+        "service": [
+            "parking_aisle"
+        ],
+        "bridge:name:ja-Hira": [
+            "おかのしたかわすいもんきょう"
+        ],
+        "informal": [
+            "yes"
+        ],
+        "steps": [
+            "down"
+        ],
+        "colonnade:left": [
+            "open"
+        ],
+        "ramp:bicycle": [
+            "yes"
+        ],
+        "ramp:stroller": [
+            "yes"
+        ],
+        "colonnade:right": [
+            "open"
+        ],
+        "type": [
+            "multipolygon"
+        ],
+        "building": [
+            "stadium"
+        ],
+        "building:colour": [
+            "#a6716d"
+        ],
+        "building:levels": [
+            "3"
+        ],
+        "building:min_level": [
+            "2"
+        ],
+        "building:part": [
+            "yes"
+        ],
+        "roof:colour": [
+            "#8e9e9b"
+        ],
+        "wikipedia": [
+            "ja:相生橋"
+        ]
+    }
+}

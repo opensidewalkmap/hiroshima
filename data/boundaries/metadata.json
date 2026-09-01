@@ -1,0 +1,31 @@
+{
+    "place_id": 266666374,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 4097196,
+    "lat": "34.3917241",
+    "lon": "132.4517589",
+    "category": "boundary",
+    "type": "administrative",
+    "place_rank": 16,
+    "importance": 0.6767751137663163,
+    "addresstype": "city",
+    "name": "広島市",
+    "display_name": "広島市, 広島県, 日本",
+    "address": {
+        "city": "広島市",
+        "province": "広島県",
+        "ISO3166-2-lvl4": "JP-34",
+        "country": "日本",
+        "country_code": "jp"
+    },
+    "boundingbox": [
+        "34.2888020",
+        "34.6147670",
+        "132.1785450",
+        "132.6960980"
+    ],
+    "selection": "exact_relation",
+    "requested_place": "Hiroshima, Japan",
+    "requested_relation_id": 4097196
+}

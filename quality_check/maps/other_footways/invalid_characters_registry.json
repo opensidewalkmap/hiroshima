@@ -1,0 +1,1 @@
+[{"category": "invalid_characters", "key": "ANY (check at feature link)", "value": "source=DigitalGlobe;survey", "comment": "The '=' character is used ONLY in textual representation of tags to separate the key from the value"}, {"category": "missing_tags", "key": "surface", "value": "MISSING", "comment": "Surface tag is recommended to assess accessibility"}]
