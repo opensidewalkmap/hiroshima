@@ -1,10 +1,6 @@
 name: data_daily_updating
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - ".oswm/manual-daily-trigger"
   schedule:
     - cron: "7 9 * * *"
   workflow_dispatch:
