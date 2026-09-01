@@ -50,7 +50,11 @@ jobs:
         id: commit
         run: |
           echo "changed=false" >> "$GITHUB_OUTPUT"
-          git add -- oswm_codebase .github/workflows .oswm-managed-files.json
+          # GITHUB_TOKEN cannot push changes to workflow files. Keep the
+          # scheduled updater responsible for the tested gitlink and managed
+          # state; workflow-template synchronization requires a credential
+          # with GitHub's workflows permission.
+          git add -- oswm_codebase .oswm-managed-files.json
           if git diff --cached --quiet; then exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
