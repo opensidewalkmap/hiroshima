@@ -1,9 +1,0 @@
-{
-    "folder": "data/basemaps",
-    "files": [
-        "dark.pmtiles",
-        "generation_report.json",
-        "light.pmtiles"
-    ],
-    "subfolders": []
-}
