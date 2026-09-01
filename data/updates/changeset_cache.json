@@ -48,5 +48,15 @@
         "changes_count": 935,
         "comment": "Added/updated buildings and other POIs.",
         "created_by": "JOSM/1.5 (19555 ja)"
+    },
+    "182281487": {
+        "id": 182281487,
+        "user": "okadatsuneo",
+        "uid": 10163840,
+        "created_at": "2026-05-06T07:31:09Z",
+        "closed_at": "2026-05-06T07:31:12Z",
+        "changes_count": 278,
+        "comment": "Added/updated buildings and other POIs.",
+        "created_by": "JOSM/1.5 (19555 ja)"
     }
 }

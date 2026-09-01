@@ -5,20 +5,40 @@
     "version": "1.0.0",
     "encoding": "application/json",
     "alignment": "conceptual",
-    "domain": "non-geographic",
+    "domain": "geographic",
     "aligned_with": [
       {
         "name": "ISO 15836-1:2017",
         "role": "cross-domain resource description",
         "url": "https://www.iso.org/standard/71339.html"
+      },
+      {
+        "name": "ISO 19115-1:2014",
+        "role": "geographic metadata fundamentals",
+        "url": "https://www.iso.org/standard/53798.html"
+      },
+      {
+        "name": "ISO 19115-2:2019",
+        "role": "acquisition and processing lineage",
+        "url": "https://www.iso.org/standard/67039.html"
+      },
+      {
+        "name": "ISO 19157-1:2023",
+        "role": "geographic data quality reporting",
+        "url": "https://www.iso.org/standard/78900.html"
+      },
+      {
+        "name": "ISO 19110:2016",
+        "role": "feature catalogue concepts where applicable",
+        "url": "https://www.iso.org/standard/57303.html"
       }
     ],
     "conformance_note": "This is an OSWM JSON application profile. Geographic ISO concepts are applied only to geographic or mixed resources; the profile does not claim conformance to the ISO 19115-3 XML encoding."
   },
-  "identifier": "https://opensidewalkmap.github.io/hiroshima/metadata/hazard_analysis/terrain.json.metadata.json",
-  "resource_type": "report",
-  "title": "Hiroshima, Japan — Terrain",
-  "abstract": "Profile-specific hazard evidence, rules, tiles, and terrain-context products. This record describes the JSON distribution at data/hazard_analysis/terrain.json.",
+  "identifier": "https://opensidewalkmap.github.io/hiroshima/metadata/hazard_analysis/features_wheelchair.geojson.metadata.json",
+  "resource_type": "dataset",
+  "title": "Hiroshima, Japan — Features Wheelchair",
+  "abstract": "Profile-specific hazard evidence, rules, tiles, and terrain-context products. This record describes the GeoJSON distribution at data/hazard_analysis/features_wheelchair.geojson.",
   "language": "en",
   "responsible_parties": [
     {
@@ -32,7 +52,23 @@
       "url": "https://github.com/opensidewalkmap/hiroshima"
     }
   ],
-  "spatial": null,
+  "spatial": {
+    "scope": "node_coverage",
+    "bbox": [
+      132.178545,
+      34.288802,
+      132.696098,
+      34.614767
+    ],
+    "bbox_order": [
+      "west",
+      "south",
+      "east",
+      "north"
+    ],
+    "reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+    "geometry": "https://opensidewalkmap.github.io/hiroshima/data/boundaries/polygon.geojson"
+  },
   "temporal": {
     "updated": "2026-09-01T21:04:17+00:00",
     "node_registry": {
@@ -56,8 +92,8 @@
   },
   "quality": {
     "scope": "resource",
-    "standard": "OSWM Metadata Profile 1.0",
-    "statement": "The record reports provenance and technical integrity without asserting a universal fitness-for-use threshold.",
+    "standard": "ISO 19157-1:2023",
+    "statement": "The record reports provenance and technical integrity. It does not assert a universal fitness-for-use threshold.",
     "related_report": "https://opensidewalkmap.github.io/hiroshima/quality_check/index.json"
   },
   "rights": {
@@ -76,27 +112,27 @@
     "deterministic": true
   },
   "distribution": {
-    "resource_path": "data/hazard_analysis/terrain.json",
-    "access_url": "https://opensidewalkmap.github.io/hiroshima/data/hazard_analysis/terrain.json",
-    "download_url": "https://opensidewalkmap.github.io/hiroshima/data/hazard_analysis/terrain.json",
-    "media_type": "application/json",
-    "format": "JSON",
-    "byte_size": 2079,
+    "resource_path": "data/hazard_analysis/features_wheelchair.geojson",
+    "access_url": "https://opensidewalkmap.github.io/hiroshima/data/hazard_analysis/features_wheelchair.geojson",
+    "download_url": "https://opensidewalkmap.github.io/hiroshima/data/hazard_analysis/features_wheelchair.geojson",
+    "media_type": "application/geo+json",
+    "format": "GeoJSON",
+    "byte_size": 26492397,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "fd734f55d32aa042827cb820f893b3fa38106cdba3a491612db0aa2644a23250"
+      "value": "1d33f80b5695e011c934d61f0dddd9736ef533c2c68559868cd4d2647cec0848"
     }
   },
   "links": [
     {
       "rel": "self",
-      "href": "https://opensidewalkmap.github.io/hiroshima/metadata/hazard_analysis/terrain.json.metadata.json",
+      "href": "https://opensidewalkmap.github.io/hiroshima/metadata/hazard_analysis/features_wheelchair.geojson.metadata.json",
       "type": "application/json"
     },
     {
       "rel": "describes",
-      "href": "https://opensidewalkmap.github.io/hiroshima/data/hazard_analysis/terrain.json",
-      "type": "application/json"
+      "href": "https://opensidewalkmap.github.io/hiroshima/data/hazard_analysis/features_wheelchair.geojson",
+      "type": "application/geo+json"
     },
     {
       "rel": "collection",

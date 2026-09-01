@@ -1,7 +1,7 @@
 {
     "schema_version": 1,
     "node_name": "Hiroshima, Japan",
-    "generated_at": "2026-09-01T06:09:17.293753+00:00",
+    "generated_at": "2026-09-01T20:56:22.560322+00:00",
     "themes": {
         "footway_categories": {
             "kind": "categorical",

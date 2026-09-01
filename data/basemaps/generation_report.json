@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "renderer_version": 1,
+  "renderer_version": 2,
   "node": "Hiroshima, Japan",
   "bounds": [
     132.178545,
@@ -10,7 +10,7 @@
   ],
   "source": {
     "tilejson": "https://tiles.openfreemap.org/planet",
-    "versioned_template": "https://tiles.openfreemap.org/planet/20260823_080002_pt/{z}/{x}/{y}.pbf",
+    "versioned_template": "https://tiles.openfreemap.org/planet/20260830_080001_pt/{z}/{x}/{y}.pbf",
     "attribution": "Basemap \u00a9 OpenFreeMap, \u00a9 OpenMapTiles; data \u00a9 OpenStreetMap contributors"
   },
   "min_zoom": 10,
@@ -22,12 +22,12 @@
   "outputs": {
     "light": {
       "path": "data/basemaps/light.pmtiles",
-      "bytes": 59120809
+      "bytes": 60349193
     },
     "dark": {
       "path": "data/basemaps/dark.pmtiles",
-      "bytes": 49953269
+      "bytes": 51337912
     }
   },
-  "elapsed_seconds": 119.94133514999976
+  "elapsed_seconds": 134.95226251799994
 }
