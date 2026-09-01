@@ -50,7 +50,7 @@ jobs:
       - name: Persist the clean reset before regeneration
         run: |
           git add -u -- .
-          git add -- global_params.json config.py
+          git add -- config.py
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           if ! git diff --cached --quiet; then
