@@ -34,7 +34,7 @@
   ],
   "spatial": null,
   "temporal": {
-    "updated": "2026-09-01T21:04:17+00:00",
+    "updated": "2026-09-01T21:13:01+00:00",
     "node_registry": {
       "Data Fetching": "2026-09-01T06:03:03Z",
       "Versioning Data": "2026-09-01T06:06:35Z",
@@ -42,8 +42,8 @@
       "Data Quality Tool": "2026-09-01T20:56:37Z",
       "Completeness Analysis": "2026-09-01T21:04:01Z",
       "Statistical Charts": "2026-09-01T21:04:17Z",
-      "OSWM Codebase Revision": "181d10276c184265f3de546a941386d9163efc23",
-      "Pipeline Success": "2026-09-01T14:08:29Z"
+      "OSWM Codebase Revision": "ed52c58c5e1afd82f406d1dc6bd1ed91d6219ddd",
+      "Pipeline Success": "2026-09-01T21:13:01Z"
     }
   },
   "lineage": {
@@ -66,7 +66,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-09-01T21:04:17+00:00",
+    "generated_at": "2026-09-01T21:13:01+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "ed52c58c5e1afd82f406d1dc6bd1ed91d6219ddd",
@@ -81,10 +81,10 @@
     "download_url": "https://opensidewalkmap.github.io/hiroshima/data/updates/yesterday.json",
     "media_type": "application/json",
     "format": "JSON",
-    "byte_size": 3397,
+    "byte_size": 2,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "ce45bbb52b6c33703e8c2be94c9a0db48d0e01623d311d0c67cb6c37304a9097"
+      "value": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
     }
   },
   "links": [
