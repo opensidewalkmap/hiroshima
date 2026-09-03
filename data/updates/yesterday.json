@@ -1,1 +1,41 @@
-[]
+[
+    {
+        "id": 188403370,
+        "user": "Jakub Trojan",
+        "uid": 273212,
+        "comment": "Specify whether kerbs have tactile paving",
+        "created_at": "2026-09-02T07:12:14Z",
+        "changeset_changes_count": 4,
+        "oswm_changes_count": 4,
+        "changes_count": 4,
+        "additions": 0,
+        "modifications": 4,
+        "deletions": 0
+    },
+    {
+        "id": 188403367,
+        "user": "Jakub Trojan",
+        "uid": 273212,
+        "comment": "Determine the heights of kerbs",
+        "created_at": "2026-09-02T07:12:11Z",
+        "changeset_changes_count": 4,
+        "oswm_changes_count": 4,
+        "changes_count": 4,
+        "additions": 0,
+        "modifications": 4,
+        "deletions": 0
+    },
+    {
+        "id": 188422367,
+        "user": "okadatsuneo",
+        "uid": 10163840,
+        "comment": "Added/updated buildings and other objects.",
+        "created_at": "2026-09-02T14:25:24Z",
+        "changeset_changes_count": 418,
+        "oswm_changes_count": 1,
+        "changes_count": 418,
+        "additions": 0,
+        "modifications": 1,
+        "deletions": 0
+    }
+]
