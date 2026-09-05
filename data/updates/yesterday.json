@@ -1,15 +1,1 @@
-[
-    {
-        "id": 188488491,
-        "user": "Monolo23",
-        "uid": 17519482,
-        "comment": "Reverted, as these paths are used by locals and facilitate navigation in the area.",
-        "created_at": "2026-09-03T18:06:05Z",
-        "changeset_changes_count": 33,
-        "oswm_changes_count": 11,
-        "changes_count": 33,
-        "additions": 0,
-        "modifications": 11,
-        "deletions": 0
-    }
-]
+[]
