@@ -3,6 +3,7 @@
     "files": [
         "categories.json",
         "feature_keys.json",
+        "keys_without_wiki.json",
         "map.geojson",
         "map_registry.json",
         "unique_tag_values.json",

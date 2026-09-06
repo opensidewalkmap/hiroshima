@@ -70,16 +70,17 @@
     "geometry": "https://opensidewalkmap.github.io/hiroshima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-09-04T13:31:30+00:00",
+    "updated": "2026-09-06T12:12:12+00:00",
     "node_registry": {
       "Data Fetching": "2026-09-01T06:03:03Z",
-      "Versioning Data": "2026-09-01T06:06:35Z",
-      "Data Pre-Processing": "2026-09-01T20:53:20Z",
-      "Data Quality Tool": "2026-09-01T20:56:37Z",
+      "Versioning Data": "2026-09-06T12:08:26Z",
+      "Data Pre-Processing": "2026-09-06T12:08:33Z",
+      "Data Quality Tool": "2026-09-06T12:08:43Z",
       "Completeness Analysis": "2026-09-01T21:04:01Z",
-      "Statistical Charts": "2026-09-01T21:04:17Z",
+      "Statistical Charts": "2026-09-06T12:08:50Z",
       "OSWM Codebase Revision": "ed52c58c5e1afd82f406d1dc6bd1ed91d6219ddd",
-      "Pipeline Success": "2026-09-04T13:31:30Z"
+      "Pipeline Success": "2026-09-05T12:42:42Z",
+      "Wiki check for keys": "2026-09-06T12:12:12Z"
     }
   },
   "lineage": {
@@ -101,7 +102,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-09-04T13:31:30+00:00",
+    "generated_at": "2026-09-06T12:12:12+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "ed52c58c5e1afd82f406d1dc6bd1ed91d6219ddd",
@@ -117,10 +118,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/processed/crossings.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 422461,
+      "byte_size": 422530,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "303a1422571b058258a9ea764496c4c9eaeba59f7acbc484062a966de07be8ec"
+        "value": "6af67f2c92adbf57d48f29e9db9d9bc6f8b1a279020fed29f481c4deb6638184"
       }
     },
     {
@@ -129,10 +130,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/processed/kerbs.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 58213,
+      "byte_size": 58219,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "4d833d50983763bab74da81e20cbb3db467821b602bcc13baaf1cd664077ce2d"
+        "value": "80a498ed7a9a3885d03bd27c93c33279393b1d016334287cde413cd552b3c650"
       }
     },
     {
@@ -141,10 +142,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/processed/other_footways.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 1451024,
+      "byte_size": 1449761,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "dabc01fb3266fa0588442eb4469a7ff4dff47b7fd61d0631e426666c98aab59d"
+        "value": "bea219fb63a17b01580d527680df72620357d289e199d5f73899e369d33fdba0"
       }
     },
     {
@@ -165,10 +166,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/processed/sidewalks.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 960471,
+      "byte_size": 960530,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "bdcf49d51c41a1ac4ddcf78bf05a19d664664f771263a362d6a9906e823c9d44"
+        "value": "9da86a70f5e5b8830bdfb7d28442d1c278333a4949a5054e55f0e47508addd12"
       }
     }
   ],

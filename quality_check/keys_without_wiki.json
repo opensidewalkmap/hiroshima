@@ -1,0 +1,22 @@
+{
+    "sidewalks": [
+        "arcade:left",
+        "Bing"
+    ],
+    "crossings": [
+        "check:date"
+    ],
+    "kerbs": [
+        "check_date:kerb",
+        "check_date:tactile_paving"
+    ],
+    "other_footways": [
+        "blind:description:ja",
+        "escalator_dir",
+        "disused:route",
+        "hiser",
+        "bridge:name:ja-Hira",
+        "colonnade:left",
+        "colonnade:right"
+    ]
+}
