@@ -1,1 +1,15 @@
-[]
+[
+    {
+        "id": 188575203,
+        "user": "okadatsuneo",
+        "uid": 10163840,
+        "comment": "Added/updated buildings and other objects.",
+        "created_at": "2026-09-05T14:53:54Z",
+        "changeset_changes_count": 1817,
+        "oswm_changes_count": 1,
+        "changes_count": 1817,
+        "additions": 0,
+        "modifications": 1,
+        "deletions": 0
+    }
+]
