@@ -26,9 +26,6 @@ jobs:
         with:
           fetch-depth: 0
           submodules: false
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
       - name: Check out the exact main-reachable core revision
         id: core
         env:
@@ -45,16 +42,13 @@ jobs:
           git -C oswm_codebase checkout --detach "$REVISION"
           REVISION="$(git -C oswm_codebase rev-parse HEAD)"
           echo "revision=$REVISION" >> "$GITHUB_OUTPUT"
-      - run: python oswm_codebase/special_updates.py
       - name: Commit the exact tested gitlink
         id: commit
         run: |
           echo "changed=false" >> "$GITHUB_OUTPUT"
-          # GITHUB_TOKEN cannot push changes to workflow files. Keep the
-          # scheduled updater responsible for the tested gitlink and managed
-          # state; workflow-template synchronization requires a credential
-          # with GitHub's workflows permission.
-          git add -- oswm_codebase .oswm-managed-files.json
+          # Keep this job limited to the gitlink. GitHub's workflow token cannot
+          # push changes under .github/workflows; those are synchronized separately.
+          git add -- oswm_codebase
           if git diff --cached --quiet; then exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
