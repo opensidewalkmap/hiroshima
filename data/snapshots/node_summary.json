@@ -1,7 +1,7 @@
 {
     "schema_version": 1,
     "node_name": "Hiroshima, Japan",
-    "generated_at": "2026-09-01T20:56:22.560322+00:00",
+    "generated_at": "2026-09-07T15:04:44.682461+00:00",
     "themes": {
         "footway_categories": {
             "kind": "categorical",
@@ -543,51 +543,51 @@
             "unknown": 0,
             "unknownPercent": 0.0,
             "invalid": 0,
-            "min": 0.002738,
-            "max": 22.061602,
-            "mean": 7.440721,
-            "median": 7.014374,
+            "min": 0.005476,
+            "max": 22.078029,
+            "mean": 7.456595,
+            "median": 7.030801,
             "bins": [
                 {
                     "label": "0–<2",
                     "lower": 0.0,
                     "upper": 2.0,
-                    "count": 7627,
+                    "count": 7629,
                     "color": "#90d743"
                 },
                 {
                     "label": "2–<4",
                     "lower": 2.0,
                     "upper": 4.0,
-                    "count": 3295,
+                    "count": 3294,
                     "color": "#35b779"
                 },
                 {
                     "label": "4–<6",
                     "lower": 4.0,
                     "upper": 6.0,
-                    "count": 1118,
+                    "count": 1095,
                     "color": "#21918c"
                 },
                 {
                     "label": "6–<8",
                     "lower": 6.0,
                     "upper": 8.0,
-                    "count": 4030,
+                    "count": 4049,
                     "color": "#31688e"
                 },
                 {
                     "label": "8–<10",
                     "lower": 8.0,
                     "upper": 10.0,
-                    "count": 1805,
+                    "count": 1726,
                     "color": "#443983"
                 },
                 {
                     "label": "10+",
                     "lower": 10.0,
                     "upper": null,
-                    "count": 9656,
+                    "count": 9738,
                     "color": "#440154"
                 }
             ],
@@ -625,7 +625,7 @@
             "invalid": 17,
             "min": 1.0,
             "max": 26.0,
-            "mean": 1.642945,
+            "mean": 1.643018,
             "median": 1.0,
             "bins": [
                 {

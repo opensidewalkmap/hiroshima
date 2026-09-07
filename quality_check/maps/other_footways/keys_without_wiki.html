@@ -58,6 +58,28 @@
     </div>
 
     
+        <div id="category-filter-panel" style="position: absolute; top: calc(var(--topbar-height) + 10px); left: 10px; z-index: 9998; background: rgba(15, 23, 42, 0.95); border: 1px solid rgba(255,255,255,0.1); padding: 10px 15px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); max-height: calc(100vh - var(--topbar-height) - 40px); overflow-y: auto; color: #f8fafc;">
+            <div style="display: flex; justify-content: space-between; align-items: center; cursor: pointer;" onclick="const content = document.getElementById('filter-content'); content.style.display = content.style.display === 'none' ? 'block' : 'none'; const icon = document.getElementById('filter-icon'); icon.textContent = content.style.display === 'none' ? '▼' : '▲';">
+                <h4 style="margin: 0; font-size: 0.95rem; font-weight: 500; color: #00f2fe;">Filter Categories</h4>
+                <span id="filter-icon" style="font-size: 0.8em; margin-left: 15px; color: #94a3b8;">▼</span>
+            </div>
+            <div id="filter-content" style="display: none; margin-top: 10px; border-top: 1px solid rgba(255,255,255,0.1); padding-top: 10px;">
+                
+            <label style="display: block; margin-bottom: 5px; font-size: 0.85rem; cursor: pointer;">
+                <input type="checkbox" class="cat-filter-checkbox" value="keys_without_wiki" checked onchange="applyFilters()"> keys_without_wiki
+            </label>
+        
+            <label style="display: block; margin-bottom: 5px; font-size: 0.85rem; cursor: pointer;">
+                <input type="checkbox" class="cat-filter-checkbox" value="missing_tags" checked onchange="applyFilters()"> missing_tags
+            </label>
+        
+            <label style="display: block; margin-bottom: 5px; font-size: 0.85rem; cursor: pointer;">
+                <input type="checkbox" class="cat-filter-checkbox" value="older_than_five_years" checked onchange="applyFilters()"> older_than_five_years
+            </label>
+        
+            </div>
+        </div>
+        
 
     <div id="map"></div>
 
