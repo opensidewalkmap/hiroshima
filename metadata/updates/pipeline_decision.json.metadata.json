@@ -34,7 +34,7 @@
   ],
   "spatial": null,
   "temporal": {
-    "updated": "2026-09-08T13:42:42+00:00",
+    "updated": "2026-09-08T13:48:34+00:00",
     "node_registry": {
       "Data Fetching": "2026-09-01T06:03:03Z",
       "Versioning Data": "2026-09-06T12:08:26Z",
@@ -42,8 +42,8 @@
       "Data Quality Tool": "2026-09-08T13:35:03Z",
       "Completeness Analysis": "2026-09-08T13:42:29Z",
       "Statistical Charts": "2026-09-08T13:42:42Z",
-      "OSWM Codebase Revision": "bf835ee2ff14405aac47e2a95786df615e25fa77",
-      "Pipeline Success": "2026-09-07T15:16:29Z",
+      "OSWM Codebase Revision": "9355a89512c865702b47ed7fdafb655caf7da425",
+      "Pipeline Success": "2026-09-08T13:48:34Z",
       "Wiki check for keys": "2026-09-06T12:12:12Z"
     }
   },
@@ -67,7 +67,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-09-08T13:42:42+00:00",
+    "generated_at": "2026-09-08T13:48:34+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "9355a89512c865702b47ed7fdafb655caf7da425",
@@ -82,10 +82,10 @@
     "download_url": "https://opensidewalkmap.github.io/hiroshima/data/updates/pipeline_decision.json",
     "media_type": "application/json",
     "format": "JSON",
-    "byte_size": 367,
+    "byte_size": 353,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "c21fbceba16b132d739e2886ff7fe6d7f01e1b5f304ad7ca793731b666d6940c"
+      "value": "787c775feca711b0415544886bd29a8d4d7e847be42914c77409e7a51de12255"
     }
   },
   "links": [
