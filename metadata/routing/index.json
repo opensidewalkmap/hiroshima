@@ -70,16 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/hiroshima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-09-08T13:48:34+00:00",
+    "updated": "2026-09-10T13:40:37+00:00",
     "node_registry": {
       "Data Fetching": "2026-09-01T06:03:03Z",
       "Versioning Data": "2026-09-06T12:08:26Z",
-      "Data Pre-Processing": "2026-09-08T13:34:11Z",
-      "Data Quality Tool": "2026-09-08T13:35:03Z",
-      "Completeness Analysis": "2026-09-08T13:42:29Z",
-      "Statistical Charts": "2026-09-08T13:42:42Z",
+      "Data Pre-Processing": "2026-09-10T13:33:51Z",
+      "Data Quality Tool": "2026-09-10T13:34:53Z",
+      "Completeness Analysis": "2026-09-10T13:40:24Z",
+      "Statistical Charts": "2026-09-10T13:40:37Z",
       "OSWM Codebase Revision": "9355a89512c865702b47ed7fdafb655caf7da425",
-      "Pipeline Success": "2026-09-08T13:48:34Z",
+      "Pipeline Success": "2026-09-09T13:43:19Z",
       "Wiki check for keys": "2026-09-06T12:12:12Z"
     }
   },
@@ -103,11 +103,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-09-08T13:48:34+00:00",
+    "generated_at": "2026-09-10T13:40:37+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "9355a89512c865702b47ed7fdafb655caf7da425",
-      "commit_date": "2026-09-07T20:26:59+09:00"
+      "commit": "ec230ff28d3fbf7433bdd602df2041c2f08f2e35",
+      "commit_date": "2026-09-09T18:15:00-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -122,7 +122,7 @@
       "byte_size": 2951,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "8d2187cf6a53ddd5e0d4c22c608b2b9a0fa1350d494bccc54bd9a085a3ca0c18"
+        "value": "2b8097dd5709388d29cc018b0869f36e773f78fd27d6a614949e708a9eb9ab8c"
       }
     },
     {
@@ -155,10 +155,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/routing/network.pmtiles.metadata.json",
       "media_type": "application/vnd.pmtiles",
       "format": "PMTiles",
-      "byte_size": 3472664,
+      "byte_size": 3472663,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "1b62cca358646138de2d517fd795aa2838dee5e444c3484b70af71bb9e1e7420"
+        "value": "8f5964ed4cbd214f2d4af9137089caa9729e01a2f705fd2c4e48317293599ac8"
       }
     },
     {
@@ -194,7 +194,7 @@
       "byte_size": 131,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "4e469c9383215fb92ecb2272fb5ebffc91675898747aaadc9fd87621d277c164"
+        "value": "934ec131225b22cbc333ce2e60be0d84f4e47981bea9e06aa43dae2dbd5c68ab"
       }
     }
   ],

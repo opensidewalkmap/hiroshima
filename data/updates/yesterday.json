@@ -1,28 +1,15 @@
 [
     {
-        "id": 188744911,
-        "user": "Monolo23",
-        "uid": 17519482,
-        "comment": "Arreglos y adiciones / Fixes and additions",
-        "created_at": "2026-09-08T21:42:03Z",
-        "changeset_changes_count": 11,
-        "oswm_changes_count": 11,
-        "changes_count": 11,
-        "additions": 0,
-        "modifications": 11,
-        "deletions": 0
-    },
-    {
-        "id": 188736127,
+        "id": 188784088,
         "user": "sal088",
         "uid": 24526969,
-        "comment": "店舗情報追加",
-        "created_at": "2026-09-08T17:46:22Z",
-        "changeset_changes_count": 31,
-        "oswm_changes_count": 3,
-        "changes_count": 31,
-        "additions": 3,
-        "modifications": 0,
+        "comment": "店舗情報更新",
+        "created_at": "2026-09-09T16:58:10Z",
+        "changeset_changes_count": 2,
+        "oswm_changes_count": 1,
+        "changes_count": 2,
+        "additions": 0,
+        "modifications": 1,
         "deletions": 0
     }
 ]
