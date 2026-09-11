@@ -70,16 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/hiroshima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-09-10T13:40:37+00:00",
+    "updated": "2026-09-11T13:39:01+00:00",
     "node_registry": {
       "Data Fetching": "2026-09-01T06:03:03Z",
       "Versioning Data": "2026-09-06T12:08:26Z",
-      "Data Pre-Processing": "2026-09-10T13:33:51Z",
-      "Data Quality Tool": "2026-09-10T13:34:53Z",
-      "Completeness Analysis": "2026-09-10T13:40:24Z",
-      "Statistical Charts": "2026-09-10T13:40:37Z",
-      "OSWM Codebase Revision": "9355a89512c865702b47ed7fdafb655caf7da425",
-      "Pipeline Success": "2026-09-09T13:43:19Z",
+      "Data Pre-Processing": "2026-09-11T13:32:09Z",
+      "Data Quality Tool": "2026-09-11T13:33:08Z",
+      "Completeness Analysis": "2026-09-11T13:38:48Z",
+      "Statistical Charts": "2026-09-11T13:39:01Z",
+      "OSWM Codebase Revision": "ec230ff28d3fbf7433bdd602df2041c2f08f2e35",
+      "Pipeline Success": "2026-09-10T13:46:41Z",
       "Wiki check for keys": "2026-09-06T12:12:12Z"
     }
   },
@@ -102,11 +102,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-09-10T13:40:37+00:00",
+    "generated_at": "2026-09-11T13:39:01+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "ec230ff28d3fbf7433bdd602df2041c2f08f2e35",
-      "commit_date": "2026-09-09T18:15:00-03:00"
+      "commit": "3023fa63ac1616fee45d5e874ef4278b3ca0b5ca",
+      "commit_date": "2026-09-10T09:30:35-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -117,10 +117,10 @@
     "download_url": "https://opensidewalkmap.github.io/hiroshima/data/processed/roads_for_completeness.parquet",
     "media_type": "application/vnd.apache.parquet",
     "format": "GeoParquet",
-    "byte_size": 5816953,
+    "byte_size": 5816954,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "f6e0f0d8bc82c41adf9bdb2761f32854e7df3b5b4921e4d707df56b3183d5a4e"
+      "value": "cccd5d26f27e5d5433103f33b60aa4a098fe87a8c5bae6f1808295b650ca84b6"
     }
   },
   "links": [
