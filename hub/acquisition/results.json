@@ -1,6 +1,6 @@
 {
   "node_name": "Hiroshima, Japan",
-  "generated_at": "2026-09-11T13:44:31Z",
+  "generated_at": "2026-09-12T12:52:40Z",
   "bbox": [
     34.288802,
     132.178545,
@@ -40,6 +40,23 @@
       }
     }
   },
-  "total_projects_found": 0,
-  "projects": []
+  "total_projects_found": 1,
+  "projects": [
+    {
+      "id": 666,
+      "title": "Building the Street and Sidewalk Basemap for Glidden, Iowa",
+      "service": "Tasking Manager",
+      "instance": "https://tasks.teachosm.org/",
+      "url": "https://tasks.teachosm.org/projects/666",
+      "status": "Published",
+      "description": "The Iowa State University Geospatial Extension Team is working on a community planning project in the City of Glidden, Iowa.  They have asked us to help them get started by mapping the city's streets, alleys, sidewalks, crosswalks, and parks.",
+      "country": [
+        "United States"
+      ],
+      "matched_keywords": [
+        "sidewalk",
+        "walk"
+      ]
+    }
+  ]
 }

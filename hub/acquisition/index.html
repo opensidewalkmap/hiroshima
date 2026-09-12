@@ -320,7 +320,7 @@
     <header>
         <div class="header-inner">
             <h1>&#x1F6B6; OSWM Data Acquisition &mdash; Hiroshima, Japan</h1>
-            <span class="timestamp">2026-09-11 13:44 UTC</span>
+            <span class="timestamp">2026-09-12 12:52 UTC</span>
         </div>
     </header>
 
@@ -365,7 +365,24 @@ const pmtilesProtocol = new PmtilesProtocol();
 maplibregl.addProtocol('pmtiles', pmtilesProtocol.tile);
 const BASEMAP_URL = new URL('../../data/basemaps/light.pmtiles', import.meta.url).href;
 
-const PROJECTS = [];
+const PROJECTS = [
+  {
+    "id": 666,
+    "title": "Building the Street and Sidewalk Basemap for Glidden, Iowa",
+    "service": "Tasking Manager",
+    "instance": "https://tasks.teachosm.org/",
+    "url": "https://tasks.teachosm.org/projects/666",
+    "status": "Published",
+    "description": "The Iowa State University Geospatial Extension Team is working on a community planning project in the City of Glidden, Iowa.  They have asked us to help them get started by mapping the city's streets, alleys, sidewalks, crosswalks, and parks.",
+    "country": [
+      "United States"
+    ],
+    "matched_keywords": [
+      "sidewalk",
+      "walk"
+    ]
+  }
+];
 const SERVICE_STATUS = {
   "Tasking Manager": {
     "status": "ok",
