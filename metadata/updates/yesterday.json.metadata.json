@@ -82,10 +82,10 @@
     "download_url": "https://opensidewalkmap.github.io/hiroshima/data/updates/yesterday.json",
     "media_type": "application/json",
     "format": "JSON",
-    "byte_size": 2,
+    "byte_size": 960,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+      "value": "fc969585263b8ff3f203b626824faf74e0451794ea2a0f25074a467c358139a5"
     }
   },
   "links": [

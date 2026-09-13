@@ -1,1 +1,28 @@
-[]
+[
+    {
+        "id": 188922228,
+        "user": "nmaruichi",
+        "uid": 317331,
+        "comment": "干潮時にも足場としてよくない部分を含む箇所に複数の path が描かれていた。地元に住んでいる立場でも危険性が高いため複数のウェイは不用、橋となる部分は無いため別のタグに修正。 #MappyHourJapan",
+        "created_at": "2026-09-12T15:34:39Z",
+        "changeset_changes_count": 166,
+        "oswm_changes_count": 3,
+        "changes_count": 166,
+        "additions": 1,
+        "modifications": 2,
+        "deletions": 0
+    },
+    {
+        "id": 188898444,
+        "user": "ratrun",
+        "uid": 474183,
+        "comment": "osmi routing view fixes",
+        "created_at": "2026-09-12T04:27:16Z",
+        "changeset_changes_count": 3,
+        "oswm_changes_count": 1,
+        "changes_count": 3,
+        "additions": 0,
+        "modifications": 1,
+        "deletions": 0
+    }
+]
