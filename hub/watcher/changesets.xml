@@ -4,70 +4,86 @@
     <title>OSWM Watcher Changeset Activity - Hiroshima, Japan</title>
     <link>https://opensidewalkmap.github.io/hiroshima/hub/watcher/index.html</link>
     <description>OSM changeset activity monitoring and deletion watch for OpenSidewalkMap interest features in Hiroshima, Japan.</description>
-    <lastBuildDate>Thu, 17 Sep 2026 14:17:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 13:50:32 GMT</lastBuildDate>
     <item>
-        <title>[Activity] OSM Changeset 189108181 by Wish_F (2 additions, 4 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/189108181</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189108181&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Wish_F&quot;&gt;Wish_F&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; 本川町周辺の建物等のトレースと情報の追加&lt;/p&gt;
+        <title>[Activity] OSM Changeset 189136257 by SomeoneElse_Revert (0 additions, 61 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/189136257</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189136257&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/SomeoneElse_Revert&quot;&gt;SomeoneElse_Revert&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Reverting some todo mechanical edits.  See https://www.openstreetmap.org/user_blocks/21276 . &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 61&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189136257&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189136257&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 Sep 2026 01:01:33 GMT</pubDate>
+        <guid isPermaLink="false">activity_189136257</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 189136428 by SomeoneElse_Revert (0 additions, 7 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/189136428</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189136428&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/SomeoneElse_Revert&quot;&gt;SomeoneElse_Revert&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Reverting some mechanical edits with no info as to what was changed.  See https://www.openstreetmap.org/user_blocks/21276 . &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 7&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189136428&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189136428&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 Sep 2026 01:15:07 GMT</pubDate>
+        <guid isPermaLink="false">activity_189136428</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 189165204 by Wish_F (0 additions, 6 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/189165204</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189165204&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Wish_F&quot;&gt;Wish_F&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; 袋町周辺の建物等のトレースと情報の追加&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 6&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189165204&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189165204&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 Sep 2026 14:31:34 GMT</pubDate>
+        <guid isPermaLink="false">activity_189165204</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 189167285 by sal088 (2 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/189167285</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189167285&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/sal088&quot;&gt;sal088&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; 店舗、道路情報更新&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;Additions (creations): 2&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 4&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189108181&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189108181&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 16 Sep 2026 12:04:10 GMT</pubDate>
-        <guid isPermaLink="false">activity_189108181</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 189113038 by Raymondoor (0 additions, 2 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/189113038</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189113038&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Raymondoor&quot;&gt;Raymondoor&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; update koihonmachi&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 2&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189113038&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189113038&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 16 Sep 2026 13:45:36 GMT</pubDate>
-        <guid isPermaLink="false">activity_189113038</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 189114099 by Wish_F (0 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/189114099</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189114099&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Wish_F&quot;&gt;Wish_F&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; 水路の上ではない歩行者通路の橋梁タグを削除&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
     &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189114099&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189114099&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189167285&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189167285&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 16 Sep 2026 14:08:29 GMT</pubDate>
-        <guid isPermaLink="false">activity_189114099</guid>
+        <pubDate>Thu, 17 Sep 2026 15:06:16 GMT</pubDate>
+        <guid isPermaLink="false">activity_189167285</guid>
     </item>
     <item>
-        <title>[Activity] OSM Changeset 189110629 by Wish_F (0 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/189110629</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189110629&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Wish_F&quot;&gt;Wish_F&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; 本川町周辺の建物等のトレースと情報の追加&lt;/p&gt;
+        <title>[Activity] OSM Changeset 189172228 by Wish_F (1 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/189172228</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189172228&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Wish_F&quot;&gt;Wish_F&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; 袋町周辺の情報の追加&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Additions (creations): 1&lt;/li&gt;
     &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189110629&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189110629&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189172228&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189172228&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 16 Sep 2026 12:56:21 GMT</pubDate>
-        <guid isPermaLink="false">activity_189110629</guid>
+        <pubDate>Thu, 17 Sep 2026 16:45:22 GMT</pubDate>
+        <guid isPermaLink="false">activity_189172228</guid>
     </item>
     <item>
         <title>[Alert] High Deletion OSM Changeset 184020827 by okadatsuneo (9 deletions)</title>

@@ -26,14 +26,19 @@
         "name": "ISO 19157-1:2023",
         "role": "geographic data quality reporting",
         "url": "https://www.iso.org/standard/78900.html"
+      },
+      {
+        "name": "ISO 19110:2016",
+        "role": "feature catalogue concepts where applicable",
+        "url": "https://www.iso.org/standard/57303.html"
       }
     ],
     "conformance_note": "This is an OSWM JSON application profile. Geographic ISO concepts are applied only to geographic or mixed resources; the profile does not claim conformance to the ISO 19115-3 XML encoding."
   },
-  "identifier": "https://opensidewalkmap.github.io/hiroshima/metadata/vrts/data_raw.vrt.metadata.json",
-  "resource_type": "dataset-description",
-  "title": "Hiroshima, Japan — Data Raw",
-  "abstract": "GDAL VRT descriptors that group and expose OSWM datasets. This record describes the GDAL VRT distribution at data/vrts/data_raw.vrt.",
+  "identifier": "https://opensidewalkmap.github.io/hiroshima/metadata/hazard_analysis/features_blind.geojson.metadata.json",
+  "resource_type": "dataset",
+  "title": "Hiroshima, Japan — Features Blind",
+  "abstract": "Profile-specific hazard evidence, rules, tiles, and terrain-context products. This record describes the GeoJSON distribution at data/hazard_analysis/features_blind.geojson.",
   "language": "en",
   "responsible_parties": [
     {
@@ -79,11 +84,11 @@
     }
   },
   "lineage": {
-    "process_description": "Generated from the available node data distributions.",
+    "process_description": "Derived from OSWM pedestrian features, accessibility rules, and configured terrain context.",
     "sources": [
       "data/processed",
-      "data/raw",
-      "data/tiles"
+      "OpenStreetMap",
+      "Copernicus DEM"
     ]
   },
   "quality": {
@@ -108,31 +113,31 @@
     "deterministic": true
   },
   "distribution": {
-    "resource_path": "data/vrts/data_raw.vrt",
-    "access_url": "https://opensidewalkmap.github.io/hiroshima/data/vrts/data_raw.vrt",
-    "download_url": "https://opensidewalkmap.github.io/hiroshima/data/vrts/data_raw.vrt",
-    "media_type": "application/xml",
-    "format": "GDAL VRT",
-    "byte_size": 765,
+    "resource_path": "data/hazard_analysis/features_blind.geojson",
+    "access_url": "https://opensidewalkmap.github.io/hiroshima/data/hazard_analysis/features_blind.geojson",
+    "download_url": "https://opensidewalkmap.github.io/hiroshima/data/hazard_analysis/features_blind.geojson",
+    "media_type": "application/geo+json",
+    "format": "GeoJSON",
+    "byte_size": 26311509,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "3db5c2f314077997f6844cf85677ee7646d82db3d3afd3af3487bf9008982540"
+      "value": "f1d230cc62504ceca2e5f5d2e877d12ce0aba96f624f154f20ab9bed1baef6e9"
     }
   },
   "links": [
     {
       "rel": "self",
-      "href": "https://opensidewalkmap.github.io/hiroshima/metadata/vrts/data_raw.vrt.metadata.json",
+      "href": "https://opensidewalkmap.github.io/hiroshima/metadata/hazard_analysis/features_blind.geojson.metadata.json",
       "type": "application/json"
     },
     {
       "rel": "describes",
-      "href": "https://opensidewalkmap.github.io/hiroshima/data/vrts/data_raw.vrt",
-      "type": "application/xml"
+      "href": "https://opensidewalkmap.github.io/hiroshima/data/hazard_analysis/features_blind.geojson",
+      "type": "application/geo+json"
     },
     {
       "rel": "collection",
-      "href": "https://opensidewalkmap.github.io/hiroshima/metadata/vrts/index.json",
+      "href": "https://opensidewalkmap.github.io/hiroshima/metadata/hazard_analysis/index.json",
       "type": "application/json"
     }
   ]
