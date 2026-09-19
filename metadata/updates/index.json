@@ -65,7 +65,7 @@
     "geometry": "https://opensidewalkmap.github.io/hiroshima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-09-18T13:43:12+00:00",
+    "updated": "2026-09-18T13:50:32+00:00",
     "node_registry": {
       "Data Fetching": "2026-09-01T06:03:03Z",
       "Versioning Data": "2026-09-13T13:18:48Z",
@@ -73,8 +73,8 @@
       "Data Quality Tool": "2026-09-18T13:36:41Z",
       "Completeness Analysis": "2026-09-18T13:42:57Z",
       "Statistical Charts": "2026-09-18T13:43:12Z",
-      "OSWM Codebase Revision": "3023fa63ac1616fee45d5e874ef4278b3ca0b5ca",
-      "Pipeline Success": "2026-09-17T14:20:25Z",
+      "OSWM Codebase Revision": "f5fa3e6205344e6fe917e0fb103e80405150dbb4",
+      "Pipeline Success": "2026-09-18T13:50:32Z",
       "Wiki check for keys": "2026-09-13T13:22:13Z"
     }
   },
@@ -98,7 +98,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-09-18T13:43:12+00:00",
+    "generated_at": "2026-09-18T13:50:32+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "f5fa3e6205344e6fe917e0fb103e80405150dbb4",
@@ -138,10 +138,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/updates/pipeline_decision.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 367,
+      "byte_size": 353,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "2d6e47fc7e3aa75cf4a05013d33a946502a5dcf74d42e7590e1b15b52c25a976"
+        "value": "ffbe04e75cd804d6f350f85f3d2731b767b6c176d08f7239769f990d4e6fe469"
       }
     },
     {
@@ -150,10 +150,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/updates/registry.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 470,
+      "byte_size": 471,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "d3acffe191433de1c45b82cb9553f4a7cbf7b3716bdd7cd6b448e25c944c3ae5"
+        "value": "41ed21805a62d2846f414efe3d6e629e7ce0829c2df0d851a618ca4bffa70641"
       }
     },
     {
@@ -165,7 +165,7 @@
       "byte_size": 231,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "6d63708e0de9471ff08962ec5603e26ada523b07baff023b781f29a511e46ee1"
+        "value": "f65b6c576b3d6cf0c225c4d00d63d30a78bace8612567cc2468f0e66ab1fa910"
       }
     },
     {
@@ -177,7 +177,7 @@
       "byte_size": 93566,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "6bcf1fe25fa009214b20f629b3c4c022f1d9653ca2f0719ffa0560841d88dab8"
+        "value": "794809b33225de0155049d83666f6ceff7c2a35a69fdfee8acbc7ba1d9d05e30"
       }
     },
     {
@@ -186,10 +186,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/updates/yesterday.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 2031,
+      "byte_size": 816,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "d6b1dba69d35ae47c75f324b2242e6e462a2aa48ce1dc38dab81b64a5ab540c9"
+        "value": "9ee8f36d8d46e0a266ecdcbfec289b970baac8d2555a5634ff679cec6cfce800"
       }
     }
   ],
