@@ -65,17 +65,17 @@
     "geometry": "https://opensidewalkmap.github.io/hiroshima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-09-18T13:50:32+00:00",
+    "updated": "2026-09-20T13:05:36+00:00",
     "node_registry": {
       "Data Fetching": "2026-09-01T06:03:03Z",
-      "Versioning Data": "2026-09-13T13:18:48Z",
-      "Data Pre-Processing": "2026-09-18T13:35:39Z",
-      "Data Quality Tool": "2026-09-18T13:36:41Z",
+      "Versioning Data": "2026-09-20T13:03:12Z",
+      "Data Pre-Processing": "2026-09-20T13:03:19Z",
+      "Data Quality Tool": "2026-09-20T13:03:30Z",
       "Completeness Analysis": "2026-09-18T13:42:57Z",
-      "Statistical Charts": "2026-09-18T13:43:12Z",
+      "Statistical Charts": "2026-09-20T13:03:37Z",
       "OSWM Codebase Revision": "f5fa3e6205344e6fe917e0fb103e80405150dbb4",
-      "Pipeline Success": "2026-09-18T13:50:32Z",
-      "Wiki check for keys": "2026-09-13T13:22:13Z"
+      "Pipeline Success": "2026-09-19T13:07:56Z",
+      "Wiki check for keys": "2026-09-20T13:05:36Z"
     }
   },
   "lineage": {
@@ -98,11 +98,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-09-18T13:50:32+00:00",
+    "generated_at": "2026-09-20T13:05:36+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "f5fa3e6205344e6fe917e0fb103e80405150dbb4",
-      "commit_date": "2026-09-17T15:30:18-03:00"
+      "commit": "5d7e470015e5e5327cdeaa4d3511d919e4e21d8b",
+      "commit_date": "2026-09-19T11:18:56-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -113,10 +113,10 @@
     "download_url": "https://opensidewalkmap.github.io/hiroshima/data/updates/versioning/sidewalks_versioning.json",
     "media_type": "application/json",
     "format": "JSON",
-    "byte_size": 631677,
+    "byte_size": 631674,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "52f9df0328f984e7656c760e715cc3ddcaf360a912233794cae3aa21d9185191"
+      "value": "ddff2aa207948ce3c1c3b709fea6b532da6cb22bf0bc305e2c7347580dc0d225"
     }
   },
   "links": [
