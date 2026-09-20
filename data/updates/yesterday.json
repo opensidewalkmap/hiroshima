@@ -1,28 +1,15 @@
 [
     {
-        "id": 189210630,
-        "user": "Wish_F",
-        "uid": 6972989,
-        "comment": "西新天地公共広場周辺の建物等のトレース修正と開発情報の追加",
-        "created_at": "2026-09-18T14:01:43Z",
-        "changeset_changes_count": 151,
-        "oswm_changes_count": 2,
-        "changes_count": 151,
+        "id": 189239763,
+        "user": "Fizzie-DWG",
+        "uid": 461130,
+        "comment": "DWG revert - Fictitious mapping",
+        "created_at": "2026-09-19T07:19:36Z",
+        "changeset_changes_count": 194,
+        "oswm_changes_count": 3,
+        "changes_count": 194,
         "additions": 0,
-        "modifications": 2,
-        "deletions": 0
-    },
-    {
-        "id": 189217214,
-        "user": "Wish_F",
-        "uid": 6972989,
-        "comment": "袋町周辺の建物等のトレースと情報の追加",
-        "created_at": "2026-09-18T16:21:27Z",
-        "changeset_changes_count": 102,
-        "oswm_changes_count": 1,
-        "changes_count": 102,
-        "additions": 0,
-        "modifications": 1,
+        "modifications": 3,
         "deletions": 0
     }
 ]
