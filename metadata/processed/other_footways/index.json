@@ -70,16 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/hiroshima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-09-24T14:20:28+00:00",
+    "updated": "2026-09-25T14:46:57+00:00",
     "node_registry": {
       "Data Fetching": "2026-09-01T06:03:03Z",
       "Versioning Data": "2026-09-20T13:03:12Z",
-      "Data Pre-Processing": "2026-09-24T14:12:35Z",
-      "Data Quality Tool": "2026-09-24T14:13:26Z",
-      "Completeness Analysis": "2026-09-24T14:20:16Z",
-      "Statistical Charts": "2026-09-24T14:20:28Z",
-      "OSWM Codebase Revision": "5d7e470015e5e5327cdeaa4d3511d919e4e21d8b",
-      "Pipeline Success": "2026-09-23T14:15:47Z",
+      "Data Pre-Processing": "2026-09-25T14:36:55Z",
+      "Data Quality Tool": "2026-09-25T14:37:48Z",
+      "Completeness Analysis": "2026-09-25T14:46:44Z",
+      "Statistical Charts": "2026-09-25T14:46:57Z",
+      "OSWM Codebase Revision": "231b2d9dc31ff40226041e9097f2a523feae5474",
+      "Pipeline Success": "2026-09-24T14:25:59Z",
       "Wiki check for keys": "2026-09-20T13:05:36Z"
     }
   },
@@ -102,11 +102,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-09-24T14:20:28+00:00",
+    "generated_at": "2026-09-25T14:46:57+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "231b2d9dc31ff40226041e9097f2a523feae5474",
-      "commit_date": "2026-09-23T16:13:34-03:00"
+      "commit": "e66ae89639df209eee5e54399f8722614ff97054",
+      "commit_date": "2026-09-25T06:58:12-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -121,7 +121,7 @@
       "byte_size": 84170,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "9bec526c805a34639043280a8f7d7174defbb4d4419212e87262ebb2a90f0cfa"
+        "value": "44ac0b61110f314d5931c8ae6bda8e3d1ebad34db0ad556fadb951c0b3fa862b"
       }
     },
     {
@@ -130,10 +130,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/processed/other_footways/main_footways.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 475744,
+      "byte_size": 474918,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "ffd977b8890b6d78fd048eb67dde6de1bdd6f15bf6e3869457a15bc7f229b53f"
+        "value": "945a5d53ce5603c034dea9f859761be33e6415d658ef4657888277513f0be7ef"
       }
     },
     {
@@ -142,10 +142,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/processed/other_footways/pedestrian_areas.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 115083,
+      "byte_size": 115080,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "a2bcebf335bde4b0a242bb57c4c5ff305da458942ebc7f202e6485e663c7cc28"
+        "value": "17561e2d562b499c30bdb86def7fc0540e72e570cd535f49a3cee44bebd44151"
       }
     },
     {
@@ -154,10 +154,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/processed/other_footways/potential_footways.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 987953,
+      "byte_size": 988256,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "98c64eece1ce76564b62007be54a99908e7911f4fff2bbeb970aabdbebb436f0"
+        "value": "03700775d12af922a4fff9403a507f57ac7b8c0d6a8d9f848411a55d70c9abdb"
       }
     },
     {
@@ -166,10 +166,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/processed/other_footways/stairways.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 154201,
+      "byte_size": 154020,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "7cf9b50cc0748111b6259400b6668184db7e6c18c92a685fb3ac8a95d678ae01"
+        "value": "4bbd0d0d57b68798cd32fefbc17e3418c5ca0afbdb7fcfe498065806c01208e5"
       }
     }
   ],
