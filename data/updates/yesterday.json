@@ -1,54 +1,15 @@
 [
     {
-        "id": 189545723,
+        "id": 189592396,
         "user": "okadatsuneo",
         "uid": 10163840,
-        "comment": "Aligned ways to aerial image.",
-        "created_at": "2026-09-25T13:41:18Z",
-        "changeset_changes_count": 3388,
-        "oswm_changes_count": 38,
-        "changes_count": 3388,
-        "additions": 19,
-        "modifications": 19,
-        "deletions": 0
-    },
-    {
-        "id": 189549010,
-        "user": "okadatsuneo",
-        "uid": 10163840,
-        "comment": "Aligned ways to aerial image.",
-        "created_at": "2026-09-25T14:50:37Z",
-        "changeset_changes_count": 1031,
-        "oswm_changes_count": 6,
-        "changes_count": 1031,
-        "additions": 1,
-        "modifications": 5,
-        "deletions": 0
-    },
-    {
-        "id": 189531167,
-        "user": "okadatsuneo",
-        "uid": 10163840,
-        "comment": "Aligned ways to aerial image.",
-        "created_at": "2026-09-25T07:58:51Z",
-        "changeset_changes_count": 727,
-        "oswm_changes_count": 3,
-        "changes_count": 727,
-        "additions": 0,
+        "comment": "Added/updated builldings and other objects.",
+        "created_at": "2026-09-26T14:54:55Z",
+        "changeset_changes_count": 924,
+        "oswm_changes_count": 10,
+        "changes_count": 924,
+        "additions": 7,
         "modifications": 3,
-        "deletions": 0
-    },
-    {
-        "id": 189531651,
-        "user": "okadatsuneo",
-        "uid": 10163840,
-        "comment": "Aligned ways to aerial image.",
-        "created_at": "2026-09-25T08:10:26Z",
-        "changeset_changes_count": 145,
-        "oswm_changes_count": 1,
-        "changes_count": 145,
-        "additions": 1,
-        "modifications": 0,
         "deletions": 0
     }
 ]
