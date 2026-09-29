@@ -1,54 +1,15 @@
 [
     {
-        "id": 189633292,
-        "user": "okadatsuneo",
-        "uid": 10163840,
-        "comment": "Added/updated builldings and other objects.",
-        "created_at": "2026-09-27T14:27:13Z",
-        "changeset_changes_count": 1382,
-        "oswm_changes_count": 15,
-        "changes_count": 1382,
-        "additions": 10,
-        "modifications": 5,
-        "deletions": 0
-    },
-    {
-        "id": 189630325,
-        "user": "okadatsuneo",
-        "uid": 10163840,
-        "comment": "Added/updated builldings and other objects.",
-        "created_at": "2026-09-27T13:27:40Z",
-        "changeset_changes_count": 1571,
-        "oswm_changes_count": 8,
-        "changes_count": 1571,
-        "additions": 5,
-        "modifications": 3,
-        "deletions": 0
-    },
-    {
-        "id": 189628347,
-        "user": "okadatsuneo",
-        "uid": 10163840,
-        "comment": "Added/updated builldings and other objects.",
-        "created_at": "2026-09-27T12:42:23Z",
-        "changeset_changes_count": 477,
-        "oswm_changes_count": 7,
-        "changes_count": 477,
-        "additions": 7,
-        "modifications": 0,
-        "deletions": 0
-    },
-    {
-        "id": 189628265,
+        "id": 189681372,
         "user": "nmaruichi",
         "uid": 317331,
-        "comment": "広島はつかいち大橋のアップデート",
-        "created_at": "2026-09-27T12:40:28Z",
-        "changeset_changes_count": 3,
+        "comment": "厳島神社沖を干潟と砂浜に分割",
+        "created_at": "2026-09-28T13:57:36Z",
+        "changeset_changes_count": 42,
         "oswm_changes_count": 1,
-        "changes_count": 3,
-        "additions": 0,
-        "modifications": 1,
+        "changes_count": 42,
+        "additions": 1,
+        "modifications": 0,
         "deletions": 0
     }
 ]

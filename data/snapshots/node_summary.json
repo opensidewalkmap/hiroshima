@@ -1,7 +1,7 @@
 {
     "schema_version": 1,
     "node_name": "Hiroshima, Japan",
-    "generated_at": "2026-09-25T14:37:37.487237+00:00",
+    "generated_at": "2026-09-29T15:47:50.755079+00:00",
     "themes": {
         "footway_categories": {
             "kind": "categorical",
@@ -543,23 +543,23 @@
             "unknown": 0,
             "unknownPercent": 0.0,
             "invalid": 0,
-            "min": 0.019165,
-            "max": 22.12731,
-            "mean": 7.490737,
-            "median": 7.077344,
+            "min": 0.005476,
+            "max": 22.138261,
+            "mean": 7.484481,
+            "median": 6.986995,
             "bins": [
                 {
                     "label": "0–<2",
                     "lower": 0.0,
                     "upper": 2.0,
-                    "count": 7646,
+                    "count": 7689,
                     "color": "#90d743"
                 },
                 {
                     "label": "2–<4",
                     "lower": 2.0,
                     "upper": 4.0,
-                    "count": 3309,
+                    "count": 3306,
                     "color": "#35b779"
                 },
                 {
@@ -573,21 +573,21 @@
                     "label": "6–<8",
                     "lower": 6.0,
                     "upper": 8.0,
-                    "count": 4093,
+                    "count": 4087,
                     "color": "#31688e"
                 },
                 {
                     "label": "8–<10",
                     "lower": 8.0,
                     "upper": 10.0,
-                    "count": 1695,
+                    "count": 1682,
                     "color": "#443983"
                 },
                 {
                     "label": "10+",
                     "lower": 10.0,
                     "upper": null,
-                    "count": 9752,
+                    "count": 9731,
                     "color": "#440154"
                 }
             ],
@@ -625,7 +625,7 @@
             "invalid": 17,
             "min": 1.0,
             "max": 26.0,
-            "mean": 1.645235,
+            "mean": 1.647016,
             "median": 1.0,
             "bins": [
                 {
