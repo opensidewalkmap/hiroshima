@@ -222,6 +222,7 @@
         ],
         "incline": [
             "up",
+            "6%",
             "down"
         ],
         "smoothness": [
@@ -229,7 +230,9 @@
             "excellent"
         ],
         "bridge:name": [
-            "鶴見橋"
+            "鶴見橋",
+            "天満歩道橋",
+            "広電天満橋"
         ],
         "cycleway:right": [
             "lane"
@@ -685,6 +688,7 @@
             "鬼ヶ城山林道",
             "伯耆迫林道",
             "奥井野林道",
+            "市道姫路線",
             "第二奥井野林道",
             "土山大谷林道",
             "備中橋",
@@ -893,7 +897,8 @@
             "休止中"
         ],
         "wheelchair": [
-            "yes"
+            "yes",
+            "no"
         ],
         "surface": [
             "paving_stones",
@@ -1351,6 +1356,9 @@
         ],
         "wikipedia": [
             "ja:相生橋"
+        ],
+        "area:highway": [
+            "footway"
         ]
     }
 }

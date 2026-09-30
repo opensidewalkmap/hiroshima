@@ -70,16 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/hiroshima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-09-29T15:53:15+00:00",
+    "updated": "2026-09-30T11:27:24+00:00",
     "node_registry": {
-      "Data Fetching": "2026-09-01T06:03:03Z",
+      "Data Fetching": "2026-09-30T11:21:15Z",
       "Versioning Data": "2026-09-27T13:51:55Z",
-      "Data Pre-Processing": "2026-09-29T15:44:59Z",
-      "Data Quality Tool": "2026-09-29T15:48:04Z",
-      "Completeness Analysis": "2026-09-29T15:53:01Z",
-      "Statistical Charts": "2026-09-29T15:53:15Z",
-      "OSWM Codebase Revision": "e66ae89639df209eee5e54399f8722614ff97054",
-      "Pipeline Success": "2026-09-28T17:41:33Z",
+      "Data Pre-Processing": "2026-09-30T11:21:22Z",
+      "Data Quality Tool": "2026-09-30T11:22:20Z",
+      "Completeness Analysis": "2026-09-30T11:27:11Z",
+      "Statistical Charts": "2026-09-30T11:27:24Z",
+      "OSWM Codebase Revision": "6ac4a5dc71428ca59abf294afb7bc3bb2ab20a82",
+      "Pipeline Success": "2026-09-29T15:59:53Z",
       "Wiki check for keys": "2026-09-27T13:54:29Z"
     }
   },
@@ -103,11 +103,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-09-29T15:53:15+00:00",
+    "generated_at": "2026-09-30T11:27:24+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "6ac4a5dc71428ca59abf294afb7bc3bb2ab20a82",
-      "commit_date": "2026-09-28T13:20:04-03:00"
+      "commit": "e729ceb75dc90a7fb51b52b526defe1854022a0e",
+      "commit_date": "2026-09-29T14:05:58-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -122,7 +122,7 @@
       "byte_size": 2951,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "6b67db28e987dfb7deb013504642436d73e731dbd6ee3fab55402abcfa9c567b"
+        "value": "2c370f79189f35934adfac99705a33249df4d6934c1f1470253f4af638d84410"
       }
     },
     {
@@ -131,10 +131,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/routing/network.oswmg.metadata.json",
       "media_type": "application/octet-stream",
       "format": "OSWM Binary Graph",
-      "byte_size": 9506504,
+      "byte_size": 9531264,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "7f76eb63a263b9128de2bf3d18ad71d195484a49a238c1c03c33c872794111ee"
+        "value": "72512f848e853822437e43dcdea03e9a9ba774c5da18855d742a3a42c89ddb61"
       }
     },
     {
@@ -143,10 +143,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/routing/network.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 3179438,
+      "byte_size": 3204562,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "79ddea4c74ffaf64219bb2dff024b3a6c1c7ec4044dfbbaa98ee40909b88842e"
+        "value": "bde1bb595e4352a724801610ef0bc4fcaaa50f4dc884c49c810782471e8e5a5f"
       }
     },
     {
@@ -155,10 +155,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/routing/network.pmtiles.metadata.json",
       "media_type": "application/vnd.pmtiles",
       "format": "PMTiles",
-      "byte_size": 3472662,
+      "byte_size": 3482794,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "aaa812cd1c29e38bb711a0cc5990f7426cffb707842292c853796e1a78e7c1e9"
+        "value": "c5cbb951d1d6ae5bb85f6ccf5378d2acad0cea94ff88b63e6966bac10e1d290e"
       }
     },
     {
@@ -170,7 +170,7 @@
       "byte_size": 3922,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "47488706ed75c7021909ece705a0e55b30f867b977a8b251491d520ed9d901df"
+        "value": "2fbaa61bad1f24af33e849cc8c64648208a2df06624449f8a536bc9f8e317cd6"
       }
     },
     {
@@ -179,10 +179,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/routing/slope_cache.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 4651493,
+      "byte_size": 4664667,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "8d01cfb284990202a8a41f315648d81c9eadecbcb3721b7608ca8cfcd0db15ae"
+        "value": "53348a851f38359ee6b6623c760cc841006b40f6e8e646ef55a8a11a65b86433"
       }
     },
     {
@@ -194,7 +194,7 @@
       "byte_size": 131,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "e956e707fa04a831f5c2df240a8fe028268075d3ea51c2225f7b4933eff3c4ef"
+        "value": "d9fb4001d1c3e6f6012b3979d97a3d3d3efe4790bc85320dc5e5987d5cf4f750"
       }
     }
   ],

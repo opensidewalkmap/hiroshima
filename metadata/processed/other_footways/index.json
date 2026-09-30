@@ -70,16 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/hiroshima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-09-29T15:53:15+00:00",
+    "updated": "2026-09-30T11:27:24+00:00",
     "node_registry": {
-      "Data Fetching": "2026-09-01T06:03:03Z",
+      "Data Fetching": "2026-09-30T11:21:15Z",
       "Versioning Data": "2026-09-27T13:51:55Z",
-      "Data Pre-Processing": "2026-09-29T15:44:59Z",
-      "Data Quality Tool": "2026-09-29T15:48:04Z",
-      "Completeness Analysis": "2026-09-29T15:53:01Z",
-      "Statistical Charts": "2026-09-29T15:53:15Z",
-      "OSWM Codebase Revision": "e66ae89639df209eee5e54399f8722614ff97054",
-      "Pipeline Success": "2026-09-28T17:41:33Z",
+      "Data Pre-Processing": "2026-09-30T11:21:22Z",
+      "Data Quality Tool": "2026-09-30T11:22:20Z",
+      "Completeness Analysis": "2026-09-30T11:27:11Z",
+      "Statistical Charts": "2026-09-30T11:27:24Z",
+      "OSWM Codebase Revision": "6ac4a5dc71428ca59abf294afb7bc3bb2ab20a82",
+      "Pipeline Success": "2026-09-29T15:59:53Z",
       "Wiki check for keys": "2026-09-27T13:54:29Z"
     }
   },
@@ -102,11 +102,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-09-29T15:53:15+00:00",
+    "generated_at": "2026-09-30T11:27:24+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "6ac4a5dc71428ca59abf294afb7bc3bb2ab20a82",
-      "commit_date": "2026-09-28T13:20:04-03:00"
+      "commit": "e729ceb75dc90a7fb51b52b526defe1854022a0e",
+      "commit_date": "2026-09-29T14:05:58-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -118,10 +118,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/processed/other_footways/informal_footways.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 84170,
+      "byte_size": 84730,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "45d8dbfbe85e8c305e7beb67522680a8d35de235aa86bad485889a7bcfeff15b"
+        "value": "a51cc773f3b59adc9d2bd84575bee62b82d78a09c592272c139011f795e5ab5b"
       }
     },
     {
@@ -130,10 +130,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/processed/other_footways/main_footways.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 475426,
+      "byte_size": 477644,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "dbe6445919ac193f6e8b717a10c16b22791a291abc02db790e0abbfba1f41043"
+        "value": "f53186bc53d6acda37732bb98a579c200e8772aa396582539476884a0979eae0"
       }
     },
     {
@@ -142,10 +142,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/processed/other_footways/pedestrian_areas.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 115088,
+      "byte_size": 116205,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "a8c93790c69fc681737c44a772b361d60414104acda1f78b4fbc33b13dbcdc27"
+        "value": "6c1868a142467eb82580b586d35ed6252833287f2106ca962e3188180ae576fc"
       }
     },
     {
@@ -154,10 +154,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/processed/other_footways/potential_footways.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 988162,
+      "byte_size": 1009333,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "137ce57818ab4f99951df01fdd83179af89c3ad293ab03064ba01d22936ade61"
+        "value": "de110f121fa1fd8218a25bde6a4944c2e8b9f012000730e2e76bc362b87e1aba"
       }
     },
     {
@@ -166,10 +166,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/processed/other_footways/stairways.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 154192,
+      "byte_size": 155917,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "7ff68527a70281e15b413a0bd92044a896233e98cea5f644edc87cfdc940712c"
+        "value": "cbbe3025d81917915c9d69ddcd12b32e13454e5c4a8ac5dfe50b95bf4c9cf907"
       }
     }
   ],

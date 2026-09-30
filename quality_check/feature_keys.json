@@ -238,6 +238,7 @@
         "building:min_level",
         "building:part",
         "roof:colour",
-        "wikipedia"
+        "wikipedia",
+        "area:highway"
     ]
 }

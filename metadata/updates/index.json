@@ -65,16 +65,16 @@
     "geometry": "https://opensidewalkmap.github.io/hiroshima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-09-29T15:53:15+00:00",
+    "updated": "2026-09-30T11:27:24+00:00",
     "node_registry": {
-      "Data Fetching": "2026-09-01T06:03:03Z",
+      "Data Fetching": "2026-09-30T11:21:15Z",
       "Versioning Data": "2026-09-27T13:51:55Z",
-      "Data Pre-Processing": "2026-09-29T15:44:59Z",
-      "Data Quality Tool": "2026-09-29T15:48:04Z",
-      "Completeness Analysis": "2026-09-29T15:53:01Z",
-      "Statistical Charts": "2026-09-29T15:53:15Z",
-      "OSWM Codebase Revision": "e66ae89639df209eee5e54399f8722614ff97054",
-      "Pipeline Success": "2026-09-28T17:41:33Z",
+      "Data Pre-Processing": "2026-09-30T11:21:22Z",
+      "Data Quality Tool": "2026-09-30T11:22:20Z",
+      "Completeness Analysis": "2026-09-30T11:27:11Z",
+      "Statistical Charts": "2026-09-30T11:27:24Z",
+      "OSWM Codebase Revision": "6ac4a5dc71428ca59abf294afb7bc3bb2ab20a82",
+      "Pipeline Success": "2026-09-29T15:59:53Z",
       "Wiki check for keys": "2026-09-27T13:54:29Z"
     }
   },
@@ -98,11 +98,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-09-29T15:53:15+00:00",
+    "generated_at": "2026-09-30T11:27:24+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "6ac4a5dc71428ca59abf294afb7bc3bb2ab20a82",
-      "commit_date": "2026-09-28T13:20:04-03:00"
+      "commit": "e729ceb75dc90a7fb51b52b526defe1854022a0e",
+      "commit_date": "2026-09-29T14:05:58-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -126,10 +126,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/updates/index.html.metadata.json",
       "media_type": "text/html",
       "format": "HTML",
-      "byte_size": 3421,
+      "byte_size": 3419,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "eb19dd8db87898d97158bc8ba82fd7cb6c18d881f134f49038482867f6d05abf"
+        "value": "fc6d91ed25c536faef0cdb1aff4fa7cb62883d3f845d90a3fc8b61d1655b5961"
       }
     },
     {
@@ -138,10 +138,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/updates/pipeline_decision.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 367,
+      "byte_size": 415,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "e2c54937860184d47c0431cd976af5360a26cd4747395e183737405f61e6a53c"
+        "value": "02baef9b398dcc55b81bef5d2be6ee19a311ae544b6b3177620e35c7e2626f04"
       }
     },
     {
@@ -153,7 +153,7 @@
       "byte_size": 470,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "347857ea3e8566cdad985c61c095c6fc69cad26faf74ced26a6cd30b44315e60"
+        "value": "78ee2c4c0b151b9510ffe66563aadd6f6f5edd9447927a7780267cac37dcf298"
       }
     },
     {
@@ -165,7 +165,7 @@
       "byte_size": 231,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "fabf797ddf0cd17b4ab2f384e69237b8b59ce9d018411cbba0db42c3b2d0ef11"
+        "value": "deb8f631cf5f622109ad6140c0231e428e41bc7cc42cc97f0e94f47e5b3e788f"
       }
     },
     {
@@ -177,7 +177,7 @@
       "byte_size": 93566,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "89925f3bb712b1f39e83a4a58367fe4b35ed933e8b2374a9be0979475c81e7bb"
+        "value": "3da1b0f2f20091cb404b4c1903248045bfa3f403e7f5f3ed72634cef08a34834"
       }
     },
     {
@@ -186,10 +186,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/updates/yesterday.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 379,
+      "byte_size": 1313,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "3edfe04681863e6b6285081585d762bae9ca596c7c0b0566c5618019dd694eeb"
+        "value": "66bfc431dc962e46c3c20b6bfa398154f29c518f08623ed6f754c18e60b76c52"
       }
     }
   ],

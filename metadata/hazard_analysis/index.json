@@ -70,16 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/hiroshima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-09-29T15:53:15+00:00",
+    "updated": "2026-09-30T11:27:24+00:00",
     "node_registry": {
-      "Data Fetching": "2026-09-01T06:03:03Z",
+      "Data Fetching": "2026-09-30T11:21:15Z",
       "Versioning Data": "2026-09-27T13:51:55Z",
-      "Data Pre-Processing": "2026-09-29T15:44:59Z",
-      "Data Quality Tool": "2026-09-29T15:48:04Z",
-      "Completeness Analysis": "2026-09-29T15:53:01Z",
-      "Statistical Charts": "2026-09-29T15:53:15Z",
-      "OSWM Codebase Revision": "e66ae89639df209eee5e54399f8722614ff97054",
-      "Pipeline Success": "2026-09-28T17:41:33Z",
+      "Data Pre-Processing": "2026-09-30T11:21:22Z",
+      "Data Quality Tool": "2026-09-30T11:22:20Z",
+      "Completeness Analysis": "2026-09-30T11:27:11Z",
+      "Statistical Charts": "2026-09-30T11:27:24Z",
+      "OSWM Codebase Revision": "6ac4a5dc71428ca59abf294afb7bc3bb2ab20a82",
+      "Pipeline Success": "2026-09-29T15:59:53Z",
       "Wiki check for keys": "2026-09-27T13:54:29Z"
     }
   },
@@ -103,11 +103,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-09-29T15:53:15+00:00",
+    "generated_at": "2026-09-30T11:27:24+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "6ac4a5dc71428ca59abf294afb7bc3bb2ab20a82",
-      "commit_date": "2026-09-28T13:20:04-03:00"
+      "commit": "e729ceb75dc90a7fb51b52b526defe1854022a0e",
+      "commit_date": "2026-09-29T14:05:58-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -119,10 +119,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/hazard_analysis/features_blind.geojson.metadata.json",
       "media_type": "application/geo+json",
       "format": "GeoJSON",
-      "byte_size": 26311509,
+      "byte_size": 26386793,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "f1d230cc62504ceca2e5f5d2e877d12ce0aba96f624f154f20ab9bed1baef6e9"
+        "value": "5584efc5f52af7657375d9dd7737d3d4c8b530d56bb79b35937d20ff987d943a"
       }
     },
     {
@@ -131,10 +131,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/hazard_analysis/features_blind.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 3190276,
+      "byte_size": 3218904,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "b49f83fb76643251f5adf40885f65e8853dc6ff6fa9b83d6bfaa71503b6f452b"
+        "value": "51d6c8590388ee59d92f0b088d5697d9db6915bb3f8ece98a792b7f05f4a02a1"
       }
     },
     {
@@ -143,10 +143,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/hazard_analysis/features_elderly.geojson.metadata.json",
       "media_type": "application/geo+json",
       "format": "GeoJSON",
-      "byte_size": 26510022,
+      "byte_size": 26586026,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "cf5a2828450eed201a9a4d629f115641615ac58eba0c105c6d7c0eb77355cca0"
+        "value": "47496dae4094bae94fd204857248f6f5448e80dfd03c92a05227bfab38c7756b"
       }
     },
     {
@@ -155,10 +155,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/hazard_analysis/features_elderly.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 3210217,
+      "byte_size": 3236036,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "1a9541d1175d189dcc00e44b835653a670a4f9f3dbe3ab22e6c6542fe52b9dcf"
+        "value": "70604d8a0709f76c81eb45bfc27f3d2e1a2454db8ae954ee5e79d8a0bd8a7183"
       }
     },
     {
@@ -167,10 +167,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/hazard_analysis/features_pedestrian.geojson.metadata.json",
       "media_type": "application/geo+json",
       "format": "GeoJSON",
-      "byte_size": 26360194,
+      "byte_size": 26435810,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "c706214e9abbd56a6e6568440608fd41585d3979c110fa34be2c0f1b4d4f5fd5"
+        "value": "f6244f14f84eb3b7f249bdb9a4b90c7926a61a8e93a8867f482302bbc146f035"
       }
     },
     {
@@ -179,10 +179,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/hazard_analysis/features_pedestrian.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 3183144,
+      "byte_size": 3213932,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "5bb5b6acffbf1bf24746ab4a717af77b42a85c034fdff3a0c7e188b74e6a0a04"
+        "value": "75ee8130be54e3aa59bc3a59fa24493375338538d88d2713025206500cabf977"
       }
     },
     {
@@ -191,10 +191,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/hazard_analysis/features_wheelchair.geojson.metadata.json",
       "media_type": "application/geo+json",
       "format": "GeoJSON",
-      "byte_size": 26492397,
+      "byte_size": 26568659,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "1d33f80b5695e011c934d61f0dddd9736ef533c2c68559868cd4d2647cec0848"
+        "value": "5a374731710a5494b0bb29b398972995fe64fed7e244f902ec07d7b2fb8cc696"
       }
     },
     {
@@ -203,10 +203,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/hazard_analysis/features_wheelchair.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 3202774,
+      "byte_size": 3229266,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "05c6032a49b3d465c27444d29106c70a238accc72208e63396ee023e47b44f5b"
+        "value": "d280882ab077ef482d08c472c75a13849bb9f364d2941a64d8b6c0554620c614"
       }
     },
     {
@@ -215,10 +215,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/hazard_analysis/hazard.pmtiles.metadata.json",
       "media_type": "application/vnd.pmtiles",
       "format": "PMTiles",
-      "byte_size": 26443244,
+      "byte_size": 26529320,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "f22b7cbfc4399ef9c0a38b5faf4c5cafadf9b1ddd8090fac097cd59545ea3f98"
+        "value": "142308db23a2155793c695735f4db7c9801af042eb464e40745bb9f6704fd13f"
       }
     },
     {
@@ -242,7 +242,7 @@
       "byte_size": 3633,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "66e21da530d85f1cda6dc6d156e9987fc99b0f9f6deb57a35873175fdf52e600"
+        "value": "0218b6707b434eeba2764380aa4fc3322e9cc1f758c4f0c36a40df58753846d3"
       }
     },
     {
@@ -278,7 +278,7 @@
       "byte_size": 2079,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "40d9a6f7d21857e454bbf75e8e85b4f83a28c3ef6aad9be1fc847c34c28567ca"
+        "value": "77cf23558dcd9b96723dc75618466fe63b75ba42efcd1418def61d6bff70a1b7"
       }
     },
     {
@@ -338,7 +338,7 @@
       "byte_size": 130,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "4954a487bd211861efdaa0846f434578fb725d0a90ba536a19252e0d63a6a981"
+        "value": "3d6791d3450d46040adae85e4b672dd37e9d87ad98fa808449657ca60dda2c2b"
       }
     }
   ],
