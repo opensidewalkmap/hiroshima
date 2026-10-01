@@ -1,11 +1,12 @@
 {
     "schema_version": 1,
-    "checked_at": "2026-09-30T15:54:50Z",
+    "checked_at": "2026-10-01T12:00:05Z",
     "needs_update": false,
     "layers": {
         "sidewalks": false,
         "crossings": false,
         "kerbs": false,
         "other_footways": false
-    }
+    },
+    "source": "successful_pipeline_refresh"
 }

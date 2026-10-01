@@ -41,14 +41,14 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="../../oswm_codebase/assets/styles/stats_styles.css">
-    <script src="../../oswm_codebase/assets/webscripts/stats_funcs.js"></script>
+    <link rel="stylesheet" href="../../oswm_runtime/assets/styles/stats_styles.css">
+    <script src="../../oswm_runtime/assets/webscripts/stats_funcs.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 
     <title>OSWM Dashboard</title>
 
-    <link rel="icon" type="image/x-icon" href="../../oswm_codebase/assets/branding/favicon_homepage.png">
+    <link rel="icon" type="image/x-icon" href="../../oswm_runtime/assets/branding/favicon_homepage.png">
 
     
   <meta charset="UTF-8">
@@ -61,7 +61,7 @@
   <div id="vis"></div>
   <script>
     (function(vegaEmbed) {
-      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}, "title": {"fontSize": 24}}, "data": {"name": "data-623d287182d07e8f0d93d847228bacd9"}, "mark": {"type": "bar"}, "encoding": {"color": {"field": "length(km)", "type": "quantitative"}, "tooltip": [{"field": "length(km)", "type": "quantitative"}, {"field": "feature count", "type": "quantitative"}, {"field": "category type", "type": "nominal"}], "x": {"field": "category type", "sort": "-y", "type": "nominal"}, "y": {"field": "count", "type": "quantitative"}}, "height": 300, "params": [{"name": "include_filter_out_opt", "bind": {"input": "checkbox", "name": "Include \"?\" (Unknown)"}, "value": true}, {"name": "param_1e9efca18e7a2868", "select": {"type": "interval", "encodings": ["x", "y"]}, "bind": "scales"}], "title": "All-Category Layers Feature Count", "transform": [{"filter": "include_filter_out_opt || datum['category type'] != '?'"}], "width": 650, "$schema": "https://vega.github.io/schema/vega-lite/v6.4.1.json", "datasets": {"data-623d287182d07e8f0d93d847228bacd9": [{"category type": "crossings", "length(km)": 69.91098538971302, "feature count": 6376, "count": 6376}, {"category type": "informal_footways", "length(km)": 138.92342553271453, "feature count": 18, "count": 18}, {"category type": "kerbs", "length(km)": 0.0, "feature count": 1153, "count": 1153}, {"category type": "main_footways", "length(km)": 231.91916331144594, "feature count": 4338, "count": 4338}, {"category type": "pedestrian_areas", "length(km)": 21.861062172563084, "feature count": 65, "count": 65}, {"category type": "potential_footways", "length(km)": 830.4508140978522, "feature count": 3295, "count": 3295}, {"category type": "sidewalks", "length(km)": 896.7666693510762, "feature count": 11057, "count": 11057}, {"category type": "stairways", "length(km)": 18.382148550613845, "feature count": 1308, "count": 1308}]}};
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}, "title": {"fontSize": 24}}, "data": {"name": "data-623d287182d07e8f0d93d847228bacd9"}, "mark": {"type": "bar"}, "encoding": {"color": {"field": "length(km)", "type": "quantitative"}, "tooltip": [{"field": "category type", "type": "nominal"}, {"field": "length(km)", "type": "quantitative"}, {"field": "feature count", "type": "quantitative"}], "x": {"field": "category type", "sort": "-y", "type": "nominal"}, "y": {"field": "count", "type": "quantitative"}}, "height": 300, "params": [{"name": "include_filter_out_opt", "bind": {"input": "checkbox", "name": "Include \"?\" (Unknown)"}, "value": true}, {"name": "param_1e9efca18e7a2868", "select": {"type": "interval", "encodings": ["x", "y"]}, "bind": "scales"}], "title": "All-Category Layers Feature Count", "transform": [{"filter": "include_filter_out_opt || datum['category type'] != '?'"}], "width": 650, "$schema": "https://vega.github.io/schema/vega-lite/v6.4.1.json", "datasets": {"data-623d287182d07e8f0d93d847228bacd9": [{"category type": "crossings", "length(km)": 69.91098538971302, "feature count": 6376, "count": 6376}, {"category type": "informal_footways", "length(km)": 138.92342553271453, "feature count": 18, "count": 18}, {"category type": "kerbs", "length(km)": 0.0, "feature count": 1153, "count": 1153}, {"category type": "main_footways", "length(km)": 231.91916331144594, "feature count": 4338, "count": 4338}, {"category type": "pedestrian_areas", "length(km)": 21.861062172563084, "feature count": 65, "count": 65}, {"category type": "potential_footways", "length(km)": 830.4508140978522, "feature count": 3295, "count": 3295}, {"category type": "sidewalks", "length(km)": 896.7666693510762, "feature count": 11057, "count": 11057}, {"category type": "stairways", "length(km)": 18.382148550613845, "feature count": 1308, "count": 1308}]}};
       var embedOpt = {"mode": "vega-lite"};
 
       function showError(el, error){

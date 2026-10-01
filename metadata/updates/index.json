@@ -65,16 +65,16 @@
     "geometry": "https://opensidewalkmap.github.io/hiroshima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-09-30T11:33:30+00:00",
+    "updated": "2026-10-01T11:52:54+00:00",
     "node_registry": {
-      "Data Fetching": "2026-09-30T11:21:15Z",
+      "Data Fetching": "2026-10-01T11:46:40Z",
       "Versioning Data": "2026-09-27T13:51:55Z",
-      "Data Pre-Processing": "2026-09-30T11:21:22Z",
-      "Data Quality Tool": "2026-09-30T11:22:20Z",
-      "Completeness Analysis": "2026-09-30T11:27:11Z",
-      "Statistical Charts": "2026-09-30T11:27:24Z",
+      "Data Pre-Processing": "2026-10-01T11:46:47Z",
+      "Data Quality Tool": "2026-10-01T11:47:48Z",
+      "Completeness Analysis": "2026-10-01T11:52:41Z",
+      "Statistical Charts": "2026-10-01T11:52:54Z",
       "OSWM Codebase Revision": "e729ceb75dc90a7fb51b52b526defe1854022a0e",
-      "Pipeline Success": "2026-09-30T11:33:30Z",
+      "Pipeline Success": "2026-09-30T15:57:24Z",
       "Wiki check for keys": "2026-09-27T13:54:29Z"
     }
   },
@@ -98,11 +98,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-09-30T11:33:30+00:00",
+    "generated_at": "2026-10-01T11:52:54+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "e729ceb75dc90a7fb51b52b526defe1854022a0e",
-      "commit_date": "2026-09-29T14:05:58-03:00"
+      "commit": "c440c911cb07c1f54658a799a6c1fedb028c0b0a",
+      "commit_date": "2026-09-30T21:27:17-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -126,10 +126,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/updates/index.html.metadata.json",
       "media_type": "text/html",
       "format": "HTML",
-      "byte_size": 3419,
+      "byte_size": 3425,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "fc6d91ed25c536faef0cdb1aff4fa7cb62883d3f845d90a3fc8b61d1655b5961"
+        "value": "dd3f018c5e6dd075d113f0f918fb65a58dd4ca0ed4ae712e191282ac208cf9bd"
       }
     },
     {
@@ -138,10 +138,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/updates/pipeline_decision.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 353,
+      "byte_size": 348,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "d1f6cb447882573155b61ba1aae234a103e0d5bea8db34154637ac5519a3c0e0"
+        "value": "33fd7682f600452c297324da5406920c50fc3f9cedb23e36a0b9556184e309a8"
       }
     },
     {
@@ -150,10 +150,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/updates/registry.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 471,
+      "byte_size": 470,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "33548fbded3e8d2c04f15a432870a852a4fa00254320c501ddbdbce3cbe03f0f"
+        "value": "8623d9abde8e2a244b23596470de3cd1cc87ded65d5d7918f4cfa09e71ae05d8"
       }
     },
     {
@@ -165,7 +165,7 @@
       "byte_size": 231,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "87e9f978b2610636ab160918fdd17ee60ddc83fc5e99d7cafe2096155ba47dd6"
+        "value": "76fa2a0fbc8cb4e052fcf724cce1326d311aeba0a027bc6d8484375a70e22ca9"
       }
     },
     {
@@ -177,7 +177,7 @@
       "byte_size": 93566,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "e2011d28484dcb84cf83f02d930c45ae4c82be5ccd71c95d3ece2a07dd400f48"
+        "value": "cc47ba5de406ed64d498ca28c0cb8c47d95208fcbec6f1f6e3bd578aa3680e94"
       }
     },
     {
@@ -186,10 +186,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/updates/yesterday.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 1313,
+      "byte_size": 2,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "66bfc431dc962e46c3c20b6bfa398154f29c518f08623ed6f754c18e60b76c52"
+        "value": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
       }
     }
   ],

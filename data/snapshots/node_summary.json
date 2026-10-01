@@ -1,7 +1,7 @@
 {
     "schema_version": 1,
     "node_name": "Hiroshima, Japan",
-    "generated_at": "2026-09-30T11:22:06.312103+00:00",
+    "generated_at": "2026-10-01T11:47:32.726002+00:00",
     "themes": {
         "footway_categories": {
             "kind": "categorical",
@@ -543,10 +543,10 @@
             "unknown": 93,
             "unknownPercent": 0.34,
             "invalid": 0,
-            "min": 0.008214,
-            "max": 22.140999,
-            "mean": 7.491018,
-            "median": 6.995209,
+            "min": 0.010951,
+            "max": 22.143737,
+            "mean": 7.493756,
+            "median": 6.997947,
             "bins": [
                 {
                     "label": "0–<2",
