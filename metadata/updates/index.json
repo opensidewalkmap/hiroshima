@@ -65,7 +65,7 @@
     "geometry": "https://opensidewalkmap.github.io/hiroshima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-10-04T14:49:07+00:00",
+    "updated": "2026-10-05T18:25:56+00:00",
     "node_registry": {
       "Data Fetching": "2026-10-01T11:46:40Z",
       "Versioning Data": "2026-10-04T13:57:26Z",
@@ -74,7 +74,7 @@
       "Completeness Analysis": "2026-10-01T11:52:41Z",
       "Statistical Charts": "2026-10-04T13:57:45Z",
       "OSWM Codebase Revision": "c440c911cb07c1f54658a799a6c1fedb028c0b0a",
-      "Pipeline Success": "2026-10-04T14:49:07Z",
+      "Pipeline Success": "2026-10-05T18:25:56Z",
       "Wiki check for keys": "2026-10-04T14:00:33Z"
     }
   },
@@ -98,7 +98,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-10-04T14:49:07+00:00",
+    "generated_at": "2026-10-05T18:25:56+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "c440c911cb07c1f54658a799a6c1fedb028c0b0a",
@@ -141,7 +141,7 @@
       "byte_size": 353,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "bbd734b9bbcf3dfc58e29e4388313c59dd833540ef2c1c019edc135aab40066b"
+        "value": "ea4e4e12987b78534275cdf961221978d8c65aba0075a1526b547f5eb50de88a"
       }
     },
     {
@@ -153,7 +153,7 @@
       "byte_size": 471,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "05ec8da4694fe9cdfc251bf429b8e9a84a56a58491f20f865bee24a87f8d5456"
+        "value": "e3560cad43529d108dd01b00d965d4fde384f05f804027fe131eceb93cdae54d"
       }
     },
     {
@@ -165,7 +165,7 @@
       "byte_size": 231,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "613c5405ea93c9e6835b61fa640e24fdc292434503f7875f95bd4ca5f96cd469"
+        "value": "267a1bfd9130e4aa5298a6e99f7564293b152b983f2b5116c35dd6da93e0705b"
       }
     },
     {
@@ -177,7 +177,7 @@
       "byte_size": 93566,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "8954181615c154a355a69a07040cb1ec7e6697060bb53a6fbe0a2317f49f14e0"
+        "value": "7c21cfd3768000c82a30b3ca47788553793ff6eb341ba6bd19163bd0261574dd"
       }
     },
     {
