@@ -70,16 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/hiroshima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-10-12T19:11:21+00:00",
+    "updated": "2026-10-14T14:41:36+00:00",
     "node_registry": {
       "Data Fetching": "2026-10-01T11:46:40Z",
       "Versioning Data": "2026-10-04T13:57:26Z",
-      "Data Pre-Processing": "2026-10-12T18:58:41Z",
-      "Data Quality Tool": "2026-10-12T18:59:33Z",
-      "Completeness Analysis": "2026-10-12T19:05:32Z",
-      "Statistical Charts": "2026-10-12T19:05:46Z",
+      "Data Pre-Processing": "2026-10-14T14:30:40Z",
+      "Data Quality Tool": "2026-10-14T14:31:43Z",
+      "Completeness Analysis": "2026-10-14T14:41:21Z",
+      "Statistical Charts": "2026-10-14T14:41:36Z",
       "OSWM Codebase Revision": "b51af92e8cb43476df95bb415a2c22806cc50883",
-      "Pipeline Success": "2026-10-12T19:11:21Z",
+      "Pipeline Success": "2026-10-13T16:58:29Z",
       "Wiki check for keys": "2026-10-04T14:00:33Z"
     }
   },
@@ -102,11 +102,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-10-12T19:11:21+00:00",
+    "generated_at": "2026-10-14T14:41:36+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "b51af92e8cb43476df95bb415a2c22806cc50883",
-      "commit_date": "2026-10-12T11:17:51-03:00"
+      "commit": "bf6f98b2e72c48e8208e622d648dc7366e7d51f2",
+      "commit_date": "2026-10-14T10:11:45-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -121,7 +121,7 @@
       "byte_size": 84728,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "3b05ea1a1e53a47e5b24998921df67574cd1ac0609099959abd6ea21937aa922"
+        "value": "49eb5b647150451b0b89c032c61eb0c84d76a25fe1089a62500f277aaee920e0"
       }
     },
     {
@@ -130,10 +130,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/processed/other_footways/main_footways.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 477645,
+      "byte_size": 478280,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "060701562ffac5d59ca75c165219b6ef9f6f2e020ad375266e37cfcd6c9e8444"
+        "value": "50eaf51c4b72b6099673ccae4dedd6823552f715212bc169f99d601bc18549bf"
       }
     },
     {
@@ -142,10 +142,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/processed/other_footways/pedestrian_areas.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 116180,
+      "byte_size": 116184,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "ae0d7dfc9dd4ff0add5825b583279269dc1212dcfda24fee1b16f0697a3fac1a"
+        "value": "c99c41934f1d4877db1f093e36435143861fc64ca4a12317ae1d7b2ea90ad620"
       }
     },
     {
@@ -154,10 +154,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/processed/other_footways/potential_footways.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 1009720,
+      "byte_size": 1009834,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "0dc45ee201f7cb9bc95c0fb802b0e723bd176b478ef197ac6a059623c2c2c284"
+        "value": "bb2ae98f77d19e5e06c0ece2203371dac9a7d9fddb413f713404baa8dc895cdc"
       }
     },
     {
@@ -166,10 +166,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/processed/other_footways/stairways.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 156005,
+      "byte_size": 155932,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "fcc7fb8ab29753a49d0aaf65e52e3d231c179c5c129942c8938b0a0865d203a2"
+        "value": "955526fe09732cd0f7edccf450b4b81983f3626c237da73930613cae4c9f7d66"
       }
     }
   ],

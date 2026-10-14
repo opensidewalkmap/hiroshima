@@ -1,7 +1,7 @@
 {
     "schema_version": 1,
     "node_name": "Hiroshima, Japan",
-    "generated_at": "2026-10-12T18:59:21.767924+00:00",
+    "generated_at": "2026-10-14T14:31:27.701855+00:00",
     "themes": {
         "footway_categories": {
             "kind": "categorical",
@@ -543,10 +543,10 @@
             "unknown": 0,
             "unknownPercent": 0.0,
             "invalid": 0,
-            "min": 0.035592,
-            "max": 22.173854,
-            "mean": 7.498392,
-            "median": 7.014374,
+            "min": 0.041068,
+            "max": 22.179329,
+            "mean": 7.503867,
+            "median": 7.019849,
             "bins": [
                 {
                     "label": "0–<2",
@@ -559,28 +559,28 @@
                     "label": "2–<4",
                     "lower": 2.0,
                     "upper": 4.0,
-                    "count": 3309,
+                    "count": 3302,
                     "color": "#35b779"
                 },
                 {
                     "label": "4–<6",
                     "lower": 4.0,
                     "upper": 6.0,
-                    "count": 1039,
+                    "count": 1010,
                     "color": "#21918c"
                 },
                 {
                     "label": "6–<8",
                     "lower": 6.0,
                     "upper": 8.0,
-                    "count": 3895,
+                    "count": 3861,
                     "color": "#31688e"
                 },
                 {
                     "label": "8–<10",
                     "lower": 8.0,
                     "upper": 10.0,
-                    "count": 1854,
+                    "count": 1924,
                     "color": "#443983"
                 },
                 {
