@@ -1,0 +1,29 @@
+name: Thin-node contract
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+    paths:
+      - ".gitignore"
+      - ".gitmodules"
+      - "oswm_codebase"
+      - "oswm_codebase/**"
+      - ".github/checks/**"
+      - ".github/workflows/thin-node.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: false
+          sparse-checkout: .github
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python .github/checks/test_thin_node.py -v

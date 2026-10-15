@@ -1,4 +1,7 @@
 # Byte-compiled / optimized / DLL files
+# The reusable builder checks out the core ephemerally; never pin it in this node.
+/oswm_codebase/
+
 __pycache__/
 *.py[cod]
 *$py.class
