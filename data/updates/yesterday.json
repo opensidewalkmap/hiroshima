@@ -1,15 +1,28 @@
 [
     {
-        "id": 190611846,
-        "user": "yoshitk",
-        "uid": 1003241,
-        "comment": "fixed some street",
-        "created_at": "2026-10-16T14:55:41Z",
-        "changeset_changes_count": 38,
-        "oswm_changes_count": 7,
-        "changes_count": 38,
+        "id": 190647159,
+        "user": "Wish_F",
+        "uid": 6972989,
+        "comment": "袋町周辺の地物のトレースと情報の修正・追加",
+        "created_at": "2026-10-17T12:08:11Z",
+        "changeset_changes_count": 123,
+        "oswm_changes_count": 11,
+        "changes_count": 123,
+        "additions": 7,
+        "modifications": 4,
+        "deletions": 0
+    },
+    {
+        "id": 190667392,
+        "user": "Mateusz Konieczny - bot account",
+        "uid": 3199858,
+        "comment": " fixing unusual width values with a clear replacement",
+        "created_at": "2026-10-17T19:39:09Z",
+        "changeset_changes_count": 1,
+        "oswm_changes_count": 1,
+        "changes_count": 1,
         "additions": 0,
-        "modifications": 7,
+        "modifications": 1,
         "deletions": 0
     }
 ]
