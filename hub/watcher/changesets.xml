@@ -4,38 +4,70 @@
     <title>OSWM Watcher Changeset Activity - Hiroshima, Japan</title>
     <link>https://opensidewalkmap.github.io/hiroshima/hub/watcher/index.html</link>
     <description>OSM changeset activity monitoring and deletion watch for OpenSidewalkMap interest features in Hiroshima, Japan.</description>
-    <lastBuildDate>Mon, 19 Oct 2026 16:27:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 14:36:38 GMT</lastBuildDate>
     <item>
-        <title>[Activity] OSM Changeset 190695092 by Wish_F (0 additions, 6 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/190695092</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 190695092&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Wish_F&quot;&gt;Wish_F&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; 新天地周辺の建物等のトレースと情報の修正・追加&lt;/p&gt;
+        <title>[Activity] OSM Changeset 190721649 by zarak_prod (0 additions, 16 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/190721649</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 190721649&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/zarak_prod&quot;&gt;zarak_prod&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Specify path surfaces&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 16&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/190721649&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/190721649&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 19 Oct 2026 02:20:30 GMT</pubDate>
+        <guid isPermaLink="false">activity_190721649</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 190721646 by zarak_prod (0 additions, 7 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/190721646</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 190721646&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/zarak_prod&quot;&gt;zarak_prod&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Determine the heights of kerbs&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 7&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/190721646&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/190721646&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 19 Oct 2026 02:20:22 GMT</pubDate>
+        <guid isPermaLink="false">activity_190721646</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 190721647 by zarak_prod (0 additions, 6 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/190721647</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 190721647&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/zarak_prod&quot;&gt;zarak_prod&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Specify whether kerbs have tactile paving&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;Additions (creations): 0&lt;/li&gt;
     &lt;li&gt;Modifications (tags/geom): 6&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/190695092&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/190695092&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/190721647&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/190721647&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 18 Oct 2026 13:00:23 GMT</pubDate>
-        <guid isPermaLink="false">activity_190695092</guid>
+        <pubDate>Mon, 19 Oct 2026 02:20:24 GMT</pubDate>
+        <guid isPermaLink="false">activity_190721647</guid>
     </item>
     <item>
-        <title>[Activity] OSM Changeset 190675129 by lee_bei (2 additions, 4 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/190675129</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 190675129&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/lee_bei&quot;&gt;lee_bei&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; All my deletions are through land surveys&lt;/p&gt;
+        <title>[Activity] OSM Changeset 190721709 by zarak_prod (0 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/190721709</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 190721709&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/zarak_prod&quot;&gt;zarak_prod&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Specify road surfaces&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-    &lt;li&gt;Additions (creations): 2&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 4&lt;/li&gt;
+    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/190675129&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/190675129&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/190721709&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/190721709&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 18 Oct 2026 01:00:25 GMT</pubDate>
-        <guid isPermaLink="false">activity_190675129</guid>
+        <pubDate>Mon, 19 Oct 2026 02:24:17 GMT</pubDate>
+        <guid isPermaLink="false">activity_190721709</guid>
     </item>
     <item>
         <title>[Alert] High Deletion OSM Changeset 184020827 by okadatsuneo (9 deletions)</title>
@@ -71,17 +103,6 @@
         <guid isPermaLink="false">deletion_alert_182280185</guid>
     </item>
     <item>
-        <title>[Alert] High Deletion OSM Changeset 182281487 by okadatsuneo (4 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/182281487</link>
-        <description>&lt;p&gt;&lt;strong&gt;High Deletion Alert for OSM Changeset 182281487&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/okadatsuneo&quot;&gt;okadatsuneo&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Added/updated buildings and other POIs.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Deletions to OSWM features:&lt;/strong&gt; 4&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/182281487&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/182281487&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 06 May 2026 07:31:09 GMT</pubDate>
-        <guid isPermaLink="false">deletion_alert_182281487</guid>
-    </item>
-    <item>
         <title>[Alert] High Deletion OSM Changeset 183967192 by okadatsuneo (4 deletions)</title>
         <link>https://www.openstreetmap.org/changeset/183967192</link>
         <description>&lt;p&gt;&lt;strong&gt;High Deletion Alert for OSM Changeset 183967192&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/okadatsuneo&quot;&gt;okadatsuneo&lt;/a&gt;&lt;/p&gt;
@@ -91,6 +112,17 @@
 </description>
         <pubDate>Thu, 11 Jun 2026 11:45:36 GMT</pubDate>
         <guid isPermaLink="false">deletion_alert_183967192</guid>
+    </item>
+    <item>
+        <title>[Alert] High Deletion OSM Changeset 182545353 by でんりみ (4 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/182545353</link>
+        <description>&lt;p&gt;&lt;strong&gt;High Deletion Alert for OSM Changeset 182545353&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/でんりみ&quot;&gt;でんりみ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; 情報修正&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Deletions to OSWM features:&lt;/strong&gt; 4&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/182545353&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/182545353&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 May 2026 09:29:50 GMT</pubDate>
+        <guid isPermaLink="false">deletion_alert_182545353</guid>
     </item>
 </channel>
 </rss>

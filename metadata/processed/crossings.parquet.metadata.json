@@ -70,16 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/hiroshima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-10-18T13:15:40+00:00",
+    "updated": "2026-10-20T14:28:58+00:00",
     "node_registry": {
       "Data Fetching": "2026-10-01T11:46:40Z",
       "Versioning Data": "2026-10-18T12:38:20Z",
-      "Data Pre-Processing": "2026-10-18T12:38:25Z",
-      "Data Quality Tool": "2026-10-18T12:38:33Z",
-      "Completeness Analysis": "2026-10-14T14:41:21Z",
-      "Statistical Charts": "2026-10-18T12:38:38Z",
+      "Data Pre-Processing": "2026-10-20T14:20:30Z",
+      "Data Quality Tool": "2026-10-20T14:21:35Z",
+      "Completeness Analysis": "2026-10-20T14:28:42Z",
+      "Statistical Charts": "2026-10-20T14:28:58Z",
       "OSWM Codebase Revision": "bf6f98b2e72c48e8208e622d648dc7366e7d51f2",
-      "Pipeline Success": "2026-10-18T13:15:40Z",
+      "Pipeline Success": "2026-10-19T16:29:11Z",
       "Wiki check for keys": "2026-10-18T12:41:43Z"
     }
   },
@@ -102,11 +102,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-10-18T13:15:40+00:00",
+    "generated_at": "2026-10-20T14:28:58+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "bf6f98b2e72c48e8208e622d648dc7366e7d51f2",
-      "commit_date": "2026-10-14T10:11:45-03:00"
+      "commit": "74cbda522dbbc833c7fceabe1c16d83299e72c43",
+      "commit_date": "2026-10-20T10:38:11-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -117,10 +117,10 @@
     "download_url": "https://opensidewalkmap.github.io/hiroshima/data/processed/crossings.parquet",
     "media_type": "application/vnd.apache.parquet",
     "format": "GeoParquet",
-    "byte_size": 423646,
+    "byte_size": 423250,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "d244472262bc43cce2d16b3297a8dafff82b98925c1798ba8f350a94c67a4488"
+      "value": "5446015c3d60c563dc2c2fd49730b458e194bdab7ac1ca4da023f46794f259b6"
     }
   },
   "links": [
