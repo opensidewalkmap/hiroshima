@@ -70,7 +70,7 @@
     "geometry": "https://opensidewalkmap.github.io/hiroshima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-10-20T14:28:58+00:00",
+    "updated": "2026-10-20T14:36:39+00:00",
     "node_registry": {
       "Data Fetching": "2026-10-01T11:46:40Z",
       "Versioning Data": "2026-10-18T12:38:20Z",
@@ -78,8 +78,8 @@
       "Data Quality Tool": "2026-10-20T14:21:35Z",
       "Completeness Analysis": "2026-10-20T14:28:42Z",
       "Statistical Charts": "2026-10-20T14:28:58Z",
-      "OSWM Codebase Revision": "bf6f98b2e72c48e8208e622d648dc7366e7d51f2",
-      "Pipeline Success": "2026-10-19T16:29:11Z",
+      "OSWM Codebase Revision": "74cbda522dbbc833c7fceabe1c16d83299e72c43",
+      "Pipeline Success": "2026-10-20T14:36:39Z",
       "Wiki check for keys": "2026-10-18T12:41:43Z"
     }
   },
@@ -102,7 +102,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-10-20T14:28:58+00:00",
+    "generated_at": "2026-10-20T14:36:39+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "74cbda522dbbc833c7fceabe1c16d83299e72c43",
