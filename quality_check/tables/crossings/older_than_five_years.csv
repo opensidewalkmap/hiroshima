@@ -35,7 +35,6 @@ osm_id,feat_type,key,value,commentary
 124824536,way,last_update,6-8-2011,Feature has not been updated in 5 years or more
 124824537,way,last_update,6-8-2011,Feature has not been updated in 5 years or more
 124824538,way,last_update,6-8-2011,Feature has not been updated in 5 years or more
-124824540,way,last_update,15-12-2011,Feature has not been updated in 5 years or more
 124824541,way,last_update,6-8-2011,Feature has not been updated in 5 years or more
 124824542,way,last_update,6-8-2011,Feature has not been updated in 5 years or more
 124824543,way,last_update,16-8-2011,Feature has not been updated in 5 years or more
@@ -104,6 +103,7 @@ osm_id,feat_type,key,value,commentary
 124950977,way,last_update,13-4-2021,Feature has not been updated in 5 years or more
 124950985,way,last_update,21-11-2012,Feature has not been updated in 5 years or more
 124950989,way,last_update,6-7-2012,Feature has not been updated in 5 years or more
+124963486,way,last_update,23-10-2021,Feature has not been updated in 5 years or more
 124963488,way,last_update,7-8-2011,Feature has not been updated in 5 years or more
 124963491,way,last_update,7-8-2011,Feature has not been updated in 5 years or more
 124963493,way,last_update,7-8-2011,Feature has not been updated in 5 years or more
@@ -176,7 +176,6 @@ osm_id,feat_type,key,value,commentary
 125321955,way,last_update,9-8-2011,Feature has not been updated in 5 years or more
 125321975,way,last_update,22-10-2020,Feature has not been updated in 5 years or more
 125321977,way,last_update,9-8-2011,Feature has not been updated in 5 years or more
-125322011,way,last_update,22-10-2020,Feature has not been updated in 5 years or more
 125322015,way,last_update,22-10-2020,Feature has not been updated in 5 years or more
 125322028,way,last_update,6-8-2018,Feature has not been updated in 5 years or more
 125437280,way,last_update,10-8-2011,Feature has not been updated in 5 years or more
@@ -256,7 +255,6 @@ osm_id,feat_type,key,value,commentary
 125594197,way,last_update,11-8-2011,Feature has not been updated in 5 years or more
 125594198,way,last_update,11-8-2011,Feature has not been updated in 5 years or more
 125594199,way,last_update,12-9-2011,Feature has not been updated in 5 years or more
-125594200,way,last_update,14-10-2019,Feature has not been updated in 5 years or more
 125594201,way,last_update,11-8-2011,Feature has not been updated in 5 years or more
 125594202,way,last_update,12-9-2011,Feature has not been updated in 5 years or more
 125594203,way,last_update,11-8-2011,Feature has not been updated in 5 years or more
@@ -267,7 +265,6 @@ osm_id,feat_type,key,value,commentary
 125594210,way,last_update,11-8-2011,Feature has not been updated in 5 years or more
 125594211,way,last_update,11-8-2011,Feature has not been updated in 5 years or more
 125594213,way,last_update,11-8-2011,Feature has not been updated in 5 years or more
-125594214,way,last_update,11-8-2011,Feature has not been updated in 5 years or more
 125594215,way,last_update,14-10-2019,Feature has not been updated in 5 years or more
 125594216,way,last_update,12-9-2011,Feature has not been updated in 5 years or more
 125594217,way,last_update,11-8-2011,Feature has not been updated in 5 years or more
@@ -301,10 +298,7 @@ osm_id,feat_type,key,value,commentary
 125746482,way,last_update,30-9-2018,Feature has not been updated in 5 years or more
 125746484,way,last_update,12-8-2011,Feature has not been updated in 5 years or more
 125746487,way,last_update,30-9-2018,Feature has not been updated in 5 years or more
-125746490,way,last_update,15-12-2011,Feature has not been updated in 5 years or more
 125746492,way,last_update,12-8-2011,Feature has not been updated in 5 years or more
-125746493,way,last_update,4-8-2020,Feature has not been updated in 5 years or more
-125746495,way,last_update,12-8-2011,Feature has not been updated in 5 years or more
 125746496,way,last_update,12-8-2011,Feature has not been updated in 5 years or more
 125746498,way,last_update,12-8-2011,Feature has not been updated in 5 years or more
 125746499,way,last_update,7-11-2016,Feature has not been updated in 5 years or more
@@ -339,7 +333,6 @@ osm_id,feat_type,key,value,commentary
 125844704,way,last_update,13-8-2011,Feature has not been updated in 5 years or more
 125844706,way,last_update,13-8-2011,Feature has not been updated in 5 years or more
 125844708,way,last_update,3-11-2016,Feature has not been updated in 5 years or more
-125844709,way,last_update,13-8-2011,Feature has not been updated in 5 years or more
 125844710,way,last_update,13-8-2011,Feature has not been updated in 5 years or more
 125844713,way,last_update,13-8-2011,Feature has not been updated in 5 years or more
 125844714,way,last_update,13-8-2011,Feature has not been updated in 5 years or more
@@ -352,6 +345,7 @@ osm_id,feat_type,key,value,commentary
 125844727,way,last_update,13-8-2011,Feature has not been updated in 5 years or more
 125844729,way,last_update,13-8-2011,Feature has not been updated in 5 years or more
 125844730,way,last_update,13-8-2011,Feature has not been updated in 5 years or more
+125844731,way,last_update,23-10-2021,Feature has not been updated in 5 years or more
 125844733,way,last_update,3-11-2016,Feature has not been updated in 5 years or more
 125844734,way,last_update,13-8-2011,Feature has not been updated in 5 years or more
 125844736,way,last_update,13-8-2011,Feature has not been updated in 5 years or more
@@ -366,6 +360,7 @@ osm_id,feat_type,key,value,commentary
 125844753,way,last_update,26-10-2016,Feature has not been updated in 5 years or more
 125844754,way,last_update,13-8-2011,Feature has not been updated in 5 years or more
 125844757,way,last_update,23-1-2020,Feature has not been updated in 5 years or more
+125844759,way,last_update,23-10-2021,Feature has not been updated in 5 years or more
 125844761,way,last_update,27-10-2016,Feature has not been updated in 5 years or more
 125844762,way,last_update,13-8-2011,Feature has not been updated in 5 years or more
 125844766,way,last_update,13-8-2011,Feature has not been updated in 5 years or more
@@ -387,10 +382,12 @@ osm_id,feat_type,key,value,commentary
 125844797,way,last_update,12-4-2021,Feature has not been updated in 5 years or more
 125844798,way,last_update,13-8-2011,Feature has not been updated in 5 years or more
 125844805,way,last_update,13-8-2011,Feature has not been updated in 5 years or more
+125844806,way,last_update,23-10-2021,Feature has not been updated in 5 years or more
 125844807,way,last_update,13-8-2011,Feature has not been updated in 5 years or more
 125844810,way,last_update,13-8-2011,Feature has not been updated in 5 years or more
 125844812,way,last_update,28-2-2015,Feature has not been updated in 5 years or more
 125844814,way,last_update,13-8-2011,Feature has not been updated in 5 years or more
+125844815,way,last_update,23-10-2021,Feature has not been updated in 5 years or more
 125844820,way,last_update,13-8-2011,Feature has not been updated in 5 years or more
 125844821,way,last_update,13-8-2011,Feature has not been updated in 5 years or more
 125844822,way,last_update,13-8-2011,Feature has not been updated in 5 years or more
@@ -494,6 +491,7 @@ osm_id,feat_type,key,value,commentary
 126073711,way,last_update,14-8-2011,Feature has not been updated in 5 years or more
 126073713,way,last_update,14-8-2011,Feature has not been updated in 5 years or more
 126073714,way,last_update,14-8-2011,Feature has not been updated in 5 years or more
+126073716,way,last_update,23-10-2021,Feature has not been updated in 5 years or more
 126073719,way,last_update,14-8-2011,Feature has not been updated in 5 years or more
 126073737,way,last_update,14-8-2011,Feature has not been updated in 5 years or more
 126073739,way,last_update,14-8-2011,Feature has not been updated in 5 years or more
@@ -827,19 +825,16 @@ osm_id,feat_type,key,value,commentary
 127190307,way,last_update,22-8-2011,Feature has not been updated in 5 years or more
 127190310,way,last_update,22-8-2011,Feature has not been updated in 5 years or more
 127190313,way,last_update,22-8-2011,Feature has not been updated in 5 years or more
-127190317,way,last_update,22-8-2011,Feature has not been updated in 5 years or more
 127190318,way,last_update,22-8-2011,Feature has not been updated in 5 years or more
 127190325,way,last_update,22-8-2011,Feature has not been updated in 5 years or more
 127190326,way,last_update,22-8-2011,Feature has not been updated in 5 years or more
 127190328,way,last_update,22-8-2011,Feature has not been updated in 5 years or more
 127190330,way,last_update,22-8-2011,Feature has not been updated in 5 years or more
 127190333,way,last_update,22-8-2011,Feature has not been updated in 5 years or more
-127190335,way,last_update,22-8-2011,Feature has not been updated in 5 years or more
 127190336,way,last_update,22-8-2011,Feature has not been updated in 5 years or more
 127190340,way,last_update,24-11-2018,Feature has not been updated in 5 years or more
 127190343,way,last_update,22-8-2011,Feature has not been updated in 5 years or more
 127190344,way,last_update,22-8-2011,Feature has not been updated in 5 years or more
-127190345,way,last_update,22-8-2011,Feature has not been updated in 5 years or more
 127330235,way,last_update,1-11-2016,Feature has not been updated in 5 years or more
 127330274,way,last_update,1-11-2016,Feature has not been updated in 5 years or more
 127330298,way,last_update,23-8-2011,Feature has not been updated in 5 years or more
@@ -1183,7 +1178,6 @@ osm_id,feat_type,key,value,commentary
 129765772,way,last_update,12-9-2011,Feature has not been updated in 5 years or more
 129765774,way,last_update,12-9-2011,Feature has not been updated in 5 years or more
 129765777,way,last_update,12-9-2011,Feature has not been updated in 5 years or more
-129765778,way,last_update,12-9-2011,Feature has not been updated in 5 years or more
 129765779,way,last_update,12-9-2011,Feature has not been updated in 5 years or more
 129765781,way,last_update,12-9-2011,Feature has not been updated in 5 years or more
 129765782,way,last_update,12-9-2011,Feature has not been updated in 5 years or more
@@ -4449,3 +4443,4 @@ osm_id,feat_type,key,value,commentary
 993270670,way,last_update,16-10-2021,Feature has not been updated in 5 years or more
 993270672,way,last_update,16-10-2021,Feature has not been updated in 5 years or more
 993270674,way,last_update,16-10-2021,Feature has not been updated in 5 years or more
+995914640,way,last_update,23-10-2021,Feature has not been updated in 5 years or more
