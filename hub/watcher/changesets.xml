@@ -4,70 +4,54 @@
     <title>OSWM Watcher Changeset Activity - Hiroshima, Japan</title>
     <link>https://opensidewalkmap.github.io/hiroshima/hub/watcher/index.html</link>
     <description>OSM changeset activity monitoring and deletion watch for OpenSidewalkMap interest features in Hiroshima, Japan.</description>
-    <lastBuildDate>Sat, 24 Oct 2026 13:17:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 13:42:16 GMT</lastBuildDate>
     <item>
-        <title>[Activity] OSM Changeset 190934069 by Wish_F (2 additions, 9 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/190934069</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 190934069&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Wish_F&quot;&gt;Wish_F&lt;/a&gt;&lt;/p&gt;
+        <title>[Activity] OSM Changeset 190958579 by Wish_F (3 additions, 14 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/190958579</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 190958579&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Wish_F&quot;&gt;Wish_F&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; 大須賀町周辺の地物のトレースと情報の修正・追加&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 3&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 14&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/190958579&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/190958579&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 24 Oct 2026 07:53:02 GMT</pubDate>
+        <guid isPermaLink="false">activity_190958579</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 190954261 by Wish_F (2 additions, 5 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/190954261</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 190954261&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Wish_F&quot;&gt;Wish_F&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; 大須賀町周辺の地物のトレースと情報の修正・追加&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;Additions (creations): 2&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 9&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 5&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/190934069&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/190934069&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/190954261&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/190954261&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 23 Oct 2026 14:59:55 GMT</pubDate>
-        <guid isPermaLink="false">activity_190934069</guid>
+        <pubDate>Sat, 24 Oct 2026 04:05:39 GMT</pubDate>
+        <guid isPermaLink="false">activity_190954261</guid>
     </item>
     <item>
-        <title>[Activity] OSM Changeset 190938069 by Don-kun (1 additions, 6 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/190938069</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 190938069&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Don-kun&quot;&gt;Don-kun&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; names and small changes&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 1&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 6&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/190938069&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/190938069&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 23 Oct 2026 16:45:22 GMT</pubDate>
-        <guid isPermaLink="false">activity_190938069</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 190929167 by Wish_F (0 additions, 2 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/190929167</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 190929167&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Wish_F&quot;&gt;Wish_F&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; 白島電停周辺の地物のトレースと情報の修正・追加&lt;/p&gt;
+        <title>[Activity] OSM Changeset 190978957 by Wish_F (0 additions, 2 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/190978957</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 190978957&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Wish_F&quot;&gt;Wish_F&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; 大須賀町周辺の地物のトレースと情報の修正・追加&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;Additions (creations): 0&lt;/li&gt;
     &lt;li&gt;Modifications (tags/geom): 2&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/190929167&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/190929167&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/190978957&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/190978957&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 23 Oct 2026 13:15:30 GMT</pubDate>
-        <guid isPermaLink="false">activity_190929167</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 190936742 by Don-kun (0 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/190936742</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 190936742&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Don-kun&quot;&gt;Don-kun&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Namen&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/190936742&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/190936742&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 23 Oct 2026 16:09:12 GMT</pubDate>
-        <guid isPermaLink="false">activity_190936742</guid>
+        <pubDate>Sat, 24 Oct 2026 16:20:47 GMT</pubDate>
+        <guid isPermaLink="false">activity_190978957</guid>
     </item>
 </channel>
 </rss>
