@@ -70,16 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/hiroshima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-10-27T15:23:01+00:00",
+    "updated": "2026-10-29T16:13:34+00:00",
     "node_registry": {
       "Data Fetching": "2026-10-01T11:46:40Z",
       "Versioning Data": "2026-10-25T13:10:57Z",
-      "Data Pre-Processing": "2026-10-25T13:11:04Z",
-      "Data Quality Tool": "2026-10-25T13:11:14Z",
-      "Completeness Analysis": "2026-10-20T14:28:42Z",
-      "Statistical Charts": "2026-10-25T13:11:22Z",
+      "Data Pre-Processing": "2026-10-29T16:03:53Z",
+      "Data Quality Tool": "2026-10-29T16:04:52Z",
+      "Completeness Analysis": "2026-10-29T16:13:19Z",
+      "Statistical Charts": "2026-10-29T16:13:34Z",
       "OSWM Codebase Revision": "74cbda522dbbc833c7fceabe1c16d83299e72c43",
-      "Pipeline Success": "2026-10-27T15:23:01Z",
+      "Pipeline Success": "2026-10-28T16:05:19Z",
       "Wiki check for keys": "2026-10-25T13:14:14Z"
     }
   },
@@ -103,11 +103,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-10-27T15:23:01+00:00",
+    "generated_at": "2026-10-29T16:13:34+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "74cbda522dbbc833c7fceabe1c16d83299e72c43",
-      "commit_date": "2026-10-20T10:38:11-03:00"
+      "commit": "44cafc7c0f582ee1732e515446ed11a418b13afa",
+      "commit_date": "2026-10-28T18:09:46-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -118,10 +118,10 @@
     "download_url": "https://opensidewalkmap.github.io/hiroshima/data/data_quality/crossings_lacking_kerbs/crossings_lacking_kerbs.parquet",
     "media_type": "application/vnd.apache.parquet",
     "format": "GeoParquet",
-    "byte_size": 423054,
+    "byte_size": 422963,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "fb6ee570fc4dd142e59149614e3af179673cd4ff8910a8d4ec60fb01dcf37915"
+      "value": "99f7c718e13ba1444e2f7bac5a7eea8ba2ea57853af78bea9a63ad8063ee7f22"
     }
   },
   "links": [

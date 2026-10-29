@@ -1,28 +1,15 @@
 [
     {
-        "id": 191098281,
+        "id": 191153109,
         "user": "Wish_F",
         "uid": 6972989,
         "comment": "Create building and add height/ele/building:levels from PLATEAU building data",
-        "created_at": "2026-10-27T12:02:04Z",
-        "changeset_changes_count": 353,
-        "oswm_changes_count": 12,
-        "changes_count": 353,
-        "additions": 2,
-        "modifications": 10,
-        "deletions": 0
-    },
-    {
-        "id": 191109184,
-        "user": "Wish_F",
-        "uid": 6972989,
-        "comment": "千田町周辺の情報の追加",
-        "created_at": "2026-10-27T15:54:53Z",
-        "changeset_changes_count": 55,
-        "oswm_changes_count": 1,
-        "changes_count": 55,
+        "created_at": "2026-10-28T15:23:07Z",
+        "changeset_changes_count": 422,
+        "oswm_changes_count": 7,
+        "changes_count": 422,
         "additions": 0,
-        "modifications": 1,
+        "modifications": 7,
         "deletions": 0
     }
 ]
