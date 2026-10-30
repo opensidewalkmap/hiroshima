@@ -1628,6 +1628,23 @@ print(data)</pre>
   },
   {
     "category": "Data Aging & Versioning",
+    "path": "data/updates/acquisition.json",
+    "format": "JSON",
+    "description": "Asset file: acquisition.json",
+    "capabilities": {
+      "action": "preview-json",
+      "action_label": "Preview JSON",
+      "snippets": [
+        "javascript",
+        "python",
+        "curl"
+      ]
+    },
+    "deliverable": "map_data",
+    "metadata_path": "metadata/updates/acquisition.json.metadata.json"
+  },
+  {
+    "category": "Data Aging & Versioning",
     "path": "data/updates/changeset_cache.json",
     "format": "JSON",
     "description": "Cached metadata for OSM changesets (user, comment, created_at, closed_at) to avoid redundant OSM API hits.",
@@ -5715,6 +5732,23 @@ print(data)</pre>
     "path": "metadata/tiles/tile_generation_report.json.metadata.json",
     "format": "JSON",
     "description": "PMTiles packages generated for efficient static web-map delivery. This record describes the JSON distribution at data/tiles/tile_generation_report.json.",
+    "capabilities": {
+      "action": "preview-json",
+      "action_label": "Preview JSON",
+      "snippets": [
+        "javascript",
+        "python",
+        "curl"
+      ]
+    },
+    "deliverable": "metadata",
+    "metadata_path": null
+  },
+  {
+    "category": "Updates Metadata",
+    "path": "metadata/updates/acquisition.json.metadata.json",
+    "format": "JSON",
+    "description": "Refresh status, OSM changeset monitoring, and feature-version history. This record describes the JSON distribution at data/updates/acquisition.json.",
     "capabilities": {
       "action": "preview-json",
       "action_label": "Preview JSON",

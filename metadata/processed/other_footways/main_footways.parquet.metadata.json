@@ -70,16 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/hiroshima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-10-29T16:13:34+00:00",
+    "updated": "2026-10-30T16:12:36+00:00",
     "node_registry": {
-      "Data Fetching": "2026-10-01T11:46:40Z",
+      "Data Fetching": "2026-10-30T16:05:20Z",
       "Versioning Data": "2026-10-25T13:10:57Z",
-      "Data Pre-Processing": "2026-10-29T16:03:53Z",
-      "Data Quality Tool": "2026-10-29T16:04:52Z",
-      "Completeness Analysis": "2026-10-29T16:13:19Z",
-      "Statistical Charts": "2026-10-29T16:13:34Z",
-      "OSWM Codebase Revision": "74cbda522dbbc833c7fceabe1c16d83299e72c43",
-      "Pipeline Success": "2026-10-28T16:05:19Z",
+      "Data Pre-Processing": "2026-10-30T16:05:26Z",
+      "Data Quality Tool": "2026-10-30T16:06:30Z",
+      "Completeness Analysis": "2026-10-30T16:12:21Z",
+      "Statistical Charts": "2026-10-30T16:12:36Z",
+      "OSWM Codebase Revision": "44cafc7c0f582ee1732e515446ed11a418b13afa",
+      "Pipeline Success": "2026-10-29T16:19:48Z",
       "Wiki check for keys": "2026-10-25T13:14:14Z"
     }
   },
@@ -102,7 +102,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-10-29T16:13:34+00:00",
+    "generated_at": "2026-10-30T16:12:36+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "44cafc7c0f582ee1732e515446ed11a418b13afa",
@@ -117,10 +117,10 @@
     "download_url": "https://opensidewalkmap.github.io/hiroshima/data/processed/other_footways/main_footways.parquet",
     "media_type": "application/vnd.apache.parquet",
     "format": "GeoParquet",
-    "byte_size": 477803,
+    "byte_size": 481593,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "8106c14c22b2d9586e4d06fef59b98fa7c9ac3075fecf3f228819eca26ed89c2"
+      "value": "c9218dc1231d9f1446073b3d5f4cd7202d70e2c6d0bdbbef1d1d6b8de9c4904b"
     }
   },
   "links": [

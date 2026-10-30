@@ -73,6 +73,7 @@
             "description": "Data update logs, registry status, and historical version tracking.",
             "path": "data/updates",
             "files": [
+                "acquisition.json",
                 "changeset_cache.json",
                 "index.html",
                 "index.json",

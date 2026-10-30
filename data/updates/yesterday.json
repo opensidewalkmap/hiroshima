@@ -1,15 +1,28 @@
 [
     {
-        "id": 191153109,
+        "id": 191198185,
+        "user": "Wish_F",
+        "uid": 6972989,
+        "comment": "大手町5丁目周辺の情報の追加",
+        "created_at": "2026-10-29T14:59:10Z",
+        "changeset_changes_count": 483,
+        "oswm_changes_count": 25,
+        "changes_count": 483,
+        "additions": 6,
+        "modifications": 19,
+        "deletions": 0
+    },
+    {
+        "id": 191200540,
         "user": "Wish_F",
         "uid": 6972989,
         "comment": "Create building and add height/ele/building:levels from PLATEAU building data",
-        "created_at": "2026-10-28T15:23:07Z",
-        "changeset_changes_count": 422,
-        "oswm_changes_count": 7,
-        "changes_count": 422,
-        "additions": 0,
-        "modifications": 7,
+        "created_at": "2026-10-29T15:52:55Z",
+        "changeset_changes_count": 426,
+        "oswm_changes_count": 18,
+        "changes_count": 426,
+        "additions": 8,
+        "modifications": 10,
         "deletions": 0
     }
 ]

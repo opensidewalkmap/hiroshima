@@ -70,16 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/hiroshima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-10-29T16:13:34+00:00",
+    "updated": "2026-10-30T16:12:36+00:00",
     "node_registry": {
-      "Data Fetching": "2026-10-01T11:46:40Z",
+      "Data Fetching": "2026-10-30T16:05:20Z",
       "Versioning Data": "2026-10-25T13:10:57Z",
-      "Data Pre-Processing": "2026-10-29T16:03:53Z",
-      "Data Quality Tool": "2026-10-29T16:04:52Z",
-      "Completeness Analysis": "2026-10-29T16:13:19Z",
-      "Statistical Charts": "2026-10-29T16:13:34Z",
-      "OSWM Codebase Revision": "74cbda522dbbc833c7fceabe1c16d83299e72c43",
-      "Pipeline Success": "2026-10-28T16:05:19Z",
+      "Data Pre-Processing": "2026-10-30T16:05:26Z",
+      "Data Quality Tool": "2026-10-30T16:06:30Z",
+      "Completeness Analysis": "2026-10-30T16:12:21Z",
+      "Statistical Charts": "2026-10-30T16:12:36Z",
+      "OSWM Codebase Revision": "44cafc7c0f582ee1732e515446ed11a418b13afa",
+      "Pipeline Success": "2026-10-29T16:19:48Z",
       "Wiki check for keys": "2026-10-25T13:14:14Z"
     }
   },
@@ -101,7 +101,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-10-29T16:13:34+00:00",
+    "generated_at": "2026-10-30T16:12:36+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "44cafc7c0f582ee1732e515446ed11a418b13afa",
@@ -117,10 +117,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/tiles/crossings.pmtiles.metadata.json",
       "media_type": "application/vnd.pmtiles",
       "format": "PMTiles",
-      "byte_size": 1496850,
+      "byte_size": 1498964,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "6a0aa1d2cb646d0379578f5e50017bd59422fdc5bbc644fdd21845c8de2ba128"
+        "value": "f2559b7c2e2a782ff9d8f9813f6c6032371ce3713a4e52abcfdf0ec980b996e5"
       }
     },
     {
@@ -129,10 +129,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/tiles/informal_footways.pmtiles.metadata.json",
       "media_type": "application/vnd.pmtiles",
       "format": "PMTiles",
-      "byte_size": 533105,
+      "byte_size": 538894,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "06d4cc02da9a10fa61c41f428d64013a37af6b7fb313884f704e179933b52ebc"
+        "value": "4b0a652fe16b684ed922bee3a5a78ad0e7df4805737aa545538b1765de4e42b7"
       }
     },
     {
@@ -141,10 +141,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/tiles/kerbs.pmtiles.metadata.json",
       "media_type": "application/vnd.pmtiles",
       "format": "PMTiles",
-      "byte_size": 239622,
+      "byte_size": 242006,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "b7ba6d24505bb4f0b544f678ab66e714e6da6b77e7c2f6de2c20b61eb1d30a4d"
+        "value": "f6f40e8da378fc394be5ea472b5421b24888e0fee537030b9dd965cca5d54404"
       }
     },
     {
@@ -153,10 +153,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/tiles/main_footways.pmtiles.metadata.json",
       "media_type": "application/vnd.pmtiles",
       "format": "PMTiles",
-      "byte_size": 2439381,
+      "byte_size": 2468079,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "b5d1636ca521c3151ba370ce0bf3c871cb6a28ec13d42f26d486090eef759d5a"
+        "value": "1bbe7cd993f49f48e34860a68f93a91003239ef7f21552b68d44781f069cf8d8"
       }
     },
     {
@@ -165,10 +165,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/tiles/pedestrian_areas.pmtiles.metadata.json",
       "media_type": "application/vnd.pmtiles",
       "format": "PMTiles",
-      "byte_size": 197452,
+      "byte_size": 199564,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "7b60ece6dff6871eb890bd41cb6d7c4e3be31acb59ab25333a221f109329f1b4"
+        "value": "9c3c69d0937d94bb9255d634220ded997351293dcf582f9d1dc3c1071b896eef"
       }
     },
     {
@@ -177,10 +177,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/tiles/potential_footways.pmtiles.metadata.json",
       "media_type": "application/vnd.pmtiles",
       "format": "PMTiles",
-      "byte_size": 5601447,
+      "byte_size": 5668850,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "5a36a6a66c55baf425959cb7ee7332b2047295ca7a28a553b92a7343925c8814"
+        "value": "081ae3feecbd81010e577698cd0eef585ad3a8aaa8b3cb76650f4bf8d3f6c524"
       }
     },
     {
@@ -189,10 +189,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/tiles/sidewalks.pmtiles.metadata.json",
       "media_type": "application/vnd.pmtiles",
       "format": "PMTiles",
-      "byte_size": 2900803,
+      "byte_size": 2914511,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "221a778424a37f89b24188890470e48ed60c7ee80c08b67a201afab593f40f5b"
+        "value": "10676a3ebe76ff6ec3d43075f053fe29d2b8cbbedbf8e5ac349c068cfb675071"
       }
     },
     {
@@ -201,10 +201,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/tiles/stairways.pmtiles.metadata.json",
       "media_type": "application/vnd.pmtiles",
       "format": "PMTiles",
-      "byte_size": 1226071,
+      "byte_size": 1247229,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "94934cd478e7da340db13728c0a3a41edd2a40b8660b4576b338533d8380fcc9"
+        "value": "b6574c61bc50faea1443a3252aeb2f9c06adb340fdf60b7c02fc7e4e78afed89"
       }
     },
     {
@@ -216,7 +216,7 @@
       "byte_size": 1644,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "18b1f61474e0557386d87e11c5f0ac5f672d6e7ac6478f77e7031277292b878c"
+        "value": "8d713ffa1eadcf69092825b7eae10528da247944081cbc612d4ded945921a09c"
       }
     }
   ],

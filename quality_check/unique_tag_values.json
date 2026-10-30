@@ -231,6 +231,7 @@
         ],
         "bridge:name": [
             "鶴見橋",
+            "栄橋",
             "天満歩道橋",
             "広電天満橋"
         ],
@@ -243,6 +244,9 @@
         "check_date": [
             "2025-06-21",
             "2025-08-03"
+        ],
+        "bridge:name:en": [
+            "Sakae Bridge"
         ],
         "construction": [
             "footway"
@@ -369,7 +373,8 @@
             "no"
         ],
         "crossing:signals": [
-            "yes"
+            "yes",
+            "no"
         ],
         "note:ja": [
             "以前は、unmarked だった様だ。"
@@ -670,6 +675,7 @@
             "青崎第6踏切",
             "北口広場",
             "駅前通り",
+            "国際通り",
             "基町地下道",
             "ひろしま世界遺産航路",
             "えびす通り",
@@ -980,7 +986,6 @@
             "7",
             "6",
             "4.2",
-            "１",
             "2.4",
             "0.8",
             "0.7"
@@ -1040,6 +1045,12 @@
             "30",
             "20",
             "10"
+        ],
+        "maxspeed:type": [
+            "JP:urban"
+        ],
+        "sidewalk:both": [
+            "no"
         ],
         "created_by": [
             "Potlatch 0.10f"
@@ -1309,14 +1320,14 @@
         "hiser": [
             "GSImaps/ort"
         ],
+        "informal": [
+            "yes"
+        ],
         "service": [
             "parking_aisle"
         ],
         "bridge:name:ja-Hira": [
             "おかのしたかわすいもんきょう"
-        ],
-        "informal": [
-            "yes"
         ],
         "steps": [
             "down"

@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "source_sha256": "bde1bb595e4352a724801610ef0bc4fcaaa50f4dc884c49c810782471e8e5a5f",
+  "source_sha256": "714c708e984f9db66640bb449d82071755c00b9b9dad9126f2e6e69532c92975",
   "source": "network.parquet",
   "source_layer": "routing",
-  "input_features": 26406,
-  "filesize": 3482794
+  "input_features": 26502,
+  "filesize": 3492367
 }

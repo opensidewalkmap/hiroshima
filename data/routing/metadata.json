@@ -1,7 +1,7 @@
 {
   "analytical_network": {
-    "byte_size": 3204562,
-    "feature_count": 26406,
+    "byte_size": 3212907,
+    "feature_count": 26502,
     "filename": "network.parquet",
     "format": "GeoParquet"
   },
@@ -12,13 +12,13 @@
       132.694139,
       34.61199
     ],
-    "byte_size": 9531264,
-    "cell_membership_count": 139644,
-    "directed_edge_count": 263518,
+    "byte_size": 9562504,
+    "cell_membership_count": 140079,
+    "directed_edge_count": 264382,
     "filename": "network.oswmg",
     "grid_cols": 111,
-    "grid_rows": 99,
-    "node_count": 130205,
+    "grid_rows": 100,
+    "node_count": 130621,
     "profile_count": 4,
     "profile_order": [
       "distance",
@@ -27,84 +27,84 @@
       "elderly"
     ],
     "schema_version": 2,
-    "segment_count": 131759,
-    "sha256": "72512f848e853822437e43dcdea03e9a9ba774c5da18855d742a3a42c89ddb61",
+    "segment_count": 132191,
+    "sha256": "60be48a5cdb4ced2e2ab09583c81532f1119a2b0a6d138e0368661dbaea787e7",
     "spatial_index": "uniform_grid",
     "topology_tolerance": 1e-05
   },
   "edge_kind_counts": {
-    "crossing": 6376,
-    "footway": 7665,
-    "sidewalk": 11057,
-    "stairs": 1308
+    "crossing": 6386,
+    "footway": 7715,
+    "sidewalk": 11078,
+    "stairs": 1323
   },
   "elevation_provider_fingerprint": "a4a4bc7ab35d623e",
-  "feature_count": 26406,
-  "generated_at": "2026-10-29T16:15:16.512451+00:00",
+  "feature_count": 26502,
+  "generated_at": "2026-10-30T16:14:17.281168+00:00",
   "profile_audit": {
     "blind": {
       "grade_bands": {
         "0": 62,
         "1-19": 0,
-        "20-39": 5886,
-        "40-59": 20234,
-        "60-79": 209,
+        "20-39": 5888,
+        "40-59": 20321,
+        "60-79": 216,
         "80-100": 15
       },
       "maximum_grade": 84,
-      "mean_grade": 43.95,
+      "mean_grade": 43.98,
       "minimum_grade": 0,
       "most_common_limiting_factors": {
         "crossing": 77,
-        "incline": 2847,
+        "incline": 2862,
         "kerb_detectability": 180,
         "lighting": 11,
-        "smoothness": 1119,
-        "surface": 16197,
-        "tactile_paving": 5935,
+        "smoothness": 1153,
+        "surface": 16243,
+        "tactile_paving": 5936,
         "width": 40
       }
     },
     "elderly": {
       "grade_bands": {
-        "0": 3337,
-        "1-19": 950,
-        "20-39": 2558,
-        "40-59": 19449,
-        "60-79": 112,
+        "0": 3352,
+        "1-19": 961,
+        "20-39": 2570,
+        "40-59": 19503,
+        "60-79": 116,
         "80-100": 0
       },
       "maximum_grade": 78,
-      "mean_grade": 38.16,
+      "mean_grade": 38.15,
       "minimum_grade": 0,
       "most_common_limiting_factors": {
-        "crossing": 3123,
-        "incline": 5651,
-        "kerb": 1884,
-        "smoothness": 1054,
-        "surface": 14648,
+        "crossing": 3127,
+        "incline": 5677,
+        "kerb": 1880,
+        "smoothness": 1084,
+        "surface": 14688,
         "width": 46
       }
     },
     "wheelchair": {
       "grade_bands": {
-        "0": 4287,
+        "0": 4313,
         "1-19": 0,
-        "20-39": 3011,
-        "40-59": 19104,
+        "20-39": 3023,
+        "40-59": 19162,
         "60-79": 4,
         "80-100": 0
       },
       "maximum_grade": 65,
-      "mean_grade": 34.61,
+      "mean_grade": 34.6,
       "minimum_grade": 0,
       "most_common_limiting_factors": {
-        "barrier": 1312,
-        "crossing": 452,
-        "incline": 5134,
-        "kerb": 4408,
-        "smoothness": 1057,
-        "surface": 13996,
+        "barrier": 1327,
+        "crossing": 456,
+        "incline": 5155,
+        "kerb": 4403,
+        "smoothness": 1088,
+        "surface": 14026,
         "width": 47
       }
     }
@@ -113,8 +113,8 @@
   "ruleset_version": "1.1.0",
   "schema_version": 1,
   "slope_source_counts": {
-    "copernicus_glo30": 26247,
-    "copernicus_glo90": 130,
+    "copernicus_glo30": 26342,
+    "copernicus_glo90": 131,
     "direct_osm_numeric": 3,
     "missing": 26
   },
