@@ -1,28 +1,41 @@
 [
     {
-        "id": 191198185,
-        "user": "Wish_F",
-        "uid": 6972989,
-        "comment": "大手町5丁目周辺の情報の追加",
-        "created_at": "2026-10-29T14:59:10Z",
-        "changeset_changes_count": 483,
-        "oswm_changes_count": 25,
-        "changes_count": 483,
-        "additions": 6,
-        "modifications": 19,
-        "deletions": 0
-    },
-    {
-        "id": 191200540,
+        "id": 191245697,
         "user": "Wish_F",
         "uid": 6972989,
         "comment": "Create building and add height/ele/building:levels from PLATEAU building data",
-        "created_at": "2026-10-29T15:52:55Z",
-        "changeset_changes_count": 426,
-        "oswm_changes_count": 18,
-        "changes_count": 426,
-        "additions": 8,
-        "modifications": 10,
+        "created_at": "2026-10-30T16:17:24Z",
+        "changeset_changes_count": 347,
+        "oswm_changes_count": 21,
+        "changes_count": 347,
+        "additions": 7,
+        "modifications": 14,
+        "deletions": 0
+    },
+    {
+        "id": 191242717,
+        "user": "Wish_F",
+        "uid": 6972989,
+        "comment": "カープロード周辺の地物のトレースと情報の修正・追加",
+        "created_at": "2026-10-30T15:10:48Z",
+        "changeset_changes_count": 229,
+        "oswm_changes_count": 9,
+        "changes_count": 229,
+        "additions": 4,
+        "modifications": 5,
+        "deletions": 0
+    },
+    {
+        "id": 191243574,
+        "user": "Wish_F",
+        "uid": 6972989,
+        "comment": "Create building and add height/ele/building:levels from PLATEAU building data",
+        "created_at": "2026-10-30T15:28:58Z",
+        "changeset_changes_count": 365,
+        "oswm_changes_count": 2,
+        "changes_count": 365,
+        "additions": 2,
+        "modifications": 0,
         "deletions": 0
     }
 ]

@@ -4,38 +4,54 @@
     <title>OSWM Watcher Changeset Activity - Hiroshima, Japan</title>
     <link>https://opensidewalkmap.github.io/hiroshima/hub/watcher/index.html</link>
     <description>OSM changeset activity monitoring and deletion watch for OpenSidewalkMap interest features in Hiroshima, Japan.</description>
-    <lastBuildDate>Fri, 30 Oct 2026 16:19:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 15:19:23 GMT</lastBuildDate>
     <item>
-        <title>[Activity] OSM Changeset 191198185 by Wish_F (6 additions, 19 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191198185</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191198185&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Wish_F&quot;&gt;Wish_F&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; 大手町5丁目周辺の情報の追加&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 6&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 19&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191198185&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191198185&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 29 Oct 2026 14:59:10 GMT</pubDate>
-        <guid isPermaLink="false">activity_191198185</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 191200540 by Wish_F (8 additions, 10 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191200540</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191200540&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Wish_F&quot;&gt;Wish_F&lt;/a&gt;&lt;/p&gt;
+        <title>[Activity] OSM Changeset 191245697 by Wish_F (7 additions, 14 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191245697</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191245697&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Wish_F&quot;&gt;Wish_F&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Create building and add height/ele/building:levels from PLATEAU building data&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-    &lt;li&gt;Additions (creations): 8&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 10&lt;/li&gt;
+    &lt;li&gt;Additions (creations): 7&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 14&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191200540&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191200540&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191245697&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191245697&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 29 Oct 2026 15:52:55 GMT</pubDate>
-        <guid isPermaLink="false">activity_191200540</guid>
+        <pubDate>Fri, 30 Oct 2026 16:17:24 GMT</pubDate>
+        <guid isPermaLink="false">activity_191245697</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 191242717 by Wish_F (4 additions, 5 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191242717</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191242717&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Wish_F&quot;&gt;Wish_F&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; カープロード周辺の地物のトレースと情報の修正・追加&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 4&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 5&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191242717&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191242717&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 30 Oct 2026 15:10:48 GMT</pubDate>
+        <guid isPermaLink="false">activity_191242717</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 191243574 by Wish_F (2 additions, 0 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191243574</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191243574&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Wish_F&quot;&gt;Wish_F&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Create building and add height/ele/building:levels from PLATEAU building data&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 2&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 0&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191243574&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191243574&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 30 Oct 2026 15:28:58 GMT</pubDate>
+        <guid isPermaLink="false">activity_191243574</guid>
     </item>
     <item>
         <title>[Alert] High Deletion OSM Changeset 184020827 by okadatsuneo (9 deletions)</title>
@@ -82,15 +98,15 @@
         <guid isPermaLink="false">deletion_alert_182281487</guid>
     </item>
     <item>
-        <title>[Alert] High Deletion OSM Changeset 182545353 by でんりみ (4 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/182545353</link>
-        <description>&lt;p&gt;&lt;strong&gt;High Deletion Alert for OSM Changeset 182545353&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/でんりみ&quot;&gt;でんりみ&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; 情報修正&lt;/p&gt;
+        <title>[Alert] High Deletion OSM Changeset 183967192 by okadatsuneo (4 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/183967192</link>
+        <description>&lt;p&gt;&lt;strong&gt;High Deletion Alert for OSM Changeset 183967192&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/okadatsuneo&quot;&gt;okadatsuneo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Added/updated buildings and other POIs.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Deletions to OSWM features:&lt;/strong&gt; 4&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/182545353&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/182545353&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/183967192&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/183967192&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 12 May 2026 09:29:50 GMT</pubDate>
-        <guid isPermaLink="false">deletion_alert_182545353</guid>
+        <pubDate>Thu, 11 Jun 2026 11:45:36 GMT</pubDate>
+        <guid isPermaLink="false">deletion_alert_183967192</guid>
     </item>
 </channel>
 </rss>
