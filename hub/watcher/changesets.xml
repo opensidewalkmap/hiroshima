@@ -4,7 +4,55 @@
     <title>OSWM Watcher Changeset Activity - Hiroshima, Japan</title>
     <link>https://opensidewalkmap.github.io/hiroshima/hub/watcher/index.html</link>
     <description>OSM changeset activity monitoring and deletion watch for OpenSidewalkMap interest features in Hiroshima, Japan.</description>
-    <lastBuildDate>Thu, 05 Nov 2026 17:39:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 16:46:07 GMT</lastBuildDate>
+    <item>
+        <title>[Activity] OSM Changeset 191514300 by Zunyu (2 additions, 2 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191514300</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191514300&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Zunyu&quot;&gt;Zunyu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; OSM Inspector Geometryの修正&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 2&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 2&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191514300&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191514300&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 Nov 2026 14:23:16 GMT</pubDate>
+        <guid isPermaLink="false">activity_191514300</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 191516379 by Zunyu (0 additions, 3 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191516379</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191516379&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Zunyu&quot;&gt;Zunyu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; OSM Inspector Geometryの修正&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 3&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191516379&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191516379&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 Nov 2026 15:05:51 GMT</pubDate>
+        <guid isPermaLink="false">activity_191516379</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 191515304 by Zunyu (2 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191515304</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191515304&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Zunyu&quot;&gt;Zunyu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; OSM Inspector Geometryの修正&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 2&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191515304&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191515304&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 Nov 2026 14:43:26 GMT</pubDate>
+        <guid isPermaLink="false">activity_191515304</guid>
+    </item>
     <item>
         <title>[Alert] High Deletion OSM Changeset 184020827 by okadatsuneo (9 deletions)</title>
         <link>https://www.openstreetmap.org/changeset/184020827</link>
