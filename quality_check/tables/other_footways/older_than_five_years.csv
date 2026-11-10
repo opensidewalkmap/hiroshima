@@ -996,6 +996,7 @@ osm_id,feat_type,key,value,commentary
 113778872,way,last_update,11-5-2016,Feature has not been updated in 5 years or more
 113784811,way,last_update,18-5-2011,Feature has not been updated in 5 years or more
 113784815,way,last_update,26-5-2013,Feature has not been updated in 5 years or more
+113784827,way,last_update,9-11-2021,Feature has not been updated in 5 years or more
 113784831,way,last_update,5-6-2011,Feature has not been updated in 5 years or more
 113927082,way,last_update,19-5-2011,Feature has not been updated in 5 years or more
 113927089,way,last_update,19-5-2011,Feature has not been updated in 5 years or more
@@ -4534,3 +4535,4 @@ osm_id,feat_type,key,value,commentary
 984823287,way,last_update,19-9-2021,Feature has not been updated in 5 years or more
 988184992,way,last_update,30-9-2021,Feature has not been updated in 5 years or more
 988184993,way,last_update,30-9-2021,Feature has not been updated in 5 years or more
+1000782276,way,last_update,9-11-2021,Feature has not been updated in 5 years or more

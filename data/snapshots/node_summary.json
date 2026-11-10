@@ -1,7 +1,7 @@
 {
     "schema_version": 1,
     "node_name": "Hiroshima, Japan",
-    "generated_at": "2026-10-30T16:06:14.708696+00:00",
+    "generated_at": "2026-11-10T17:02:38.712049+00:00",
     "themes": {
         "footway_categories": {
             "kind": "categorical",
@@ -539,55 +539,55 @@
         "age": {
             "kind": "numeric",
             "total": 27720,
-            "known": 27608,
-            "unknown": 112,
-            "unknownPercent": 0.4,
+            "known": 27720,
+            "unknown": 0,
+            "unknownPercent": 0.0,
             "invalid": 0,
-            "min": 0.013689,
-            "max": 22.223135,
-            "mean": 7.521257,
-            "median": 7.063655,
+            "min": 0.008214,
+            "max": 22.253251,
+            "mean": 7.507782,
+            "median": 7.074606,
             "bins": [
                 {
                     "label": "0–<2",
                     "lower": 0.0,
                     "upper": 2.0,
-                    "count": 7733,
+                    "count": 7831,
                     "color": "#90d743"
                 },
                 {
                     "label": "2–<4",
                     "lower": 2.0,
                     "upper": 4.0,
-                    "count": 3376,
+                    "count": 3407,
                     "color": "#35b779"
                 },
                 {
                     "label": "4–<6",
                     "lower": 4.0,
                     "upper": 6.0,
-                    "count": 1020,
+                    "count": 1021,
                     "color": "#21918c"
                 },
                 {
                     "label": "6–<8",
                     "lower": 6.0,
                     "upper": 8.0,
-                    "count": 3686,
+                    "count": 3270,
                     "color": "#31688e"
                 },
                 {
                     "label": "8–<10",
                     "lower": 8.0,
                     "upper": 10.0,
-                    "count": 1817,
+                    "count": 1899,
                     "color": "#443983"
                 },
                 {
                     "label": "10+",
                     "lower": 10.0,
                     "upper": null,
-                    "count": 9976,
+                    "count": 10292,
                     "color": "#440154"
                 }
             ],
@@ -619,27 +619,27 @@
         "n_revs": {
             "kind": "numeric",
             "total": 27720,
-            "known": 27590,
-            "unknown": 112,
-            "unknownPercent": 0.4,
+            "known": 27702,
+            "unknown": 0,
+            "unknownPercent": 0.0,
             "invalid": 18,
             "min": 1.0,
             "max": 26.0,
-            "mean": 1.649329,
+            "mean": 1.653202,
             "median": 1.0,
             "bins": [
                 {
                     "label": "0–<5",
                     "lower": 0.0,
                     "upper": 5.0,
-                    "count": 26795,
+                    "count": 26887,
                     "color": "#1d1147"
                 },
                 {
                     "label": "5–<10",
                     "lower": 5.0,
                     "upper": 10.0,
-                    "count": 763,
+                    "count": 783,
                     "color": "#51127c"
                 },
                 {

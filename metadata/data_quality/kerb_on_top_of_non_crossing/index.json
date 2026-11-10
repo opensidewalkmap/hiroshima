@@ -70,16 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/hiroshima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-11-08T15:59:13+00:00",
+    "updated": "2026-11-10T17:07:34+00:00",
     "node_registry": {
       "Data Fetching": "2026-10-30T16:05:20Z",
       "Versioning Data": "2026-11-08T15:01:07Z",
-      "Data Pre-Processing": "2026-11-08T15:01:13Z",
-      "Data Quality Tool": "2026-11-08T15:01:24Z",
-      "Completeness Analysis": "2026-10-30T16:12:21Z",
-      "Statistical Charts": "2026-11-08T15:01:31Z",
+      "Data Pre-Processing": "2026-11-10T17:01:46Z",
+      "Data Quality Tool": "2026-11-10T17:02:54Z",
+      "Completeness Analysis": "2026-11-10T17:07:19Z",
+      "Statistical Charts": "2026-11-10T17:07:34Z",
       "OSWM Codebase Revision": "44cafc7c0f582ee1732e515446ed11a418b13afa",
-      "Pipeline Success": "2026-11-08T15:59:13Z",
+      "Pipeline Success": "2026-11-09T19:50:09Z",
       "Wiki check for keys": "2026-11-08T15:04:25Z"
     }
   },
@@ -103,11 +103,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-11-08T15:59:13+00:00",
+    "generated_at": "2026-11-10T17:07:34+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "44cafc7c0f582ee1732e515446ed11a418b13afa",
-      "commit_date": "2026-10-28T18:09:46-03:00"
+      "commit": "3b626494e980a3d0bba34a982b3d43ca4275f541",
+      "commit_date": "2026-11-10T09:20:59-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -119,10 +119,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/data_quality/kerb_on_top_of_non_crossing/kerbs_no_crossing.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 27841,
+      "byte_size": 27840,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "c64ec985d229f6fb22a2b34d3b8f49389d2205b6f85da726b8fe8b2d38ff2b90"
+        "value": "ffffd2a72e3010529be50d0a1ed824df0ec075cd1547be0f897da858dce2a4b6"
       }
     }
   ],

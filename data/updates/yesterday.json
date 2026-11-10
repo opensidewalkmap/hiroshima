@@ -1,1 +1,15 @@
-[]
+[
+    {
+        "id": 191682121,
+        "user": "taketaketake",
+        "uid": 4757277,
+        "comment": "路線情報を修正",
+        "created_at": "2026-11-09T07:58:52Z",
+        "changeset_changes_count": 97,
+        "oswm_changes_count": 1,
+        "changes_count": 97,
+        "additions": 0,
+        "modifications": 1,
+        "deletions": 0
+    }
+]
