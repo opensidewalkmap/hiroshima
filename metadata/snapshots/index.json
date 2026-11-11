@@ -34,16 +34,16 @@
   ],
   "spatial": null,
   "temporal": {
-    "updated": "2026-11-10T17:07:34+00:00",
+    "updated": "2026-11-11T17:10:22+00:00",
     "node_registry": {
       "Data Fetching": "2026-10-30T16:05:20Z",
       "Versioning Data": "2026-11-08T15:01:07Z",
-      "Data Pre-Processing": "2026-11-10T17:01:46Z",
-      "Data Quality Tool": "2026-11-10T17:02:54Z",
-      "Completeness Analysis": "2026-11-10T17:07:19Z",
-      "Statistical Charts": "2026-11-10T17:07:34Z",
-      "OSWM Codebase Revision": "44cafc7c0f582ee1732e515446ed11a418b13afa",
-      "Pipeline Success": "2026-11-09T19:50:09Z",
+      "Data Pre-Processing": "2026-11-11T17:05:43Z",
+      "Data Quality Tool": "2026-11-11T17:06:34Z",
+      "Completeness Analysis": "2026-11-11T17:10:08Z",
+      "Statistical Charts": "2026-11-11T17:10:22Z",
+      "OSWM Codebase Revision": "3b626494e980a3d0bba34a982b3d43ca4275f541",
+      "Pipeline Success": "2026-11-10T17:14:06Z",
       "Wiki check for keys": "2026-11-08T15:04:25Z"
     }
   },
@@ -66,11 +66,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-11-10T17:07:34+00:00",
+    "generated_at": "2026-11-11T17:10:22+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "3b626494e980a3d0bba34a982b3d43ca4275f541",
-      "commit_date": "2026-11-10T09:20:59-03:00"
+      "commit": "6f811852641f5dfab29d522535556999c683d8eb",
+      "commit_date": "2026-11-10T21:33:14-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -82,10 +82,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/snapshots/node_summary.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 23493,
+      "byte_size": 23492,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "a10d64b8be6c68e365649ac470989684a5cc058f6d1da208f5b4b2287209fba8"
+        "value": "ced35c7193b39814df2a140ef19aa39e3bcc2a139a8612b1cf0f726a75affcd3"
       }
     }
   ],

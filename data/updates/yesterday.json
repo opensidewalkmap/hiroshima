@@ -1,13 +1,39 @@
 [
     {
-        "id": 191682121,
+        "id": 191722598,
         "user": "taketaketake",
         "uid": 4757277,
         "comment": "路線情報を修正",
-        "created_at": "2026-11-09T07:58:52Z",
-        "changeset_changes_count": 97,
+        "created_at": "2026-11-10T02:04:38Z",
+        "changeset_changes_count": 740,
+        "oswm_changes_count": 10,
+        "changes_count": 740,
+        "additions": 0,
+        "modifications": 10,
+        "deletions": 0
+    },
+    {
+        "id": 191736969,
+        "user": "Zunyu",
+        "uid": 19079224,
+        "comment": "OSM Inspector Geometryの修正",
+        "created_at": "2026-11-10T11:10:57Z",
+        "changeset_changes_count": 7,
+        "oswm_changes_count": 2,
+        "changes_count": 7,
+        "additions": 0,
+        "modifications": 2,
+        "deletions": 0
+    },
+    {
+        "id": 191737538,
+        "user": "Zunyu",
+        "uid": 19079224,
+        "comment": "OSM Inspector Geometryの修正",
+        "created_at": "2026-11-10T11:26:32Z",
+        "changeset_changes_count": 2,
         "oswm_changes_count": 1,
-        "changes_count": 97,
+        "changes_count": 2,
         "additions": 0,
         "modifications": 1,
         "deletions": 0

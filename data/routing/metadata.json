@@ -1,6 +1,6 @@
 {
   "analytical_network": {
-    "byte_size": 3212907,
+    "byte_size": 3206027,
     "feature_count": 26502,
     "filename": "network.parquet",
     "format": "GeoParquet"
@@ -28,7 +28,7 @@
     ],
     "schema_version": 2,
     "segment_count": 132191,
-    "sha256": "60be48a5cdb4ced2e2ab09583c81532f1119a2b0a6d138e0368661dbaea787e7",
+    "sha256": "caf6ef9391b8d37714e7154a3dd69e0c3c161cec0f729db7794b2b7fcae3f1e1",
     "spatial_index": "uniform_grid",
     "topology_tolerance": 1e-05
   },
@@ -40,20 +40,20 @@
   },
   "elevation_provider_fingerprint": "a4a4bc7ab35d623e",
   "feature_count": 26502,
-  "generated_at": "2026-11-10T17:09:16.376060+00:00",
+  "generated_at": "2026-11-11T17:11:34.206556+00:00",
   "profile_audit": {
     "blind": {
       "grade_bands": {
-        "0": 62,
-        "1-19": 0,
+        "0": 0,
+        "1-19": 62,
         "20-39": 5888,
         "40-59": 20321,
         "60-79": 216,
         "80-100": 15
       },
       "maximum_grade": 84,
-      "mean_grade": 43.98,
-      "minimum_grade": 0,
+      "mean_grade": 44.01,
+      "minimum_grade": 14,
       "most_common_limiting_factors": {
         "crossing": 77,
         "incline": 2862,
@@ -67,15 +67,15 @@
     },
     "elderly": {
       "grade_bands": {
-        "0": 3352,
-        "1-19": 961,
-        "20-39": 2570,
+        "0": 1,
+        "1-19": 4140,
+        "20-39": 2742,
         "40-59": 19503,
         "60-79": 116,
         "80-100": 0
       },
       "maximum_grade": 78,
-      "mean_grade": 38.15,
+      "mean_grade": 40.09,
       "minimum_grade": 0,
       "most_common_limiting_factors": {
         "crossing": 3127,
@@ -88,15 +88,15 @@
     },
     "wheelchair": {
       "grade_bands": {
-        "0": 4313,
-        "1-19": 0,
-        "20-39": 3023,
+        "0": 1339,
+        "1-19": 2908,
+        "20-39": 3089,
         "40-59": 19162,
         "60-79": 4,
         "80-100": 0
       },
       "maximum_grade": 65,
-      "mean_grade": 34.6,
+      "mean_grade": 36.46,
       "minimum_grade": 0,
       "most_common_limiting_factors": {
         "barrier": 1327,
@@ -109,8 +109,8 @@
       }
     }
   },
-  "ruleset_hash": "90797572d833bc88",
-  "ruleset_version": "1.1.0",
+  "ruleset_hash": "7ae40754cf77b3e2",
+  "ruleset_version": "1.2.0",
   "schema_version": 1,
   "slope_source_counts": {
     "copernicus_glo30": 26342,

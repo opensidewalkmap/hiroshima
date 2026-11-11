@@ -70,16 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/hiroshima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-11-10T17:07:34+00:00",
+    "updated": "2026-11-11T17:10:22+00:00",
     "node_registry": {
       "Data Fetching": "2026-10-30T16:05:20Z",
       "Versioning Data": "2026-11-08T15:01:07Z",
-      "Data Pre-Processing": "2026-11-10T17:01:46Z",
-      "Data Quality Tool": "2026-11-10T17:02:54Z",
-      "Completeness Analysis": "2026-11-10T17:07:19Z",
-      "Statistical Charts": "2026-11-10T17:07:34Z",
-      "OSWM Codebase Revision": "44cafc7c0f582ee1732e515446ed11a418b13afa",
-      "Pipeline Success": "2026-11-09T19:50:09Z",
+      "Data Pre-Processing": "2026-11-11T17:05:43Z",
+      "Data Quality Tool": "2026-11-11T17:06:34Z",
+      "Completeness Analysis": "2026-11-11T17:10:08Z",
+      "Statistical Charts": "2026-11-11T17:10:22Z",
+      "OSWM Codebase Revision": "3b626494e980a3d0bba34a982b3d43ca4275f541",
+      "Pipeline Success": "2026-11-10T17:14:06Z",
       "Wiki check for keys": "2026-11-08T15:04:25Z"
     }
   },
@@ -103,11 +103,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-11-10T17:07:34+00:00",
+    "generated_at": "2026-11-11T17:10:22+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "3b626494e980a3d0bba34a982b3d43ca4275f541",
-      "commit_date": "2026-11-10T09:20:59-03:00"
+      "commit": "6f811852641f5dfab29d522535556999c683d8eb",
+      "commit_date": "2026-11-10T21:33:14-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -119,10 +119,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/routing/metadata.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 2951,
+      "byte_size": 2954,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "175a34184905adab0b230bce9a8254375f2269de5489d6e99691a8e3f9650d31"
+        "value": "c3f63d16611a9a24a38f05fbbf0ff0d00a40deaa3ea57dd1ea1767a2bcb8052a"
       }
     },
     {
@@ -134,7 +134,7 @@
       "byte_size": 9562504,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "60be48a5cdb4ced2e2ab09583c81532f1119a2b0a6d138e0368661dbaea787e7"
+        "value": "caf6ef9391b8d37714e7154a3dd69e0c3c161cec0f729db7794b2b7fcae3f1e1"
       }
     },
     {
@@ -143,10 +143,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/routing/network.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 3212907,
+      "byte_size": 3206027,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "714c708e984f9db66640bb449d82071755c00b9b9dad9126f2e6e69532c92975"
+        "value": "a8108bbf154cc86552d95640cdd7b87a8c4e33d588e888847afab0582501c79b"
       }
     },
     {
@@ -155,10 +155,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/routing/network.pmtiles.metadata.json",
       "media_type": "application/vnd.pmtiles",
       "format": "PMTiles",
-      "byte_size": 3492367,
+      "byte_size": 3492368,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "647396657f98f807026959bec72265dbc6eb15ab6a0f31f6946b6b2c1e55c770"
+        "value": "8f0603f5029730cef31dc8c76374d3310f400f297c2221d2c7b6d751fc83c9f7"
       }
     },
     {
@@ -170,7 +170,7 @@
       "byte_size": 3922,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "f31835099eba579073416178c44452e9918346df715ced993041301ba2c9fb71"
+        "value": "bdf96090761dc944951b0eee140031e4a4b45789ebc0013747161deacbe0c278"
       }
     },
     {
@@ -194,7 +194,7 @@
       "byte_size": 218,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "2bb5d259b978fac9f4ed45594c1e57cc5c7fd6293dc608b799adebe0fda4569b"
+        "value": "04ac9f1f1dfcf68bec7c2a33d9d6d2158c33f06ddebe7b13a7dfe0ecdb303d95"
       }
     }
   ],
