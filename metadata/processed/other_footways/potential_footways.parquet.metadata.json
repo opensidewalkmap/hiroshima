@@ -70,17 +70,17 @@
     "geometry": "https://opensidewalkmap.github.io/hiroshima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-11-13T17:17:12+00:00",
+    "updated": "2026-11-15T15:39:33+00:00",
     "node_registry": {
       "Data Fetching": "2026-10-30T16:05:20Z",
-      "Versioning Data": "2026-11-08T15:01:07Z",
-      "Data Pre-Processing": "2026-11-11T17:05:43Z",
-      "Data Quality Tool": "2026-11-11T17:06:34Z",
+      "Versioning Data": "2026-11-15T15:36:18Z",
+      "Data Pre-Processing": "2026-11-15T15:36:25Z",
+      "Data Quality Tool": "2026-11-15T15:36:35Z",
       "Completeness Analysis": "2026-11-11T17:10:08Z",
-      "Statistical Charts": "2026-11-11T17:10:22Z",
+      "Statistical Charts": "2026-11-15T15:36:42Z",
       "OSWM Codebase Revision": "6f811852641f5dfab29d522535556999c683d8eb",
-      "Pipeline Success": "2026-11-13T17:17:12Z",
-      "Wiki check for keys": "2026-11-08T15:04:25Z"
+      "Pipeline Success": "2026-11-14T15:47:29Z",
+      "Wiki check for keys": "2026-11-15T15:39:33Z"
     }
   },
   "lineage": {
@@ -102,7 +102,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-11-13T17:17:12+00:00",
+    "generated_at": "2026-11-15T15:39:33+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "6f811852641f5dfab29d522535556999c683d8eb",
@@ -117,10 +117,10 @@
     "download_url": "https://opensidewalkmap.github.io/hiroshima/data/processed/other_footways/potential_footways.parquet",
     "media_type": "application/vnd.apache.parquet",
     "format": "GeoParquet",
-    "byte_size": 1010494,
+    "byte_size": 1010572,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "a1d578a1718e3f29ae3ce703d77877470c3ff55b44f081690dabda0e86f225da"
+      "value": "7bfec470c9de6613d11eb28be4fb682d4524a8ba85303c39ebb17d3bd5f4fbd1"
     }
   },
   "links": [
