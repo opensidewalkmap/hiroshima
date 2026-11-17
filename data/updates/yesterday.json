@@ -1,1 +1,15 @@
-[]
+[
+    {
+        "id": 192039711,
+        "user": "Wish_F",
+        "uid": 6972989,
+        "comment": "Create building and add height/ele/building:levels from PLATEAU building data",
+        "created_at": "2026-11-16T16:17:56Z",
+        "changeset_changes_count": 372,
+        "oswm_changes_count": 7,
+        "changes_count": 372,
+        "additions": 0,
+        "modifications": 7,
+        "deletions": 0
+    }
+]
