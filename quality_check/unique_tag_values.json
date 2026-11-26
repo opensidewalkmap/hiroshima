@@ -235,15 +235,15 @@
             "天満歩道橋",
             "広電天満橋"
         ],
+        "check_date": [
+            "2025-06-21",
+            "2025-08-03"
+        ],
         "cycleway:right": [
             "lane"
         ],
         "cycleway:left": [
             "lane"
-        ],
-        "check_date": [
-            "2025-06-21",
-            "2025-08-03"
         ],
         "bridge:name:en": [
             "Sakae Bridge"
@@ -369,8 +369,8 @@
             "yes"
         ],
         "crossing:island": [
-            "yes",
-            "no"
+            "no",
+            "yes"
         ],
         "crossing:signals": [
             "yes",
@@ -684,6 +684,7 @@
             "御門橋",
             "跨虹橋",
             "己斐橋歩道橋",
+            "Gate Park Plaza",
             "文化の道",
             "市道押手山線",
             "押手山林道",
@@ -788,6 +789,7 @@
             "横川 くろすろーど",
             "御門橋",
             "己斐橋歩道橋",
+            "ゲートパークプラザ",
             "備中橋",
             "鈴ヶ峰登山コース",
             "波出石歩道橋",
@@ -825,6 +827,7 @@
             "World Heritage Sea Route",
             "Main Gate Bridge",
             "Straddling rainbow bridge",
+            "Gate Park Plaza",
             "Promenade of Culture",
             "Hondori",
             "Retro Bus Square",
@@ -874,7 +877,8 @@
             "no"
         ],
         "old_name": [
-            "国道433号"
+            "国道433号",
+            "広島市民球場"
         ],
         "barrier": [
             "bollard",
@@ -931,7 +935,8 @@
             "0",
             "1",
             "0;1",
-            "-2"
+            "-2",
+            "1;2"
         ],
         "motorcar": [
             "no"
@@ -1112,6 +1117,7 @@
         ],
         "name:es": [
             "Puente de la Puerta",
+            "Plaza Gate Park",
             "Paseo de la Paz"
         ],
         "name:fr": [
@@ -1216,6 +1222,20 @@
             "Q11479447",
             "Q11547459"
         ],
+        "check_date": [
+            "2026-03-18",
+            "2026-03-22",
+            "2024-11-29"
+        ],
+        "old_name:en": [
+            "Hiroshima Municipal Stadium"
+        ],
+        "place": [
+            "square"
+        ],
+        "start_date": [
+            "2023-03-31"
+        ],
         "yh:STRUCTURE": [
             "地上",
             "橋"
@@ -1267,19 +1287,12 @@
             "separate",
             "yes"
         ],
-        "check_date": [
-            "2026-03-22",
-            "2024-11-29"
-        ],
         "abutters": [
             "retail"
         ],
         "fixme": [
             "根谷川拡張で土手上の道路が大幅に移動したことにより、この小道の接続位置の現状は不詳です",
             "Exact location unknown"
-        ],
-        "place": [
-            "square"
         ],
         "ramp:wheelchair": [
             "separate"

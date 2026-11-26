@@ -65,16 +65,16 @@
     "geometry": "https://opensidewalkmap.github.io/hiroshima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-11-24T20:10:30+00:00",
+    "updated": "2026-11-26T19:07:26+00:00",
     "node_registry": {
-      "Data Fetching": "2026-10-30T16:05:20Z",
+      "Data Fetching": "2026-11-26T19:01:18Z",
       "Versioning Data": "2026-11-22T16:11:56Z",
-      "Data Pre-Processing": "2026-11-22T16:12:01Z",
-      "Data Quality Tool": "2026-11-22T16:12:07Z",
-      "Completeness Analysis": "2026-11-11T17:10:08Z",
-      "Statistical Charts": "2026-11-22T16:12:12Z",
+      "Data Pre-Processing": "2026-11-26T19:01:23Z",
+      "Data Quality Tool": "2026-11-26T19:02:13Z",
+      "Completeness Analysis": "2026-11-26T19:07:14Z",
+      "Statistical Charts": "2026-11-26T19:07:26Z",
       "OSWM Codebase Revision": "6f811852641f5dfab29d522535556999c683d8eb",
-      "Pipeline Success": "2026-11-24T20:10:30Z",
+      "Pipeline Success": "2026-11-25T19:16:19Z",
       "Wiki check for keys": "2026-11-22T16:14:32Z"
     }
   },
@@ -98,7 +98,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-11-24T20:10:30+00:00",
+    "generated_at": "2026-11-26T19:07:26+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "6f811852641f5dfab29d522535556999c683d8eb",
@@ -117,7 +117,7 @@
       "byte_size": 73,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "73bf0723acfbdff73d2a7046e7f05006e212ded70acbb42b0004a19de4be0dd0"
+        "value": "3f34643243a3eabb932977f97784f2ff601a50e186cb6e4fd813da396b90f2ad"
       }
     },
     {
@@ -141,7 +141,7 @@
       "byte_size": 3425,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "c715385ac15922131610c01df08c8f1ab9587da7a3d69235d441f06622c7822c"
+        "value": "a14263087d91122bf888bd204c20aeba76d484b2e4ceb2a7d5710ccbc5c98ee4"
       }
     },
     {
@@ -150,10 +150,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/updates/pipeline_decision.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 353,
+      "byte_size": 376,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "7d4d670f767b5ebb3cf0fd43986c6582aa4fc10b471caaeed977e2a82a846cb9"
+        "value": "6ee12f69dcdeadbd213750188b8e4ab034135e28765dfc1a5a3a22aaf42ea558"
       }
     },
     {
@@ -162,10 +162,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/updates/registry.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 471,
+      "byte_size": 470,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "364f148cc077f7c15d2c7e9c84200fc0bc468ab8794888f9dc1d66548768bda9"
+        "value": "c76ba6b44fc48b1616ddcb8f964b5ddd610b2faaece17b80fa046125ca09b47e"
       }
     },
     {
@@ -174,10 +174,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/updates/watcher_decision.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 231,
+      "byte_size": 226,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "08b6647cbd9bf75fc6c73ae513a61b8d9fe7e862dfb4c6b70970af41d69cef69"
+        "value": "868262c301594e22cb4a2efe56b834880de3d265b45044a9ac0352a3f9bbddd7"
       }
     },
     {
@@ -189,7 +189,7 @@
       "byte_size": 93566,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "33a11eb6b518a30ec7c375f3c06813663fda6a727828d03504de3dc6f214c225"
+        "value": "e658c7f3c18cbde62219a5974cce6c31fe52eb7c34cfd5bc0c360cd33a096a27"
       }
     },
     {
@@ -198,10 +198,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/updates/yesterday.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 2,
+      "byte_size": 594,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+        "value": "d9238df6c58545177a76f0749477b875151668abb2222455e13c1d4479425d5f"
       }
     }
   ],

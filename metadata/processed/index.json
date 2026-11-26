@@ -70,16 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/hiroshima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-11-24T20:10:30+00:00",
+    "updated": "2026-11-26T19:07:26+00:00",
     "node_registry": {
-      "Data Fetching": "2026-10-30T16:05:20Z",
+      "Data Fetching": "2026-11-26T19:01:18Z",
       "Versioning Data": "2026-11-22T16:11:56Z",
-      "Data Pre-Processing": "2026-11-22T16:12:01Z",
-      "Data Quality Tool": "2026-11-22T16:12:07Z",
-      "Completeness Analysis": "2026-11-11T17:10:08Z",
-      "Statistical Charts": "2026-11-22T16:12:12Z",
+      "Data Pre-Processing": "2026-11-26T19:01:23Z",
+      "Data Quality Tool": "2026-11-26T19:02:13Z",
+      "Completeness Analysis": "2026-11-26T19:07:14Z",
+      "Statistical Charts": "2026-11-26T19:07:26Z",
       "OSWM Codebase Revision": "6f811852641f5dfab29d522535556999c683d8eb",
-      "Pipeline Success": "2026-11-24T20:10:30Z",
+      "Pipeline Success": "2026-11-25T19:16:19Z",
       "Wiki check for keys": "2026-11-22T16:14:32Z"
     }
   },
@@ -102,7 +102,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-11-24T20:10:30+00:00",
+    "generated_at": "2026-11-26T19:07:26+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "6f811852641f5dfab29d522535556999c683d8eb",
@@ -118,10 +118,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/processed/crossings.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 424424,
+      "byte_size": 424962,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "794e5b86a36217405fa1d1577f95f4f778070516e7114bff38007193471b260a"
+        "value": "18751383e60227990ac6a3690703d2e53655176b2bee395281fa7b6348ed026d"
       }
     },
     {
@@ -130,10 +130,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/processed/kerbs.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 58929,
+      "byte_size": 59020,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "aa53a084461a6076e1e18f1e8c2e73af52072738fd19c87bd0f6cf46aa7ada07"
+        "value": "d065baeeef2c68fc7ac943136397bc64d7bd38bd8c5d5f1b1363dd1d3cd48690"
       }
     },
     {
@@ -142,10 +142,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/processed/other_footways.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 1449788,
+      "byte_size": 1476972,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "9e84d433f1bf0e90376a000593a5934da4468f53e81c5f96a076db1eb3619fb7"
+        "value": "803b34aa81c2e35e292e99fce5ff7a04cfacf478bb4d3edbe5ff500268bad7c3"
       }
     },
     {
@@ -154,10 +154,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/processed/roads_for_completeness.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 5845677,
+      "byte_size": 5801019,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "95dd628f6d8fd928b9866856a6fff19e592a8fdd836619bbfa2a8ffc6f2052f1"
+        "value": "6dfe5f17043241dc0a1ebe3a525d078ccdaeaef675d9bfbddff7ee43f3c49b7b"
       }
     },
     {
@@ -178,10 +178,10 @@
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/processed/sidewalks.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 967391,
+      "byte_size": 969778,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "e2d15aaba0de8eaa0989867e37cceeb7691d7485523975aec0e40d28832fa89a"
+        "value": "a6c71e1905b9d845b86d3b9b9116f009ad94215ec34cc3e4dcaaab074493b8b8"
       }
     }
   ],

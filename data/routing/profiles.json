@@ -3,7 +3,7 @@
   "display_source_layer": "routing",
   "display_tiles_filename": "network.pmtiles",
   "distance_profile_id": "distance",
-  "graph_byte_size": 9562504,
+  "graph_byte_size": 9583772,
   "graph_filename": "network.oswmg",
   "graph_profile_order": [
     "distance",
@@ -12,7 +12,7 @@
     "elderly"
   ],
   "graph_schema_version": 2,
-  "graph_sha256": "caf6ef9391b8d37714e7154a3dd69e0c3c161cec0f729db7794b2b7fcae3f1e1",
+  "graph_sha256": "a1b5ee2212e399c2278d2c1c936c50a18e60dcd280d3daa01066b223a25a126d",
   "profiles": {
     "blind": {
       "cost": {
