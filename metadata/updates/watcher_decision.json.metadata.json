@@ -34,7 +34,7 @@
   ],
   "spatial": null,
   "temporal": {
-    "updated": "2026-11-26T19:07:26+00:00",
+    "updated": "2026-11-26T19:12:09+00:00",
     "node_registry": {
       "Data Fetching": "2026-11-26T19:01:18Z",
       "Versioning Data": "2026-11-22T16:11:56Z",
@@ -43,7 +43,7 @@
       "Completeness Analysis": "2026-11-26T19:07:14Z",
       "Statistical Charts": "2026-11-26T19:07:26Z",
       "OSWM Codebase Revision": "6f811852641f5dfab29d522535556999c683d8eb",
-      "Pipeline Success": "2026-11-25T19:16:19Z",
+      "Pipeline Success": "2026-11-26T19:12:09Z",
       "Wiki check for keys": "2026-11-22T16:14:32Z"
     }
   },
@@ -67,7 +67,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-11-26T19:07:26+00:00",
+    "generated_at": "2026-11-26T19:12:09+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "6f811852641f5dfab29d522535556999c683d8eb",
@@ -82,10 +82,10 @@
     "download_url": "https://opensidewalkmap.github.io/hiroshima/data/updates/watcher_decision.json",
     "media_type": "application/json",
     "format": "JSON",
-    "byte_size": 226,
+    "byte_size": 231,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "868262c301594e22cb4a2efe56b834880de3d265b45044a9ac0352a3f9bbddd7"
+      "value": "76489569fec5e0e3bdeba775b97133b75529587b6b85601ba5a5aa7d4fbf9dad"
     }
   },
   "links": [

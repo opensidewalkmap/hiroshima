@@ -70,7 +70,7 @@
     "geometry": "https://opensidewalkmap.github.io/hiroshima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-11-26T19:07:26+00:00",
+    "updated": "2026-11-26T19:12:09+00:00",
     "node_registry": {
       "Data Fetching": "2026-11-26T19:01:18Z",
       "Versioning Data": "2026-11-22T16:11:56Z",
@@ -79,7 +79,7 @@
       "Completeness Analysis": "2026-11-26T19:07:14Z",
       "Statistical Charts": "2026-11-26T19:07:26Z",
       "OSWM Codebase Revision": "6f811852641f5dfab29d522535556999c683d8eb",
-      "Pipeline Success": "2026-11-25T19:16:19Z",
+      "Pipeline Success": "2026-11-26T19:12:09Z",
       "Wiki check for keys": "2026-11-22T16:14:32Z"
     }
   },
@@ -103,7 +103,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-11-26T19:07:26+00:00",
+    "generated_at": "2026-11-26T19:12:09+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "6f811852641f5dfab29d522535556999c683d8eb",
@@ -115,18 +115,6 @@
   "assets": [
     {
       "title": "Features Blind",
-      "resource": "https://opensidewalkmap.github.io/hiroshima/data/hazard_analysis/features_blind.geojson",
-      "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/hazard_analysis/features_blind.geojson.metadata.json",
-      "media_type": "application/geo+json",
-      "format": "GeoJSON",
-      "byte_size": 26588712,
-      "checksum": {
-        "algorithm": "SHA-256",
-        "value": "fddcfde0411ded7c525199e92ea640d7c0fb65eb8afe23e46b8f51937a3dcaf0"
-      }
-    },
-    {
-      "title": "Features Blind",
       "resource": "https://opensidewalkmap.github.io/hiroshima/data/hazard_analysis/features_blind.parquet",
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/hazard_analysis/features_blind.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
@@ -135,18 +123,6 @@
       "checksum": {
         "algorithm": "SHA-256",
         "value": "4e7ca17be5d77bc7ba3d3dad65fc821c8b88bf75475d61ca213f7b7ae6bdeb3e"
-      }
-    },
-    {
-      "title": "Features Elderly",
-      "resource": "https://opensidewalkmap.github.io/hiroshima/data/hazard_analysis/features_elderly.geojson",
-      "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/hazard_analysis/features_elderly.geojson.metadata.json",
-      "media_type": "application/geo+json",
-      "format": "GeoJSON",
-      "byte_size": 26788997,
-      "checksum": {
-        "algorithm": "SHA-256",
-        "value": "a3615a2de5eafec608bd9c7a9aeacf1faf44169d8aab5cc306cc88a2dc60b864"
       }
     },
     {
@@ -163,18 +139,6 @@
     },
     {
       "title": "Features Pedestrian",
-      "resource": "https://opensidewalkmap.github.io/hiroshima/data/hazard_analysis/features_pedestrian.geojson",
-      "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/hazard_analysis/features_pedestrian.geojson.metadata.json",
-      "media_type": "application/geo+json",
-      "format": "GeoJSON",
-      "byte_size": 26638079,
-      "checksum": {
-        "algorithm": "SHA-256",
-        "value": "f2d1f04f53d9b4338d0d112a2c0f91bca2f612aa06d86b2f0cb2bfd5763b1603"
-      }
-    },
-    {
-      "title": "Features Pedestrian",
       "resource": "https://opensidewalkmap.github.io/hiroshima/data/hazard_analysis/features_pedestrian.parquet",
       "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/hazard_analysis/features_pedestrian.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
@@ -183,18 +147,6 @@
       "checksum": {
         "algorithm": "SHA-256",
         "value": "22b629119e7dd100cccd0fd972d7f8ce4bba2146b4dd532e3921cbfcb79792e6"
-      }
-    },
-    {
-      "title": "Features Wheelchair",
-      "resource": "https://opensidewalkmap.github.io/hiroshima/data/hazard_analysis/features_wheelchair.geojson",
-      "metadata": "https://opensidewalkmap.github.io/hiroshima/metadata/hazard_analysis/features_wheelchair.geojson.metadata.json",
-      "media_type": "application/geo+json",
-      "format": "GeoJSON",
-      "byte_size": 26772010,
-      "checksum": {
-        "algorithm": "SHA-256",
-        "value": "5fab6842b5940d70ca844b3d98bf5372da7ca02bef982e6a6772c923ef819e75"
       }
     },
     {

@@ -1,15 +1,1 @@
-[
-    {
-        "id": 192458828,
-        "user": "ecstrema",
-        "uid": 9038831,
-        "comment": "Fix climbing length which, as per the documentation, should not include the unit.\n\nAlso, some climbing elements were missing sport=climbing\n\nFinally areas contain crags and other areas, crags contain routes. So crags that contained crags were changed.",
-        "created_at": "2026-11-25T16:34:33Z",
-        "changeset_changes_count": 565,
-        "oswm_changes_count": 1,
-        "changes_count": 565,
-        "additions": 0,
-        "modifications": 1,
-        "deletions": 0
-    }
-]
+[]
